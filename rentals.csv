@@ -99,6 +99,416 @@ ListingID,Month,Quarter,Page,Price,Currency,Property Type,Location,Bedrooms,Bath
 98,January,1,5,1470.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Estate Agent,Dublin City North,1,735.0,ShortTerm
 99,January,1,5,4190.0,EUR,Apartment,Dublin City South - Dublin 6,3,2,Yes,No,12,Estate Agent,Dublin City South,6,1396.67,LongTerm
 100,January,1,5,1750.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1750.0,LongTerm
+101,January,1,6,1620.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1620.0,LongTerm
+102,January,1,6,2460.0,EUR,Apartment,Dublin City South - Dublin 12,2,2,Yes,No,6,Estate Agent,Dublin City South,12,1230.0,ShortTerm
+103,January,1,6,2900.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,12,Owner,Dublin City South,2,1450.0,LongTerm
+104,January,1,6,2320.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,6,Owner,Dublin City South,2,2320.0,ShortTerm
+105,January,1,6,5220.0,EUR,House,Dublin City South - Dublin 2,4,1,Yes,Yes,3,Estate Agent,Dublin City South,2,1305.0,ShortTerm
+106,January,1,6,1240.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1240.0,LongTerm
+107,January,1,6,1010.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,No,No,12,Estate Agent,Dublin City South,6,505.0,LongTerm
+108,January,1,6,6030.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,,No,12,Owner,Dublin City South,2,2010.0,LongTerm
+109,January,1,6,1830.0,EUR,Apartment,Dublin City South - Dublin 20,3,2,No,No,3,Estate Agent,Dublin City South,20,610.0,ShortTerm
+110,January,1,6,5340.0,EUR,House,North Co Dublin,4,2,Yes,Yes,3,Owner,North Co Dublin,,1335.0,ShortTerm
+111,January,1,6,3820.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,3,Owner,Dublin City South,2,1910.0,ShortTerm
+112,January,1,6,2600.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1300.0,LongTerm
+113,January,1,6,1880.0,EUR,House,Dublin City North - Dublin 17,3,2,No,Yes,6,Owner,Dublin City North,17,626.67,ShortTerm
+114,January,1,6,1800.0,EUR,Apartment,South Co Dublin,1,2,No,No,12,Estate Agent,South Co Dublin,,1800.0,LongTerm
+115,January,1,6,2990.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,No,No,12,Estate Agent,Dublin City South,4,1495.0,LongTerm
+116,January,1,6,1130.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,No,No,12,Estate Agent,Dublin City South,8,565.0,LongTerm
+117,January,1,6,2280.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Owner,Dublin City South,2,1140.0,ShortTerm
+118,January,1,6,2240.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1120.0,LongTerm
+119,January,1,6,2260.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,3,Estate Agent,Dublin City North,1,2260.0,ShortTerm
+120,January,1,6,5450.0,EUR,House,Dublin City North - Dublin 5,5,4,Yes,Yes,6,Estate Agent,Dublin City North,5,1090.0,ShortTerm
+121,January,1,7,800.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Estate Agent,Dublin City South,24,800.0,LongTerm
+122,January,1,7,890.0,EUR,Apartment,Dublin City South - Dublin 12,2,2,No,No,12,Estate Agent,Dublin City South,12,445.0,LongTerm
+123,January,1,7,4460.0,EUR,House,Dublin City South - Dublin 8,3,2,No,Yes,3,Estate Agent,Dublin City South,8,1486.67,ShortTerm
+124,January,1,7,1530.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,Yes,No,12,Estate Agent,Dublin City North,9,1530.0,LongTerm
+125,January,1,7,2520.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1260.0,LongTerm
+126,January,1,7,2620.0,EUR,House,Dublin City South - Dublin 8,3,2,Yes,,12,Owner,Dublin City South,8,873.33,LongTerm
+127,January,1,7,1850.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1850.0,LongTerm
+128,January,1,7,1970.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1970.0,LongTerm
+129,January,1,7,940.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,,12,Estate Agent,Dublin City North,1,940.0,LongTerm
+130,January,1,7,3720.0,EUR,House,Dublin City North - Dublin 15,4,4,Yes,Yes,3,Owner,Dublin City North,15,930.0,ShortTerm
+131,January,1,7,1730.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1730.0,LongTerm
+132,January,1,7,1980.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Owner,Dublin City South,2,1980.0,LongTerm
+133,January,1,7,2760.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1380.0,LongTerm
+134,January,1,7,3350.0,EUR,Apartment,Dublin City North - Dublin 17,3,1,No,No,12,Estate Agent,Dublin City North,17,1116.67,LongTerm
+135,January,1,7,1230.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1230.0,LongTerm
+136,January,1,7,4000.0,EUR,House,Dublin City North - Dublin 15,4,1,No,Yes,6,Estate Agent,Dublin City North,15,1000.0,ShortTerm
+137,January,1,7,2960.0,EUR,House,Dublin City South - Dublin 24,3,2,Yes,Yes,12,Owner,Dublin City South,24,986.67,LongTerm
+138,January,1,7,1160.0,EUR,Apartment,Dublin City North - Dublin 9,1,2,No,No,3,Estate Agent,Dublin City North,9,1160.0,ShortTerm
+139,January,1,7,2990.0,EUR,Apartment,Dublin City North - Dublin 9,2,2,No,No,3,Owner,Dublin City North,9,1495.0,ShortTerm
+140,January,1,7,1220.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,6,Estate Agent,Dublin City South,20,610.0,ShortTerm
+141,January,1,8,4490.0,EUR,House,Dublin City North - Dublin 3,3,2,Yes,Yes,6,Owner,Dublin City North,3,1496.67,ShortTerm
+142,January,1,8,2590.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1295.0,LongTerm
+143,January,1,8,4530.0,EUR,Apartment,Dublin City South - Dublin 4,3,1,No,,12,Owner,Dublin City South,4,1510.0,LongTerm
+144,January,1,8,670.0,EUR,Apartment,Dublin City South - Dublin 22,1,2,Yes,No,12,Estate Agent,Dublin City South,22,670.0,LongTerm
+145,January,1,8,1180.0,EUR,Apartment,Dublin City North - Dublin 3,1,2,No,No,12,Estate Agent,Dublin City North,3,1180.0,LongTerm
+146,January,1,8,1210.0,EUR,Apartment,Dublin City South - Dublin 10,1,1,Yes,,6,Estate Agent,Dublin City South,10,1210.0,ShortTerm
+147,January,1,8,6320.0,EUR,House,Dublin City North - Dublin 1,3,2,Yes,,3,Estate Agent,Dublin City North,1,2106.67,ShortTerm
+148,January,1,8,1860.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Estate Agent,Dublin City South,2,930.0,ShortTerm
+149,January,1,8,2910.0,EUR,House,Dublin City South - Dublin 10,3,1,Yes,Yes,12,Owner,Dublin City South,10,970.0,LongTerm
+150,January,1,8,1400.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,,No,12,Estate Agent,Dublin City South,8,1400.0,LongTerm
+151,January,1,8,1210.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,6,Estate Agent,Dublin City North,1,1210.0,ShortTerm
+152,January,1,8,1520.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,Yes,No,12,Estate Agent,Dublin City South,6,1520.0,LongTerm
+153,January,1,8,3750.0,EUR,House,Dublin City South - Dublin 16,3,2,,Yes,12,Owner,Dublin City South,16,1250.0,LongTerm
+154,January,1,8,1270.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,12,Owner,Dublin City North,1,1270.0,LongTerm
+155,January,1,8,5890.0,EUR,House,Dublin City North - Dublin 5,3,2,No,Yes,3,Owner,Dublin City North,5,1963.33,ShortTerm
+156,January,1,8,5220.0,EUR,Apartment,Dublin City North - Dublin 9,3,2,,No,3,Estate Agent,Dublin City North,9,1740.0,ShortTerm
+157,January,1,8,5010.0,EUR,House,Dublin City South - Dublin 8,3,2,Yes,Yes,12,Estate Agent,Dublin City South,8,1670.0,LongTerm
+158,January,1,8,1540.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,Yes,No,12,Estate Agent,Dublin City South,24,770.0,LongTerm
+159,January,1,8,2590.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,,Estate Agent,Dublin City South,2,1295.0,Unknown
+160,January,1,8,2100.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2100.0,LongTerm
+161,January,1,9,2110.0,EUR,House,Dublin City North - Dublin 11,2,1,No,Yes,12,Estate Agent,Dublin City North,11,1055.0,LongTerm
+162,January,1,9,2680.0,EUR,Apartment,Dublin City South - Dublin 18,3,1,Yes,No,6,Estate Agent,Dublin City South,18,893.33,ShortTerm
+163,January,1,9,940.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,940.0,LongTerm
+164,January,1,9,4450.0,EUR,House,Dublin City South - Dublin 10,2,2,No,,12,Owner,Dublin City South,10,2225.0,LongTerm
+165,January,1,9,5190.0,EUR,House,Dublin City South - Dublin 6,4,2,No,Yes,12,Owner,Dublin City South,6,1297.5,LongTerm
+166,January,1,9,2110.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,1055.0,LongTerm
+167,January,1,9,3320.0,EUR,House,Dublin City North - Dublin 7,4,3,Yes,Yes,3,Estate Agent,Dublin City North,7,830.0,ShortTerm
+168,January,1,9,2010.0,EUR,Apartment,South Co Dublin,2,1,No,No,12,Owner,South Co Dublin,,1005.0,LongTerm
+169,January,1,9,2270.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1135.0,LongTerm
+170,February,1,9,2390.0,EUR,House,Dublin City South - Dublin 6W,3,2,Yes,Yes,12,Estate Agent,Dublin City South,6W,796.67,LongTerm
+171,February,1,9,1000.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1000.0,LongTerm
+172,February,1,9,3620.0,EUR,House,Dublin City South - Dublin 2,4,3,No,Yes,12,Owner,Dublin City South,2,905.0,LongTerm
+173,February,1,9,1200.0,EUR,Apartment,South Co Dublin,1,1,No,No,6,Estate Agent,South Co Dublin,,1200.0,ShortTerm
+174,February,1,9,2140.0,EUR,House,Dublin City South - Dublin 20,3,2,Yes,No,12,Owner,Dublin City South,20,713.33,LongTerm
+175,February,1,9,1130.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,Yes,No,12,Estate Agent,Dublin City South,22,1130.0,LongTerm
+176,February,1,9,2520.0,EUR,Apartment,Dublin City North - Dublin 9,2,2,No,No,12,Estate Agent,Dublin City North,9,1260.0,LongTerm
+177,February,1,9,1070.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Owner,Dublin City South,2,1070.0,LongTerm
+178,February,1,9,1370.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,,6,Estate Agent,Dublin City South,2,685.0,ShortTerm
+179,February,1,9,1880.0,EUR,Apartment,Dublin City South - Dublin 4,1,1,No,,12,Estate Agent,Dublin City South,4,1880.0,LongTerm
+180,February,1,9,1410.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,12,Owner,Dublin City South,2,705.0,LongTerm
+181,February,1,10,920.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,12,Estate Agent,Dublin City North,17,460.0,LongTerm
+182,February,1,10,7490.0,EUR,House,Dublin City South - Dublin 4,1,1,No,Yes,3,Estate Agent,Dublin City South,4,7490.0,ShortTerm
+183,February,1,10,2420.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,3,Estate Agent,Dublin City North,1,2420.0,ShortTerm
+184,February,1,10,3010.0,EUR,House,Dublin City South - Dublin 8,4,2,Yes,Yes,12,Estate Agent,Dublin City South,8,752.5,LongTerm
+185,February,1,10,4870.0,EUR,House,Dublin City South - Dublin 6,4,4,Yes,Yes,12,Estate Agent,Dublin City South,6,1217.5,LongTerm
+186,February,1,10,1600.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,Yes,No,6,Owner,Dublin City South,4,800.0,ShortTerm
+187,February,1,10,1830.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1830.0,LongTerm
+188,February,1,10,4450.0,EUR,House,Dublin City South - Dublin 6,3,2,No,Yes,3,Owner,Dublin City South,6,1483.33,ShortTerm
+189,February,1,10,1570.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1570.0,LongTerm
+190,February,1,10,1420.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Owner,Dublin City North,1,710.0,ShortTerm
+191,February,1,10,3350.0,EUR,House,Dublin City North - Dublin 17,4,1,No,Yes,12,Estate Agent,Dublin City North,17,837.5,LongTerm
+192,February,1,10,2640.0,EUR,House,Dublin City South - Dublin 12,4,1,Yes,Yes,12,Estate Agent,Dublin City South,12,660.0,LongTerm
+193,February,1,10,2300.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1150.0,LongTerm
+194,February,1,10,1670.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,,12,Estate Agent,Dublin City South,2,835.0,LongTerm
+195,February,1,10,1450.0,EUR,Apartment,Dublin City North - Dublin 15,2,2,No,No,12,Estate Agent,Dublin City North,15,725.0,LongTerm
+196,February,1,10,2360.0,EUR,Apartment,Dublin City North - Dublin 13,2,1,No,No,12,Estate Agent,Dublin City North,13,1180.0,LongTerm
+197,February,1,10,1870.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,No,No,12,Estate Agent,Dublin City South,8,935.0,LongTerm
+198,February,1,10,2280.0,EUR,Apartment,South Co Dublin,1,2,Yes,,3,Estate Agent,South Co Dublin,,2280.0,ShortTerm
+199,February,1,10,1100.0,EUR,Apartment,Dublin City South - Dublin 10,1,2,No,No,12,Estate Agent,Dublin City South,10,1100.0,LongTerm
+200,February,1,10,1090.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,12,Owner,Dublin City North,17,545.0,LongTerm
+201,February,1,11,1970.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,,12,Estate Agent,Dublin City North,1,1970.0,LongTerm
+202,February,1,11,2290.0,EUR,Apartment,Dublin City South - Dublin 14,2,1,Yes,No,6,Estate Agent,Dublin City South,14,1145.0,ShortTerm
+203,February,1,11,1310.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,No,No,12,Estate Agent,Dublin City North,13,1310.0,LongTerm
+204,February,1,11,2440.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1220.0,LongTerm
+205,February,1,11,3420.0,EUR,House,Dublin City South - Dublin 24,3,2,Yes,Yes,12,Owner,Dublin City South,24,1140.0,LongTerm
+206,February,1,11,2810.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1405.0,LongTerm
+207,February,1,11,1090.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,12,Estate Agent,Dublin City North,1,1090.0,LongTerm
+208,February,1,11,2320.0,EUR,House,Dublin City South - Dublin 16,4,3,Yes,Yes,12,Owner,Dublin City South,16,580.0,LongTerm
+209,February,1,11,1390.0,EUR,Apartment,Dublin City South - Dublin 12,1,1,No,No,12,Estate Agent,Dublin City South,12,1390.0,LongTerm
+210,February,1,11,4010.0,EUR,House,North Co Dublin,3,1,Yes,Yes,12,Estate Agent,North Co Dublin,,1336.67,LongTerm
+211,February,1,11,3410.0,EUR,Apartment,Dublin City South - Dublin 6W,3,2,,No,12,Estate Agent,Dublin City South,6W,1136.67,LongTerm
+212,February,1,11,3650.0,EUR,House,Dublin City North - Dublin 5,3,1,Yes,,12,Owner,Dublin City North,5,1216.67,LongTerm
+213,February,1,11,3390.0,EUR,House,Dublin City North - Dublin 1,4,2,No,Yes,12,Estate Agent,Dublin City North,1,847.5,LongTerm
+214,February,1,11,2010.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Owner,Dublin City North,1,2010.0,LongTerm
+215,February,1,11,1680.0,EUR,Apartment,South Co Dublin,1,2,No,No,12,Estate Agent,South Co Dublin,,1680.0,LongTerm
+216,February,1,11,2380.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,Yes,No,12,Estate Agent,Dublin City North,9,1190.0,LongTerm
+217,February,1,11,4910.0,EUR,House,Dublin City South - Dublin 18,3,2,No,Yes,12,Owner,Dublin City South,18,1636.67,LongTerm
+218,February,1,11,1120.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,560.0,LongTerm
+219,February,1,11,1980.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,No,6,Estate Agent,Dublin City South,8,1980.0,ShortTerm
+220,February,1,11,1970.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1970.0,LongTerm
+221,February,1,12,1340.0,EUR,Apartment,Dublin City South - Dublin 18,1,1,No,No,12,Estate Agent,Dublin City South,18,1340.0,LongTerm
+222,February,1,12,1610.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,3,Estate Agent,Dublin City South,2,1610.0,ShortTerm
+223,February,1,12,1310.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1310.0,LongTerm
+224,February,1,12,4860.0,EUR,House,Dublin City South - Dublin 10,3,1,No,Yes,3,Owner,Dublin City South,10,1620.0,ShortTerm
+225,February,1,12,1450.0,EUR,Apartment,Dublin City South - Dublin 6W,1,1,No,No,6,Estate Agent,Dublin City South,6W,1450.0,ShortTerm
+226,February,1,12,4460.0,EUR,House,Dublin City North - Dublin 13,5,1,Yes,Yes,,Estate Agent,Dublin City North,13,892.0,Unknown
+227,February,1,12,2700.0,EUR,House,North Co Dublin,3,2,Yes,,3,Owner,North Co Dublin,,900.0,ShortTerm
+228,February,1,12,4110.0,EUR,House,Dublin City North - Dublin 17,2,1,No,Yes,3,Estate Agent,Dublin City North,17,2055.0,ShortTerm
+229,February,1,12,1790.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,895.0,LongTerm
+230,February,1,12,2770.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1385.0,LongTerm
+231,February,1,12,960.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,6,Estate Agent,Dublin City South,2,960.0,ShortTerm
+232,February,1,12,1460.0,EUR,Apartment,Dublin City South - Dublin 10,1,2,No,No,12,Estate Agent,Dublin City South,10,1460.0,LongTerm
+233,February,1,12,5200.0,EUR,House,Dublin City North - Dublin 1,4,4,Yes,,12,Owner,Dublin City North,1,1300.0,LongTerm
+234,February,1,12,1380.0,EUR,Apartment,Dublin City North - Dublin 17,2,1,Yes,,12,Owner,Dublin City North,17,690.0,LongTerm
+235,February,1,12,1960.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,,Estate Agent,Dublin City North,1,1960.0,Unknown
+236,February,1,12,2350.0,EUR,Apartment,Dublin City South - Dublin 4,1,1,No,No,12,Estate Agent,Dublin City South,4,2350.0,LongTerm
+237,February,1,12,840.0,EUR,Apartment,Dublin City North - Dublin 7,1,2,No,No,12,Owner,Dublin City North,7,840.0,LongTerm
+238,February,1,12,1810.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,,No,12,Estate Agent,Dublin City South,2,905.0,LongTerm
+239,February,1,12,2330.0,EUR,Apartment,Dublin City South - Dublin 12,3,2,Yes,No,12,Estate Agent,Dublin City South,12,776.67,LongTerm
+240,February,1,12,1110.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,6,Estate Agent,Dublin City South,6,1110.0,ShortTerm
+241,February,1,13,1100.0,EUR,Apartment,Dublin City South - Dublin 14,1,1,No,No,12,Estate Agent,Dublin City South,14,1100.0,LongTerm
+242,February,1,13,2170.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,6,Estate Agent,Dublin City North,1,723.33,ShortTerm
+243,February,1,13,2460.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,1230.0,LongTerm
+244,February,1,13,950.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,950.0,LongTerm
+245,February,1,13,930.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,930.0,LongTerm
+246,February,1,13,1440.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1440.0,LongTerm
+247,February,1,13,4060.0,EUR,House,Dublin City North - Dublin 17,4,3,No,Yes,6,Estate Agent,Dublin City North,17,1015.0,ShortTerm
+248,February,1,13,1690.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,845.0,LongTerm
+249,February,1,13,1380.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,No,No,12,Owner,Dublin City North,9,690.0,LongTerm
+250,February,1,13,2760.0,EUR,House,Dublin City South - Dublin 16,5,2,Yes,Yes,12,Estate Agent,Dublin City South,16,552.0,LongTerm
+251,February,1,13,4050.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,3,Estate Agent,Dublin City South,2,2025.0,ShortTerm
+252,February,1,13,4360.0,EUR,Apartment,Dublin City South - Dublin 16,3,2,No,No,12,Estate Agent,Dublin City South,16,1453.33,LongTerm
+253,February,1,13,990.0,EUR,Apartment,Dublin City South - Dublin 6W,2,2,Yes,No,6,Estate Agent,Dublin City South,6W,495.0,ShortTerm
+254,February,1,13,5370.0,EUR,House,Dublin City South - Dublin 4,4,1,Yes,Yes,3,Owner,Dublin City South,4,1342.5,ShortTerm
+255,February,1,13,1950.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,Yes,No,12,Estate Agent,Dublin City South,2,650.0,LongTerm
+256,February,1,13,1180.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Estate Agent,Dublin City North,1,590.0,ShortTerm
+257,February,1,13,1350.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Estate Agent,Dublin City South,2,675.0,ShortTerm
+258,February,1,13,2440.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,,6,Estate Agent,Dublin City North,1,1220.0,ShortTerm
+259,February,1,13,2750.0,EUR,Apartment,Dublin City South - Dublin 18,2,1,No,No,12,Estate Agent,Dublin City South,18,1375.0,LongTerm
+260,February,1,13,1410.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1410.0,LongTerm
+261,February,1,14,2360.0,EUR,House,Dublin City North - Dublin 17,3,2,Yes,Yes,12,Estate Agent,Dublin City North,17,786.67,LongTerm
+262,February,1,14,1150.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Owner,Dublin City South,2,575.0,ShortTerm
+263,February,1,14,1900.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,,Owner,Dublin City North,1,1900.0,Unknown
+264,February,1,14,2120.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,,No,3,Owner,Dublin City North,7,1060.0,ShortTerm
+265,February,1,14,2850.0,EUR,House,Dublin City North - Dublin 1,2,1,No,Yes,6,Estate Agent,Dublin City North,1,1425.0,ShortTerm
+266,February,1,14,4120.0,EUR,House,North Co Dublin,2,2,Yes,Yes,12,Estate Agent,North Co Dublin,,2060.0,LongTerm
+267,February,1,14,2890.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,1445.0,LongTerm
+268,February,1,14,2810.0,EUR,House,Dublin City North - Dublin 9,2,1,,No,6,Estate Agent,Dublin City North,9,1405.0,ShortTerm
+269,February,1,14,1870.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1870.0,LongTerm
+270,February,1,14,2000.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1000.0,LongTerm
+271,February,1,14,2290.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1145.0,LongTerm
+272,February,1,14,1960.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,Yes,No,12,Estate Agent,Dublin City North,1,653.33,LongTerm
+273,February,1,14,1690.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,No,No,12,Estate Agent,Dublin City North,7,845.0,LongTerm
+274,February,1,14,3190.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1595.0,LongTerm
+275,February,1,14,1150.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,575.0,LongTerm
+276,February,1,14,2860.0,EUR,House,Dublin City South - Dublin 14,3,2,Yes,Yes,12,Estate Agent,Dublin City South,14,953.33,LongTerm
+277,February,1,14,1460.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,,No,6,Estate Agent,Dublin City South,2,1460.0,ShortTerm
+278,February,1,14,1980.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1980.0,LongTerm
+279,February,1,14,780.0,EUR,Apartment,Dublin City North - Dublin 15,1,1,No,No,6,Owner,Dublin City North,15,780.0,ShortTerm
+280,February,1,14,2490.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,Yes,No,12,Estate Agent,Dublin City South,12,1245.0,LongTerm
+281,February,1,15,5050.0,EUR,House,Dublin City North - Dublin 5,3,1,Yes,Yes,12,Owner,Dublin City North,5,1683.33,LongTerm
+282,February,1,15,1370.0,EUR,Apartment,North Co Dublin,2,2,Yes,No,12,Estate Agent,North Co Dublin,,685.0,LongTerm
+283,February,1,15,1510.0,EUR,Apartment,Dublin City South - Dublin 14,3,1,No,No,12,Estate Agent,Dublin City South,14,503.33,LongTerm
+284,February,1,15,5520.0,EUR,House,Dublin City South - Dublin 4,4,2,Yes,,12,Owner,Dublin City South,4,1380.0,LongTerm
+285,February,1,15,1300.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,,Estate Agent,Dublin City South,2,650.0,Unknown
+286,February,1,15,3530.0,EUR,Apartment,Dublin City South - Dublin 6W,3,2,,No,12,Estate Agent,Dublin City South,6W,1176.67,LongTerm
+287,February,1,15,1920.0,EUR,Apartment,Dublin City North - Dublin 9,2,2,No,No,12,Estate Agent,Dublin City North,9,960.0,LongTerm
+288,February,1,15,1460.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,730.0,LongTerm
+289,February,1,15,2990.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,,6,Estate Agent,Dublin City South,2,1495.0,ShortTerm
+290,February,1,15,2060.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1030.0,LongTerm
+291,February,1,15,2060.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,,No,12,Estate Agent,Dublin City South,2,1030.0,LongTerm
+292,February,1,15,1280.0,EUR,Apartment,Dublin City North - Dublin 15,2,1,No,No,12,Owner,Dublin City North,15,640.0,LongTerm
+293,February,1,15,1600.0,EUR,Apartment,Dublin City North - Dublin 3,1,2,Yes,No,12,Estate Agent,Dublin City North,3,1600.0,LongTerm
+294,February,1,15,4490.0,EUR,Apartment,Dublin City North - Dublin 7,3,2,No,No,12,Estate Agent,Dublin City North,7,1496.67,LongTerm
+295,February,1,15,1400.0,EUR,Apartment,Dublin City North - Dublin 17,3,1,Yes,No,12,Estate Agent,Dublin City North,17,466.67,LongTerm
+296,February,1,15,3690.0,EUR,House,Dublin City South - Dublin 2,3,2,Yes,Yes,12,Estate Agent,Dublin City South,2,1230.0,LongTerm
+297,February,1,15,1340.0,EUR,Apartment,North Co Dublin,1,1,No,,12,Estate Agent,North Co Dublin,,1340.0,LongTerm
+298,February,1,15,2270.0,EUR,Apartment,Dublin City North - Dublin 13,3,1,No,No,12,Estate Agent,Dublin City North,13,756.67,LongTerm
+299,February,1,15,3630.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,3,Estate Agent,Dublin City North,1,1815.0,ShortTerm
+300,February,1,15,2140.0,EUR,Apartment,Dublin City North - Dublin 15,2,2,Yes,No,12,Owner,Dublin City North,15,1070.0,LongTerm
+301,February,1,16,3480.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Owner,Dublin City North,1,1160.0,LongTerm
+302,February,1,16,3160.0,EUR,House,Dublin City North - Dublin 9,3,2,No,No,12,Estate Agent,Dublin City North,9,1053.33,LongTerm
+303,February,1,16,3130.0,EUR,House,Dublin City South - Dublin 22,4,4,Yes,Yes,12,Owner,Dublin City South,22,782.5,LongTerm
+304,February,1,16,970.0,EUR,Apartment,Dublin City South - Dublin 14,2,2,No,No,12,Estate Agent,Dublin City South,14,485.0,LongTerm
+305,February,1,16,1520.0,EUR,Apartment,Dublin City South - Dublin 14,1,2,No,No,12,Estate Agent,Dublin City South,14,1520.0,LongTerm
+306,February,1,16,1840.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,,No,3,Estate Agent,Dublin City North,13,1840.0,ShortTerm
+307,February,1,16,1260.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1260.0,LongTerm
+308,February,1,16,1040.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1040.0,LongTerm
+309,February,1,16,5060.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,,No,12,Estate Agent,Dublin City South,2,1686.67,LongTerm
+310,February,1,16,1150.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,,No,12,Estate Agent,Dublin City North,1,575.0,LongTerm
+311,February,1,16,2300.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Estate Agent,Dublin City North,1,766.67,LongTerm
+312,February,1,16,1680.0,EUR,Apartment,Dublin City North - Dublin 3,1,1,No,No,6,Owner,Dublin City North,3,1680.0,ShortTerm
+313,February,1,16,1680.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,840.0,LongTerm
+314,February,1,16,2550.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,1275.0,LongTerm
+315,February,1,16,2260.0,EUR,Apartment,North Co Dublin,2,1,Yes,No,12,Owner,North Co Dublin,,1130.0,LongTerm
+316,February,1,16,1490.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,No,No,3,Owner,Dublin City North,15,1490.0,ShortTerm
+317,February,1,16,2010.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1005.0,LongTerm
+318,February,1,16,1100.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,3,Estate Agent,Dublin City North,1,1100.0,ShortTerm
+319,February,1,16,5600.0,EUR,House,Dublin City South - Dublin 18,3,2,No,Yes,3,Estate Agent,Dublin City South,18,1866.67,ShortTerm
+320,February,1,16,1500.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,6,Estate Agent,Dublin City South,2,750.0,ShortTerm
+321,February,1,17,1630.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1630.0,LongTerm
+322,February,1,17,1760.0,EUR,Apartment,Dublin City North - Dublin 9,3,1,No,No,12,Estate Agent,Dublin City North,9,586.67,LongTerm
+323,February,1,17,3600.0,EUR,House,Dublin City North - Dublin 11,3,2,No,Yes,3,Estate Agent,Dublin City North,11,1200.0,ShortTerm
+324,February,1,17,1880.0,EUR,Apartment,Dublin City North - Dublin 11,2,2,Yes,No,12,Estate Agent,Dublin City North,11,940.0,LongTerm
+325,February,1,17,2370.0,EUR,House,Dublin City South - Dublin 8,4,3,Yes,,12,Estate Agent,Dublin City South,8,592.5,LongTerm
+326,February,1,17,4320.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,No,No,12,Estate Agent,Dublin City South,2,1440.0,LongTerm
+327,February,1,17,1540.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1540.0,LongTerm
+328,February,1,17,5180.0,EUR,House,Dublin City South - Dublin 8,3,2,Yes,Yes,12,Estate Agent,Dublin City South,8,1726.67,LongTerm
+329,February,1,17,2550.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Estate Agent,Dublin City South,2,1275.0,ShortTerm
+330,February,1,17,790.0,EUR,Apartment,Dublin City South - Dublin 18,1,2,No,No,12,Estate Agent,Dublin City South,18,790.0,LongTerm
+331,February,1,17,4850.0,EUR,House,Dublin City North - Dublin 3,3,1,Yes,Yes,12,Estate Agent,Dublin City North,3,1616.67,LongTerm
+332,March,1,17,5920.0,EUR,House,Dublin City North - Dublin 1,3,2,Yes,Yes,3,Owner,Dublin City North,1,1973.33,ShortTerm
+333,March,1,17,2370.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2370.0,LongTerm
+334,March,1,17,2810.0,EUR,House,Dublin City North - Dublin 15,1,2,No,Yes,,Estate Agent,Dublin City North,15,2810.0,Unknown
+335,March,1,17,2450.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,No,No,12,Owner,Dublin City South,4,2450.0,LongTerm
+336,March,1,17,1600.0,EUR,Apartment,Dublin City North - Dublin 11,1,2,No,No,12,Estate Agent,Dublin City North,11,1600.0,LongTerm
+337,March,1,17,2900.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1450.0,LongTerm
+338,March,1,17,6400.0,EUR,House,Dublin City South - Dublin 2,4,1,Yes,Yes,6,Owner,Dublin City South,2,1600.0,ShortTerm
+339,March,1,17,1230.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,12,Estate Agent,Dublin City South,20,615.0,LongTerm
+340,March,1,17,1750.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,875.0,LongTerm
+341,March,1,18,1930.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,Yes,,12,Owner,Dublin City North,5,1930.0,LongTerm
+342,March,1,18,1250.0,EUR,Apartment,Dublin City North - Dublin 5,2,2,Yes,No,12,Estate Agent,Dublin City North,5,625.0,LongTerm
+343,March,1,18,1800.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,12,Estate Agent,Dublin City North,1,1800.0,LongTerm
+344,March,1,18,1580.0,EUR,Apartment,Dublin City North - Dublin 15,2,1,Yes,No,12,Estate Agent,Dublin City North,15,790.0,LongTerm
+345,March,1,18,1490.0,EUR,Apartment,Dublin City South - Dublin 8,2,2,No,No,12,Estate Agent,Dublin City South,8,745.0,LongTerm
+346,March,1,18,4260.0,EUR,House,Dublin City South - Dublin 6W,5,3,Yes,Yes,12,Estate Agent,Dublin City South,6W,852.0,LongTerm
+347,March,1,18,1240.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,6,Estate Agent,Dublin City South,2,1240.0,ShortTerm
+348,March,1,18,1050.0,EUR,Apartment,Dublin City North - Dublin 17,1,2,Yes,No,6,Estate Agent,Dublin City North,17,1050.0,ShortTerm
+349,March,1,18,4290.0,EUR,House,Dublin City North - Dublin 1,3,1,Yes,Yes,12,Estate Agent,Dublin City North,1,1430.0,LongTerm
+350,March,1,18,2600.0,EUR,House,North Co Dublin,3,2,No,Yes,12,Owner,North Co Dublin,,866.67,LongTerm
+351,March,1,18,1130.0,EUR,Apartment,Dublin City South - Dublin 12,1,2,No,No,12,Owner,Dublin City South,12,1130.0,LongTerm
+352,March,1,18,1160.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1160.0,LongTerm
+353,March,1,18,1210.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,No,No,6,Estate Agent,Dublin City North,7,605.0,ShortTerm
+354,March,1,18,2630.0,EUR,Apartment,Dublin City South - Dublin 8,3,1,No,No,12,Estate Agent,Dublin City South,8,876.67,LongTerm
+355,March,1,18,3680.0,EUR,House,Dublin City South - Dublin 24,2,2,Yes,Yes,12,Estate Agent,Dublin City South,24,1840.0,LongTerm
+356,March,1,18,6240.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,Yes,No,3,Estate Agent,Dublin City North,1,2080.0,ShortTerm
+357,March,1,18,1580.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,No,No,3,Estate Agent,Dublin City South,4,790.0,ShortTerm
+358,March,1,18,1230.0,EUR,Apartment,Dublin City South - Dublin 6W,1,1,No,No,12,Estate Agent,Dublin City South,6W,1230.0,LongTerm
+359,March,1,18,2160.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,2160.0,LongTerm
+360,March,1,18,1930.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1930.0,LongTerm
+361,March,1,19,1690.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,3,Estate Agent,Dublin City South,2,1690.0,ShortTerm
+362,March,1,19,2200.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2200.0,LongTerm
+363,March,1,19,1660.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,830.0,LongTerm
+364,March,1,19,2100.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2100.0,LongTerm
+365,March,1,19,2890.0,EUR,House,Dublin City South - Dublin 2,4,1,No,Yes,12,Estate Agent,Dublin City South,2,722.5,LongTerm
+366,March,1,19,1630.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,12,Estate Agent,Dublin City North,1,815.0,LongTerm
+367,March,1,19,1160.0,EUR,Apartment,Dublin City South - Dublin 16,1,2,No,No,12,Owner,Dublin City South,16,1160.0,LongTerm
+368,March,1,19,1770.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,885.0,LongTerm
+369,March,1,19,1320.0,EUR,Apartment,Dublin City North - Dublin 9,1,2,Yes,No,12,Owner,Dublin City North,9,1320.0,LongTerm
+370,March,1,19,3860.0,EUR,House,Dublin City North - Dublin 11,2,2,Yes,,3,Estate Agent,Dublin City North,11,1930.0,ShortTerm
+371,March,1,19,1030.0,EUR,Apartment,Dublin City North - Dublin 17,2,1,Yes,,12,Estate Agent,Dublin City North,17,515.0,LongTerm
+372,March,1,19,1130.0,EUR,Apartment,Dublin City North - Dublin 11,1,2,No,No,12,Estate Agent,Dublin City North,11,1130.0,LongTerm
+373,March,1,19,3010.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,No,No,6,Estate Agent,Dublin City South,6,1505.0,ShortTerm
+374,March,1,19,970.0,EUR,Apartment,Dublin City South - Dublin 12,1,2,No,No,12,Estate Agent,Dublin City South,12,970.0,LongTerm
+375,March,1,19,1250.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,6,Estate Agent,Dublin City North,1,1250.0,ShortTerm
+376,March,1,19,1810.0,EUR,Apartment,Dublin City North - Dublin 17,2,1,No,No,3,Estate Agent,Dublin City North,17,905.0,ShortTerm
+377,March,1,19,4900.0,EUR,House,Dublin City South - Dublin 2,4,3,Yes,Yes,12,Estate Agent,Dublin City South,2,1225.0,LongTerm
+378,March,1,19,1400.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,Yes,No,6,Estate Agent,Dublin City North,15,1400.0,ShortTerm
+379,March,1,19,1630.0,EUR,Apartment,Dublin City North - Dublin 7,1,1,No,No,12,Owner,Dublin City North,7,1630.0,LongTerm
+380,March,1,19,2140.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1070.0,LongTerm
+381,March,1,20,1040.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,520.0,LongTerm
+382,March,1,20,1720.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,No,No,12,Estate Agent,Dublin City South,16,1720.0,LongTerm
+383,March,1,20,1070.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,535.0,LongTerm
+384,March,1,20,1540.0,EUR,Apartment,Dublin City North - Dublin 17,1,1,No,No,12,Estate Agent,Dublin City North,17,1540.0,LongTerm
+385,March,1,20,1550.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,No,No,12,Estate Agent,Dublin City South,24,775.0,LongTerm
+386,March,1,20,1430.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,,No,12,Estate Agent,Dublin City South,2,715.0,LongTerm
+387,March,1,20,1270.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,635.0,LongTerm
+388,March,1,20,3630.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,3,Owner,Dublin City North,1,1815.0,ShortTerm
+389,March,1,20,3270.0,EUR,Apartment,Dublin City South - Dublin 12,3,2,Yes,No,12,Estate Agent,Dublin City South,12,1090.0,LongTerm
+390,March,1,20,1460.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,6,Estate Agent,Dublin City North,1,1460.0,ShortTerm
+391,March,1,20,4490.0,EUR,House,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,4490.0,LongTerm
+392,March,1,20,1720.0,EUR,Apartment,Dublin City South - Dublin 12,1,1,,No,12,Estate Agent,Dublin City South,12,1720.0,LongTerm
+393,March,1,20,3520.0,EUR,House,Dublin City South - Dublin 10,1,2,No,Yes,12,Owner,Dublin City South,10,3520.0,LongTerm
+394,March,1,20,1370.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,685.0,LongTerm
+395,March,1,20,2730.0,EUR,House,South Co Dublin,3,1,Yes,Yes,12,Owner,South Co Dublin,,910.0,LongTerm
+396,March,1,20,1860.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,930.0,LongTerm
+397,March,1,20,830.0,EUR,Apartment,Dublin City North - Dublin 9,1,2,No,No,12,Estate Agent,Dublin City North,9,830.0,LongTerm
+398,March,1,20,2770.0,EUR,House,Dublin City North - Dublin 11,3,2,Yes,Yes,12,Estate Agent,Dublin City North,11,923.33,LongTerm
+399,March,1,20,1600.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1600.0,LongTerm
+400,March,1,20,1010.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,3,Estate Agent,Dublin City North,11,1010.0,ShortTerm
+401,March,1,21,1450.0,EUR,Apartment,Dublin City North - Dublin 13,2,2,No,No,6,Estate Agent,Dublin City North,13,725.0,ShortTerm
+402,March,1,21,2360.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,12,Estate Agent,Dublin City North,1,1180.0,LongTerm
+403,March,1,21,1050.0,EUR,Apartment,Dublin City North - Dublin 13,1,2,No,No,12,Owner,Dublin City North,13,1050.0,LongTerm
+404,March,1,21,1920.0,EUR,Apartment,Dublin City South - Dublin 4,1,1,Yes,No,12,Estate Agent,Dublin City South,4,1920.0,LongTerm
+405,March,1,21,4260.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Owner,Dublin City North,1,1420.0,LongTerm
+406,March,1,21,2100.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1050.0,LongTerm
+407,March,1,21,1350.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,12,Estate Agent,Dublin City South,6,1350.0,LongTerm
+408,March,1,21,2190.0,EUR,Apartment,Dublin City North - Dublin 5,2,2,No,No,12,Estate Agent,Dublin City North,5,1095.0,LongTerm
+409,March,1,21,1490.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Estate Agent,Dublin City South,24,1490.0,LongTerm
+410,March,1,21,2330.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Estate Agent,Dublin City South,2,1165.0,ShortTerm
+411,March,1,21,760.0,EUR,Apartment,Dublin City North - Dublin 15,1,1,No,No,12,Estate Agent,Dublin City North,15,760.0,LongTerm
+412,March,1,21,2440.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,3,Estate Agent,Dublin City South,2,2440.0,ShortTerm
+413,March,1,21,6300.0,EUR,House,Dublin City North - Dublin 1,3,2,Yes,,3,Estate Agent,Dublin City North,1,2100.0,ShortTerm
+414,March,1,21,1880.0,EUR,Apartment,Dublin City North - Dublin 3,1,1,No,No,6,Estate Agent,Dublin City North,3,1880.0,ShortTerm
+415,March,1,21,2340.0,EUR,Apartment,Dublin City North - Dublin 11,2,2,No,No,12,Estate Agent,Dublin City North,11,1170.0,LongTerm
+416,March,1,21,2020.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1010.0,LongTerm
+417,March,1,21,1960.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,980.0,LongTerm
+418,March,1,21,1670.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,No,No,12,Estate Agent,Dublin City South,16,1670.0,LongTerm
+419,March,1,21,2460.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Estate Agent,Dublin City North,1,1230.0,ShortTerm
+420,March,1,21,2960.0,EUR,House,Dublin City North - Dublin 5,3,2,Yes,Yes,12,Owner,Dublin City North,5,986.67,LongTerm
+421,March,1,22,1970.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1970.0,LongTerm
+422,March,1,22,6290.0,EUR,House,Dublin City South - Dublin 2,3,2,Yes,Yes,6,Owner,Dublin City South,2,2096.67,ShortTerm
+423,March,1,22,1760.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,880.0,LongTerm
+424,March,1,22,1850.0,EUR,Apartment,Dublin City North - Dublin 15,2,2,No,No,12,Owner,Dublin City North,15,925.0,LongTerm
+425,March,1,22,3480.0,EUR,House,South Co Dublin,3,1,Yes,Yes,6,Owner,South Co Dublin,,1160.0,ShortTerm
+426,March,1,22,1560.0,EUR,Apartment,Dublin City North - Dublin 17,1,2,No,No,12,Estate Agent,Dublin City North,17,1560.0,LongTerm
+427,March,1,22,1990.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,12,Estate Agent,Dublin City South,2,1990.0,LongTerm
+428,March,1,22,3680.0,EUR,House,Dublin City South - Dublin 18,3,2,No,Yes,3,Owner,Dublin City South,18,1226.67,ShortTerm
+429,March,1,22,3600.0,EUR,House,Dublin City South - Dublin 14,4,2,Yes,Yes,12,Estate Agent,Dublin City South,14,900.0,LongTerm
+430,March,1,22,2210.0,EUR,House,Dublin City North - Dublin 15,3,2,Yes,Yes,12,Estate Agent,Dublin City North,15,736.67,LongTerm
+431,March,1,22,2110.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,No,No,12,Estate Agent,Dublin City North,11,1055.0,LongTerm
+432,March,1,22,2010.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,2010.0,LongTerm
+433,March,1,22,1260.0,EUR,Apartment,Dublin City South - Dublin 8,2,2,No,No,12,Estate Agent,Dublin City South,8,630.0,LongTerm
+434,March,1,22,1270.0,EUR,Apartment,Dublin City North - Dublin 17,1,1,No,No,3,Owner,Dublin City North,17,1270.0,ShortTerm
+435,March,1,22,1170.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,No,No,12,Owner,Dublin City South,16,1170.0,LongTerm
+436,March,1,22,2220.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2220.0,LongTerm
+437,March,1,22,1440.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,No,No,12,Estate Agent,Dublin City North,13,1440.0,LongTerm
+438,March,1,22,1070.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,,No,12,Owner,Dublin City North,1,1070.0,LongTerm
+439,March,1,22,2020.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1010.0,LongTerm
+440,March,1,22,3390.0,EUR,House,Dublin City North - Dublin 1,4,3,Yes,Yes,12,Owner,Dublin City North,1,847.5,LongTerm
+441,March,1,23,1370.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,,No,6,Estate Agent,Dublin City North,7,685.0,ShortTerm
+442,March,1,23,1520.0,EUR,Apartment,Dublin City South - Dublin 10,1,1,Yes,,6,Estate Agent,Dublin City South,10,1520.0,ShortTerm
+443,March,1,23,2120.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,12,Estate Agent,Dublin City North,1,1060.0,LongTerm
+444,March,1,23,5480.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,No,No,12,Estate Agent,Dublin City South,2,1826.67,LongTerm
+445,March,1,23,2780.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,6,Owner,Dublin City North,1,1390.0,ShortTerm
+446,March,1,23,1750.0,EUR,Apartment,North Co Dublin,1,2,No,No,12,Owner,North Co Dublin,,1750.0,LongTerm
+447,March,1,23,4680.0,EUR,House,Dublin City South - Dublin 16,4,4,Yes,Yes,12,Estate Agent,Dublin City South,16,1170.0,LongTerm
+448,March,1,23,1870.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Estate Agent,Dublin City South,2,1870.0,ShortTerm
+449,March,1,23,3160.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,3,Estate Agent,Dublin City South,2,1580.0,ShortTerm
+450,March,1,23,1780.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,890.0,LongTerm
+451,March,1,23,3510.0,EUR,House,Dublin City South - Dublin 12,4,2,No,Yes,12,Estate Agent,Dublin City South,12,877.5,LongTerm
+452,March,1,23,2440.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,3,Estate Agent,Dublin City North,1,2440.0,ShortTerm
+453,March,1,23,6150.0,EUR,House,Dublin City South - Dublin 6W,3,1,No,Yes,3,Owner,Dublin City South,6W,2050.0,ShortTerm
+454,March,1,23,1920.0,EUR,Apartment,Dublin City South - Dublin 22,2,2,No,No,12,Owner,Dublin City South,22,960.0,LongTerm
+455,March,1,23,2170.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2170.0,LongTerm
+456,March,1,23,3990.0,EUR,House,Dublin City North - Dublin 15,3,2,,,12,Owner,Dublin City North,15,1330.0,LongTerm
+457,March,1,23,2370.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,,No,6,Owner,Dublin City North,1,1185.0,ShortTerm
+458,March,1,23,2270.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,No,No,12,Estate Agent,Dublin City South,24,1135.0,LongTerm
+459,March,1,23,2250.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2250.0,LongTerm
+460,March,1,23,960.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Estate Agent,Dublin City South,2,960.0,ShortTerm
+461,March,1,24,1910.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,Yes,No,12,Estate Agent,Dublin City North,9,955.0,LongTerm
+462,March,1,24,2240.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1120.0,LongTerm
+463,March,1,24,3460.0,EUR,House,Dublin City North - Dublin 7,3,2,Yes,,12,Owner,Dublin City North,7,1153.33,LongTerm
+464,March,1,24,2090.0,EUR,House,North Co Dublin,4,3,Yes,Yes,6,Estate Agent,North Co Dublin,,522.5,ShortTerm
+465,March,1,24,1360.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,,No,12,Estate Agent,Dublin City North,1,680.0,LongTerm
+466,March,1,24,1000.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,12,Owner,Dublin City South,20,500.0,LongTerm
+467,March,1,24,3710.0,EUR,Apartment,Dublin City South - Dublin 16,3,1,No,No,6,Estate Agent,Dublin City South,16,1236.67,ShortTerm
+468,March,1,24,800.0,EUR,Apartment,Dublin City South - Dublin 22,1,2,No,No,12,Estate Agent,Dublin City South,22,800.0,LongTerm
+469,March,1,24,2510.0,EUR,Apartment,Dublin City North - Dublin 5,2,1,No,No,12,Estate Agent,Dublin City North,5,1255.0,LongTerm
+470,March,1,24,1090.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Owner,Dublin City North,11,1090.0,LongTerm
+471,March,1,24,2560.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,No,No,3,Estate Agent,Dublin City North,11,1280.0,ShortTerm
+472,March,1,24,1270.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,12,Estate Agent,Dublin City South,2,1270.0,LongTerm
+473,March,1,24,1900.0,EUR,Apartment,North Co Dublin,3,1,No,No,12,Estate Agent,North Co Dublin,,633.33,LongTerm
+474,March,1,24,2040.0,EUR,House,Dublin City South - Dublin 6W,3,2,Yes,,12,Estate Agent,Dublin City South,6W,680.0,LongTerm
+475,March,1,24,1880.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,Yes,No,12,Estate Agent,Dublin City South,6W,940.0,LongTerm
+476,March,1,24,6810.0,EUR,House,Dublin City South - Dublin 4,3,1,,Yes,3,Estate Agent,Dublin City South,4,2270.0,ShortTerm
+477,March,1,24,2330.0,EUR,Apartment,South Co Dublin,2,2,No,No,3,Estate Agent,South Co Dublin,,1165.0,ShortTerm
+478,March,1,24,1930.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,3,Estate Agent,Dublin City North,1,1930.0,ShortTerm
+479,March,1,24,1250.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,Yes,,6,Owner,Dublin City South,24,625.0,ShortTerm
+480,March,1,24,2390.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,12,Estate Agent,Dublin City South,2,1195.0,LongTerm
+481,March,1,25,3210.0,EUR,House,North Co Dublin,3,2,No,Yes,6,Owner,North Co Dublin,,1070.0,ShortTerm
+482,March,1,25,2380.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,No,,3,Estate Agent,Dublin City North,5,2380.0,ShortTerm
+483,March,1,25,1060.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1060.0,LongTerm
+484,March,1,25,1310.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1310.0,LongTerm
+485,March,1,25,3690.0,EUR,House,Dublin City North - Dublin 11,4,3,No,Yes,12,Estate Agent,Dublin City North,11,922.5,LongTerm
+486,March,1,25,2250.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1125.0,LongTerm
+487,March,1,25,2340.0,EUR,Apartment,Dublin City South - Dublin 22,2,1,,No,3,Estate Agent,Dublin City South,22,1170.0,ShortTerm
+488,March,1,25,3410.0,EUR,House,Dublin City North - Dublin 7,5,3,No,Yes,6,Owner,Dublin City North,7,682.0,ShortTerm
+489,March,1,25,2090.0,EUR,House,Dublin City North - Dublin 1,3,2,Yes,,12,Owner,Dublin City North,1,696.67,LongTerm
+490,March,1,25,5180.0,EUR,House,Dublin City North - Dublin 9,3,1,No,Yes,3,Estate Agent,Dublin City North,9,1726.67,ShortTerm
+491,March,1,25,1270.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,635.0,LongTerm
+492,March,1,25,870.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,12,Estate Agent,Dublin City North,1,870.0,LongTerm
+493,March,1,25,1650.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Owner,Dublin City South,24,1650.0,LongTerm
+494,March,1,25,3600.0,EUR,House,Dublin City South - Dublin 20,1,2,No,Yes,6,Estate Agent,Dublin City South,20,3600.0,ShortTerm
+495,March,1,25,1360.0,EUR,Apartment,Dublin City South - Dublin 24,1,2,No,,12,Estate Agent,Dublin City South,24,1360.0,LongTerm
+496,March,1,25,1780.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Estate Agent,Dublin City North,1,593.33,LongTerm
+497,March,1,25,1180.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Owner,Dublin City North,1,1180.0,LongTerm
+498,March,1,25,3690.0,EUR,House,Dublin City South - Dublin 10,3,1,No,Yes,12,Owner,Dublin City South,10,1230.0,LongTerm
+499,March,1,25,1450.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,Yes,No,12,Estate Agent,Dublin City South,6,725.0,LongTerm
+500,March,1,25,1200.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,No,No,12,Owner,Dublin City South,22,1200.0,LongTerm
+501,March,1,26,2240.0,EUR,House,Dublin City North - Dublin 15,2,2,Yes,No,3,Estate Agent,Dublin City North,15,1120.0,ShortTerm
+502,March,1,26,1150.0,EUR,Apartment,Dublin City South - Dublin 22,2,1,Yes,No,3,Estate Agent,Dublin City South,22,575.0,ShortTerm
+503,March,1,26,1290.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,645.0,LongTerm
+504,March,1,26,940.0,EUR,Apartment,Dublin City North - Dublin 5,1,1,No,No,12,Owner,Dublin City North,5,940.0,LongTerm
+505,March,1,26,2040.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,,No,12,Estate Agent,Dublin City North,1,1020.0,LongTerm
+506,March,1,26,2430.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,,12,Estate Agent,Dublin City South,2,1215.0,LongTerm
+507,March,1,26,4200.0,EUR,House,Dublin City North - Dublin 11,4,4,,Yes,12,Estate Agent,Dublin City North,11,1050.0,LongTerm
+508,March,1,26,1040.0,EUR,Apartment,Dublin City South - Dublin 18,1,1,No,No,6,Estate Agent,Dublin City South,18,1040.0,ShortTerm
+509,March,1,26,1750.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Owner,Dublin City North,1,1750.0,LongTerm
+510,March,1,26,2010.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,6,Estate Agent,Dublin City South,2,2010.0,ShortTerm
 1,April,2,1,1100.0,EUR,Apartment,Dublin City South - Dublin 18,1,2,No,No,12,Owner,Dublin City South,18,1100.0,LongTerm
 2,April,2,1,2370.0,EUR,Apartment,Dublin City South - Dublin 10,3,2,Yes,No,12,Estate Agent,Dublin City South,10,790.0,LongTerm
 3,April,2,1,980.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,980.0,LongTerm
@@ -199,6 +609,415 @@ ListingID,Month,Quarter,Page,Price,Currency,Property Type,Location,Bedrooms,Bath
 98,April,2,5,4260.0,EUR,House,Dublin City South - Dublin 10,3,2,Yes,Yes,12,Estate Agent,Dublin City South,10,1420.0,LongTerm
 99,April,2,5,3070.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1535.0,LongTerm
 100,April,2,5,1730.0,EUR,Apartment,Dublin City North - Dublin 15,2,1,No,No,6,Estate Agent,Dublin City North,15,865.0,ShortTerm
+101,April,2,6,5360.0,EUR,House,South Co Dublin,3,1,Yes,Yes,,Estate Agent,South Co Dublin,,1786.67,Unknown
+102,April,2,6,2660.0,EUR,House,Dublin City North - Dublin 13,4,4,No,Yes,12,Owner,Dublin City North,13,665.0,LongTerm
+103,April,2,6,5160.0,EUR,House,Dublin City North - Dublin 3,3,1,Yes,Yes,12,Estate Agent,Dublin City North,3,1720.0,LongTerm
+104,April,2,6,2580.0,EUR,House,Dublin City South - Dublin 24,4,3,Yes,Yes,3,Estate Agent,Dublin City South,24,645.0,ShortTerm
+105,April,2,6,1500.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,,12,Estate Agent,Dublin City North,1,1500.0,LongTerm
+106,April,2,6,1510.0,EUR,Apartment,South Co Dublin,1,1,Yes,No,12,Estate Agent,South Co Dublin,,1510.0,LongTerm
+107,April,2,6,1110.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,No,No,12,Estate Agent,Dublin City North,9,1110.0,LongTerm
+108,April,2,6,5360.0,EUR,Apartment,Dublin City North - Dublin 3,3,1,No,No,3,Estate Agent,Dublin City North,3,1786.67,ShortTerm
+109,April,2,6,5230.0,EUR,House,Dublin City North - Dublin 1,4,1,Yes,Yes,12,Owner,Dublin City North,1,1307.5,LongTerm
+110,April,2,6,1250.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,12,Estate Agent,Dublin City North,1,1250.0,LongTerm
+111,April,2,6,1720.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Estate Agent,Dublin City South,2,1720.0,LongTerm
+112,April,2,6,3130.0,EUR,House,Dublin City South - Dublin 18,1,2,No,Yes,6,Estate Agent,Dublin City South,18,3130.0,ShortTerm
+113,April,2,6,1070.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1070.0,LongTerm
+114,April,2,6,3160.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Owner,Dublin City North,1,1053.33,LongTerm
+115,April,2,6,1440.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,12,Estate Agent,Dublin City South,6,1440.0,LongTerm
+116,April,2,6,1040.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,,No,12,Estate Agent,Dublin City South,4,1040.0,LongTerm
+117,April,2,6,1170.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1170.0,LongTerm
+118,April,2,6,2370.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,No,No,12,Estate Agent,Dublin City South,24,1185.0,LongTerm
+119,April,2,6,1500.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,12,Estate Agent,Dublin City North,17,750.0,LongTerm
+120,April,2,6,910.0,EUR,Apartment,Dublin City South - Dublin 18,1,1,No,No,12,Estate Agent,Dublin City South,18,910.0,LongTerm
+121,April,2,7,3760.0,EUR,House,Dublin City North - Dublin 1,4,1,Yes,Yes,12,Estate Agent,Dublin City North,1,940.0,LongTerm
+122,April,2,7,3000.0,EUR,House,Dublin City North - Dublin 1,3,1,Yes,Yes,12,Owner,Dublin City North,1,1000.0,LongTerm
+123,April,2,7,1680.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,3,Estate Agent,Dublin City South,2,1680.0,ShortTerm
+124,April,2,7,2200.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1100.0,LongTerm
+125,April,2,7,930.0,EUR,Apartment,Dublin City North - Dublin 15,1,1,No,No,12,Estate Agent,Dublin City North,15,930.0,LongTerm
+126,April,2,7,1460.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,No,No,6,Estate Agent,Dublin City North,13,1460.0,ShortTerm
+127,April,2,7,1540.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,770.0,LongTerm
+128,April,2,7,2710.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1355.0,LongTerm
+129,April,2,7,1870.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,6,Estate Agent,Dublin City North,1,1870.0,ShortTerm
+130,April,2,7,5980.0,EUR,House,Dublin City South - Dublin 2,4,4,Yes,Yes,12,Estate Agent,Dublin City South,2,1495.0,LongTerm
+131,April,2,7,1520.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,760.0,LongTerm
+132,April,2,7,3570.0,EUR,House,Dublin City North - Dublin 3,3,2,Yes,,6,Owner,Dublin City North,3,1190.0,ShortTerm
+133,April,2,7,1420.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,6,Estate Agent,Dublin City North,1,1420.0,ShortTerm
+134,April,2,7,5450.0,EUR,House,Dublin City South - Dublin 2,3,1,Yes,Yes,12,Owner,Dublin City South,2,1816.67,LongTerm
+135,April,2,7,2100.0,EUR,Apartment,Dublin City South - Dublin 20,2,2,No,No,12,Owner,Dublin City South,20,1050.0,LongTerm
+136,April,2,7,1050.0,EUR,Apartment,Dublin City South - Dublin 6,1,2,No,No,12,Estate Agent,Dublin City South,6,1050.0,LongTerm
+137,April,2,7,1920.0,EUR,Apartment,Dublin City North - Dublin 13,2,1,No,No,12,Owner,Dublin City North,13,960.0,LongTerm
+138,April,2,7,2120.0,EUR,Apartment,Dublin City South - Dublin 14,2,1,No,No,12,Owner,Dublin City South,14,1060.0,LongTerm
+139,April,2,7,1820.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,,No,12,Estate Agent,Dublin City South,16,1820.0,LongTerm
+140,April,2,7,4280.0,EUR,House,Dublin City South - Dublin 6,4,3,Yes,Yes,12,Estate Agent,Dublin City South,6,1070.0,LongTerm
+141,April,2,8,2120.0,EUR,House,South Co Dublin,2,2,Yes,No,12,Estate Agent,South Co Dublin,,1060.0,LongTerm
+142,April,2,8,1390.0,EUR,Apartment,Dublin City South - Dublin 18,1,2,Yes,No,12,Owner,Dublin City South,18,1390.0,LongTerm
+143,April,2,8,1650.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,,12,Owner,Dublin City South,2,1650.0,LongTerm
+144,April,2,8,1240.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,Yes,No,,Estate Agent,Dublin City South,24,620.0,Unknown
+145,April,2,8,1280.0,EUR,Apartment,South Co Dublin,1,2,No,No,12,Estate Agent,South Co Dublin,,1280.0,LongTerm
+146,April,2,8,4780.0,EUR,House,Dublin City South - Dublin 6,2,1,Yes,,12,Owner,Dublin City South,6,2390.0,LongTerm
+147,April,2,8,1320.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Estate Agent,Dublin City South,2,1320.0,LongTerm
+148,April,2,8,1780.0,EUR,Apartment,Dublin City South - Dublin 6W,2,2,No,No,12,Estate Agent,Dublin City South,6W,890.0,LongTerm
+149,April,2,8,2320.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,3,Estate Agent,Dublin City North,1,1160.0,ShortTerm
+150,April,2,8,2490.0,EUR,Apartment,Dublin City North - Dublin 11,3,1,No,No,6,Estate Agent,Dublin City North,11,830.0,ShortTerm
+151,April,2,8,2260.0,EUR,House,Dublin City North - Dublin 15,3,2,Yes,Yes,6,Owner,Dublin City North,15,753.33,ShortTerm
+152,April,2,8,1490.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,745.0,LongTerm
+153,April,2,8,1750.0,EUR,Apartment,Dublin City North - Dublin 3,1,2,No,No,12,Estate Agent,Dublin City North,3,1750.0,LongTerm
+154,April,2,8,1780.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,3,Estate Agent,Dublin City North,17,890.0,ShortTerm
+155,April,2,8,1640.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1640.0,LongTerm
+156,April,2,8,2570.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,,No,12,Estate Agent,Dublin City South,4,1285.0,LongTerm
+157,April,2,8,1130.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1130.0,LongTerm
+158,April,2,8,1650.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,Yes,No,12,Estate Agent,Dublin City South,22,1650.0,LongTerm
+159,April,2,8,2130.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,1065.0,LongTerm
+160,April,2,8,1870.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,,No,12,Estate Agent,Dublin City North,1,935.0,LongTerm
+161,April,2,9,5540.0,EUR,House,Dublin City South - Dublin 4,3,2,Yes,Yes,12,Owner,Dublin City South,4,1846.67,LongTerm
+162,April,2,9,5080.0,EUR,House,Dublin City South - Dublin 14,4,2,Yes,Yes,12,Owner,Dublin City South,14,1270.0,LongTerm
+163,April,2,9,4230.0,EUR,House,Dublin City North - Dublin 3,3,2,Yes,,3,Estate Agent,Dublin City North,3,1410.0,ShortTerm
+164,April,2,9,3310.0,EUR,House,Dublin City North - Dublin 9,3,2,Yes,Yes,3,Estate Agent,Dublin City North,9,1103.33,ShortTerm
+165,April,2,9,3200.0,EUR,House,Dublin City South - Dublin 2,4,1,Yes,,12,Owner,Dublin City South,2,800.0,LongTerm
+166,April,2,9,2100.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,6,Estate Agent,Dublin City North,1,2100.0,ShortTerm
+167,April,2,9,1170.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Owner,Dublin City North,1,1170.0,LongTerm
+168,April,2,9,3720.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,No,No,6,Estate Agent,Dublin City North,1,1240.0,ShortTerm
+169,April,2,9,760.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Estate Agent,Dublin City North,11,760.0,LongTerm
+170,April,2,9,3670.0,EUR,House,Dublin City South - Dublin 16,3,2,Yes,Yes,12,Estate Agent,Dublin City South,16,1223.33,LongTerm
+171,April,2,9,2360.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1180.0,LongTerm
+172,April,2,9,2620.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Estate Agent,Dublin City South,2,1310.0,ShortTerm
+173,April,2,9,1290.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,,No,12,Estate Agent,Dublin City North,9,1290.0,LongTerm
+174,April,2,9,1650.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,6,Estate Agent,Dublin City South,2,1650.0,ShortTerm
+175,April,2,9,1250.0,EUR,Apartment,South Co Dublin,2,2,No,No,12,Estate Agent,South Co Dublin,,625.0,LongTerm
+176,April,2,9,1360.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,12,Owner,Dublin City South,2,1360.0,LongTerm
+177,April,2,9,1400.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,700.0,LongTerm
+178,April,2,9,2080.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,No,,12,Estate Agent,Dublin City North,1,693.33,LongTerm
+179,April,2,9,1980.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,12,Estate Agent,Dublin City South,2,1980.0,LongTerm
+180,April,2,9,1190.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,Yes,No,12,Estate Agent,Dublin City South,22,1190.0,LongTerm
+181,April,2,10,1460.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,,Estate Agent,Dublin City North,1,730.0,Unknown
+182,May,2,10,1290.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,6,Estate Agent,Dublin City North,1,1290.0,ShortTerm
+183,May,2,10,1280.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,640.0,LongTerm
+184,May,2,10,1040.0,EUR,Apartment,Dublin City North - Dublin 5,2,1,No,No,12,Estate Agent,Dublin City North,5,520.0,LongTerm
+185,May,2,10,2570.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1285.0,LongTerm
+186,May,2,10,1720.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Estate Agent,Dublin City North,1,860.0,ShortTerm
+187,May,2,10,4510.0,EUR,House,Dublin City North - Dublin 5,3,2,Yes,Yes,12,Estate Agent,Dublin City North,5,1503.33,LongTerm
+188,May,2,10,2960.0,EUR,House,Dublin City North - Dublin 1,3,1,No,No,12,Estate Agent,Dublin City North,1,986.67,LongTerm
+189,May,2,10,2770.0,EUR,House,Dublin City North - Dublin 7,4,2,Yes,Yes,6,Owner,Dublin City North,7,692.5,ShortTerm
+190,May,2,10,5840.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,No,No,3,Estate Agent,Dublin City North,1,1946.67,ShortTerm
+191,May,2,10,1560.0,EUR,Apartment,Dublin City South - Dublin 18,1,1,No,No,12,Estate Agent,Dublin City South,18,1560.0,LongTerm
+192,May,2,10,2060.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1030.0,LongTerm
+193,May,2,10,1330.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,No,No,6,Owner,Dublin City North,5,1330.0,ShortTerm
+194,May,2,10,2030.0,EUR,Apartment,Dublin City North - Dublin 17,2,1,No,No,12,Estate Agent,Dublin City North,17,1015.0,LongTerm
+195,May,2,10,4290.0,EUR,House,Dublin City South - Dublin 2,4,3,Yes,Yes,12,Estate Agent,Dublin City South,2,1072.5,LongTerm
+196,May,2,10,3320.0,EUR,House,Dublin City North - Dublin 3,3,2,No,Yes,12,Estate Agent,Dublin City North,3,1106.67,LongTerm
+197,May,2,10,4540.0,EUR,House,Dublin City South - Dublin 20,3,1,Yes,Yes,12,Estate Agent,Dublin City South,20,1513.33,LongTerm
+198,May,2,10,2010.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,2010.0,LongTerm
+199,May,2,10,2520.0,EUR,House,Dublin City South - Dublin 14,4,1,No,,12,Estate Agent,Dublin City South,14,630.0,LongTerm
+200,May,2,10,1140.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1140.0,LongTerm
+201,May,2,11,2640.0,EUR,Apartment,Dublin City South - Dublin 18,3,2,Yes,No,12,Estate Agent,Dublin City South,18,880.0,LongTerm
+202,May,2,11,2860.0,EUR,House,Dublin City North - Dublin 11,1,2,No,No,12,Estate Agent,Dublin City North,11,2860.0,LongTerm
+203,May,2,11,1990.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,,No,12,Estate Agent,Dublin City North,7,995.0,LongTerm
+204,May,2,11,1980.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,990.0,LongTerm
+205,May,2,11,1160.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,580.0,LongTerm
+206,May,2,11,4170.0,EUR,House,Dublin City South - Dublin 24,3,1,,Yes,12,Estate Agent,Dublin City South,24,1390.0,LongTerm
+207,May,2,11,1010.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Estate Agent,Dublin City South,24,1010.0,LongTerm
+208,May,2,11,1920.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1920.0,LongTerm
+209,May,2,11,1900.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1900.0,LongTerm
+210,May,2,11,1740.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,12,Owner,Dublin City North,1,1740.0,LongTerm
+211,May,2,11,4250.0,EUR,House,North Co Dublin,3,2,Yes,Yes,3,Estate Agent,North Co Dublin,,1416.67,ShortTerm
+212,May,2,11,1850.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,,Estate Agent,Dublin City South,2,1850.0,Unknown
+213,May,2,11,3610.0,EUR,House,Dublin City South - Dublin 20,3,2,No,Yes,,Estate Agent,Dublin City South,20,1203.33,Unknown
+214,May,2,11,3930.0,EUR,House,Dublin City South - Dublin 24,3,1,No,Yes,3,Estate Agent,Dublin City South,24,1310.0,ShortTerm
+215,May,2,11,1120.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,No,No,3,Estate Agent,Dublin City North,5,1120.0,ShortTerm
+216,May,2,11,2350.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,,12,Estate Agent,Dublin City South,2,2350.0,LongTerm
+217,May,2,11,1590.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,Yes,No,12,Owner,Dublin City South,22,1590.0,LongTerm
+218,May,2,11,2160.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1080.0,LongTerm
+219,May,2,11,1330.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1330.0,LongTerm
+220,May,2,11,2220.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,12,Estate Agent,Dublin City South,2,1110.0,LongTerm
+221,May,2,12,5720.0,EUR,House,North Co Dublin,2,1,Yes,Yes,3,Estate Agent,North Co Dublin,,2860.0,ShortTerm
+222,May,2,12,3320.0,EUR,House,Dublin City South - Dublin 18,4,2,Yes,Yes,12,Owner,Dublin City South,18,830.0,LongTerm
+223,May,2,12,1710.0,EUR,Apartment,Dublin City South - Dublin 14,1,2,Yes,No,6,Estate Agent,Dublin City South,14,1710.0,ShortTerm
+224,May,2,12,3010.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1505.0,LongTerm
+225,May,2,12,1480.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,,No,12,Estate Agent,Dublin City North,1,1480.0,LongTerm
+226,May,2,12,1890.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1890.0,LongTerm
+227,May,2,12,2670.0,EUR,Apartment,Dublin City South - Dublin 18,2,2,No,No,6,Estate Agent,Dublin City South,18,1335.0,ShortTerm
+228,May,2,12,2520.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,No,,12,Owner,Dublin City South,8,1260.0,LongTerm
+229,May,2,12,1990.0,EUR,House,Dublin City South - Dublin 18,3,1,No,No,,Estate Agent,Dublin City South,18,663.33,Unknown
+230,May,2,12,2320.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2320.0,LongTerm
+231,May,2,12,4250.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,Yes,No,12,Estate Agent,Dublin City North,1,1416.67,LongTerm
+232,May,2,12,2360.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,1180.0,LongTerm
+233,May,2,12,2830.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1415.0,LongTerm
+234,May,2,12,1550.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,6,Estate Agent,Dublin City North,1,1550.0,ShortTerm
+235,May,2,12,1820.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Estate Agent,Dublin City North,1,910.0,ShortTerm
+236,May,2,12,3430.0,EUR,House,North Co Dublin,3,2,No,Yes,3,Estate Agent,North Co Dublin,,1143.33,ShortTerm
+237,May,2,12,5660.0,EUR,House,Dublin City South - Dublin 6W,5,1,,Yes,12,Estate Agent,Dublin City South,6W,1132.0,LongTerm
+238,May,2,12,1450.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,725.0,LongTerm
+239,May,2,12,2130.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2130.0,LongTerm
+240,May,2,12,2420.0,EUR,Apartment,Dublin City North - Dublin 3,3,2,No,No,12,Estate Agent,Dublin City North,3,806.67,LongTerm
+241,May,2,13,1210.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1210.0,LongTerm
+242,May,2,13,4290.0,EUR,House,South Co Dublin,3,2,Yes,Yes,6,Owner,South Co Dublin,,1430.0,ShortTerm
+243,May,2,13,4240.0,EUR,House,Dublin City South - Dublin 22,1,2,Yes,No,3,Estate Agent,Dublin City South,22,4240.0,ShortTerm
+244,May,2,13,2070.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1035.0,LongTerm
+245,May,2,13,870.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Owner,Dublin City South,24,870.0,LongTerm
+246,May,2,13,1670.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,3,Estate Agent,Dublin City North,1,835.0,ShortTerm
+247,May,2,13,1150.0,EUR,Apartment,Dublin City South - Dublin 4,1,1,No,No,12,Owner,Dublin City South,4,1150.0,LongTerm
+248,May,2,13,2760.0,EUR,Apartment,Dublin City South - Dublin 18,2,1,No,No,12,Estate Agent,Dublin City South,18,1380.0,LongTerm
+249,May,2,13,2960.0,EUR,Apartment,Dublin City North - Dublin 11,3,1,Yes,No,12,Estate Agent,Dublin City North,11,986.67,LongTerm
+250,May,2,13,2920.0,EUR,House,Dublin City South - Dublin 18,4,2,Yes,Yes,3,Estate Agent,Dublin City South,18,730.0,ShortTerm
+251,May,2,13,6300.0,EUR,House,South Co Dublin,3,2,Yes,Yes,3,Owner,South Co Dublin,,2100.0,ShortTerm
+252,May,2,13,2410.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1205.0,LongTerm
+253,May,2,13,1830.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,12,Estate Agent,Dublin City North,1,1830.0,LongTerm
+254,May,2,13,4930.0,EUR,House,Dublin City South - Dublin 2,3,1,Yes,Yes,12,Owner,Dublin City South,2,1643.33,LongTerm
+255,May,2,13,3530.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,3,Owner,Dublin City North,1,1765.0,ShortTerm
+256,May,2,13,4670.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,Yes,No,6,Owner,Dublin City South,2,1556.67,ShortTerm
+257,May,2,13,2360.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1180.0,LongTerm
+258,May,2,13,2070.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,,12,Estate Agent,Dublin City North,3,1035.0,LongTerm
+259,May,2,13,1320.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1320.0,LongTerm
+260,May,2,13,3820.0,EUR,Apartment,Dublin City North - Dublin 15,3,1,No,No,6,Estate Agent,Dublin City North,15,1273.33,ShortTerm
+261,May,2,14,5250.0,EUR,House,Dublin City South - Dublin 10,3,1,Yes,,3,Estate Agent,Dublin City South,10,1750.0,ShortTerm
+262,May,2,14,1580.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1580.0,LongTerm
+263,May,2,14,6400.0,EUR,House,Dublin City South - Dublin 8,3,2,Yes,,3,Owner,Dublin City South,8,2133.33,ShortTerm
+264,May,2,14,890.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,12,Estate Agent,Dublin City North,1,890.0,LongTerm
+265,May,2,14,4570.0,EUR,Apartment,Dublin City North - Dublin 13,3,2,No,,12,Estate Agent,Dublin City North,13,1523.33,LongTerm
+266,May,2,14,1450.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,,No,12,Estate Agent,Dublin City North,9,1450.0,LongTerm
+267,May,2,14,5730.0,EUR,House,Dublin City South - Dublin 22,3,1,Yes,Yes,3,Estate Agent,Dublin City South,22,1910.0,ShortTerm
+268,May,2,14,1200.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,,12,Owner,Dublin City South,2,1200.0,LongTerm
+269,May,2,14,1920.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,3,Estate Agent,Dublin City South,2,960.0,ShortTerm
+270,May,2,14,2310.0,EUR,Apartment,Dublin City South - Dublin 16,2,1,No,No,12,Owner,Dublin City South,16,1155.0,LongTerm
+271,May,2,14,4680.0,EUR,House,Dublin City South - Dublin 12,3,2,Yes,Yes,6,Estate Agent,Dublin City South,12,1560.0,ShortTerm
+272,May,2,14,980.0,EUR,Apartment,North Co Dublin,1,1,No,No,6,Estate Agent,North Co Dublin,,980.0,ShortTerm
+273,May,2,14,1880.0,EUR,Apartment,Dublin City North - Dublin 3,1,1,No,No,12,Owner,Dublin City North,3,1880.0,LongTerm
+274,May,2,14,1740.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Owner,Dublin City North,1,1740.0,LongTerm
+275,May,2,14,2800.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1400.0,LongTerm
+276,May,2,14,5760.0,EUR,House,Dublin City South - Dublin 2,3,2,Yes,Yes,6,Owner,Dublin City South,2,1920.0,ShortTerm
+277,May,2,14,880.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,,12,Owner,Dublin City North,1,880.0,LongTerm
+278,May,2,14,1760.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,6,Estate Agent,Dublin City North,1,1760.0,ShortTerm
+279,May,2,14,1120.0,EUR,Apartment,Dublin City South - Dublin 12,1,1,No,No,12,Estate Agent,Dublin City South,12,1120.0,LongTerm
+280,May,2,14,980.0,EUR,Apartment,Dublin City South - Dublin 12,2,2,Yes,No,12,Owner,Dublin City South,12,490.0,LongTerm
+281,May,2,15,2020.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,12,Owner,Dublin City North,17,1010.0,LongTerm
+282,May,2,15,1800.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,No,No,,Estate Agent,Dublin City North,15,1800.0,Unknown
+283,May,2,15,1450.0,EUR,Apartment,South Co Dublin,2,2,Yes,No,6,Estate Agent,South Co Dublin,,725.0,ShortTerm
+284,May,2,15,1510.0,EUR,Apartment,Dublin City South - Dublin 20,3,2,,No,12,Estate Agent,Dublin City South,20,503.33,LongTerm
+285,May,2,15,6260.0,EUR,House,Dublin City South - Dublin 4,3,1,No,Yes,12,Estate Agent,Dublin City South,4,2086.67,LongTerm
+286,May,2,15,1010.0,EUR,Apartment,Dublin City South - Dublin 24,1,2,Yes,No,12,Estate Agent,Dublin City South,24,1010.0,LongTerm
+287,May,2,15,4250.0,EUR,House,Dublin City North - Dublin 1,3,1,Yes,Yes,12,Estate Agent,Dublin City North,1,1416.67,LongTerm
+288,May,2,15,1460.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Estate Agent,Dublin City North,11,1460.0,LongTerm
+289,May,2,15,2580.0,EUR,Apartment,Dublin City South - Dublin 16,2,1,No,No,6,Estate Agent,Dublin City South,16,1290.0,ShortTerm
+290,May,2,15,3580.0,EUR,House,Dublin City North - Dublin 1,4,3,Yes,Yes,12,Owner,Dublin City North,1,895.0,LongTerm
+291,May,2,15,2070.0,EUR,Apartment,Dublin City North - Dublin 3,1,1,No,No,12,Estate Agent,Dublin City North,3,2070.0,LongTerm
+292,May,2,15,1740.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1740.0,LongTerm
+293,May,2,15,1440.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,,No,6,Owner,Dublin City South,2,1440.0,ShortTerm
+294,May,2,15,5030.0,EUR,House,Dublin City North - Dublin 15,4,1,Yes,Yes,3,Estate Agent,Dublin City North,15,1257.5,ShortTerm
+295,May,2,15,4380.0,EUR,House,Dublin City South - Dublin 24,3,1,No,,3,Estate Agent,Dublin City South,24,1460.0,ShortTerm
+296,May,2,15,2990.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1495.0,LongTerm
+297,May,2,15,3230.0,EUR,House,Dublin City South - Dublin 22,3,2,No,Yes,12,Owner,Dublin City South,22,1076.67,LongTerm
+298,May,2,15,1800.0,EUR,Apartment,Dublin City North - Dublin 11,2,2,No,No,12,Estate Agent,Dublin City North,11,900.0,LongTerm
+299,May,2,15,1860.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Owner,Dublin City North,1,1860.0,LongTerm
+300,May,2,15,2550.0,EUR,House,Dublin City South - Dublin 22,3,2,Yes,Yes,,Estate Agent,Dublin City South,22,850.0,Unknown
+301,May,2,16,1650.0,EUR,Apartment,Dublin City South - Dublin 18,2,2,No,No,12,Estate Agent,Dublin City South,18,825.0,LongTerm
+302,May,2,16,2510.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,No,No,6,Estate Agent,Dublin City North,11,1255.0,ShortTerm
+303,May,2,16,3810.0,EUR,House,Dublin City North - Dublin 5,1,1,No,Yes,6,Owner,Dublin City North,5,3810.0,ShortTerm
+304,May,2,16,2400.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1200.0,LongTerm
+305,May,2,16,2500.0,EUR,House,Dublin City South - Dublin 6W,4,3,Yes,Yes,6,Owner,Dublin City South,6W,625.0,ShortTerm
+306,May,2,16,1510.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Owner,Dublin City North,11,1510.0,LongTerm
+307,May,2,16,4350.0,EUR,House,Dublin City South - Dublin 20,3,2,No,Yes,6,Owner,Dublin City South,20,1450.0,ShortTerm
+308,May,2,16,790.0,EUR,Apartment,Dublin City South - Dublin 14,1,1,No,No,12,Estate Agent,Dublin City South,14,790.0,LongTerm
+309,May,2,16,1250.0,EUR,Apartment,North Co Dublin,1,1,,,12,Owner,North Co Dublin,,1250.0,LongTerm
+310,May,2,16,2350.0,EUR,Apartment,Dublin City South - Dublin 14,2,1,No,No,12,Owner,Dublin City South,14,1175.0,LongTerm
+311,May,2,16,2970.0,EUR,House,Dublin City South - Dublin 4,3,2,,Yes,12,Owner,Dublin City South,4,990.0,LongTerm
+312,May,2,16,1730.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,No,No,6,Estate Agent,Dublin City South,16,1730.0,ShortTerm
+313,May,2,16,1450.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,,No,12,Estate Agent,Dublin City North,1,725.0,LongTerm
+314,May,2,16,1190.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,3,Estate Agent,Dublin City North,1,1190.0,ShortTerm
+315,May,2,16,4930.0,EUR,House,Dublin City South - Dublin 22,4,3,No,Yes,12,Owner,Dublin City South,22,1232.5,LongTerm
+316,May,2,16,5200.0,EUR,House,Dublin City North - Dublin 11,1,2,No,Yes,3,Estate Agent,Dublin City North,11,5200.0,ShortTerm
+317,May,2,16,5460.0,EUR,House,Dublin City South - Dublin 6,4,3,Yes,Yes,6,Estate Agent,Dublin City South,6,1365.0,ShortTerm
+318,May,2,16,2760.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1380.0,LongTerm
+319,May,2,16,1060.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,12,Estate Agent,Dublin City South,2,1060.0,LongTerm
+320,May,2,16,1420.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,710.0,LongTerm
+321,May,2,17,1850.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,No,No,12,Estate Agent,Dublin City South,20,1850.0,LongTerm
+322,May,2,17,1120.0,EUR,Apartment,Dublin City South - Dublin 16,2,1,No,No,12,Owner,Dublin City South,16,560.0,LongTerm
+323,May,2,17,1350.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,No,No,6,Estate Agent,Dublin City North,7,675.0,ShortTerm
+324,May,2,17,4600.0,EUR,House,Dublin City South - Dublin 14,2,1,Yes,Yes,12,Owner,Dublin City South,14,2300.0,LongTerm
+325,May,2,17,2400.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,No,No,6,Estate Agent,Dublin City South,4,1200.0,ShortTerm
+326,May,2,17,1610.0,EUR,Apartment,Dublin City South - Dublin 12,1,2,No,No,3,Estate Agent,Dublin City South,12,1610.0,ShortTerm
+327,May,2,17,1120.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,,No,12,Estate Agent,Dublin City North,13,1120.0,LongTerm
+328,May,2,17,3970.0,EUR,House,Dublin City South - Dublin 2,5,3,No,Yes,12,Owner,Dublin City South,2,794.0,LongTerm
+329,May,2,17,5170.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Estate Agent,Dublin City North,1,1723.33,LongTerm
+330,May,2,17,1850.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,Yes,No,12,Estate Agent,Dublin City South,2,925.0,LongTerm
+331,May,2,17,1560.0,EUR,Apartment,Dublin City South - Dublin 8,2,2,Yes,No,12,Estate Agent,Dublin City South,8,780.0,LongTerm
+332,May,2,17,3010.0,EUR,Apartment,Dublin City South - Dublin 4,2,2,No,No,12,Estate Agent,Dublin City South,4,1505.0,LongTerm
+333,May,2,17,1590.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1590.0,LongTerm
+334,May,2,17,1710.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,6,Estate Agent,Dublin City South,6,1710.0,ShortTerm
+335,May,2,17,5710.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,Yes,No,3,Estate Agent,Dublin City North,1,1903.33,ShortTerm
+336,May,2,17,1650.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,825.0,LongTerm
+337,May,2,17,5970.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,,3,Owner,Dublin City North,1,1990.0,ShortTerm
+338,May,2,17,3030.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1515.0,LongTerm
+339,May,2,17,2240.0,EUR,Apartment,Dublin City South - Dublin 4,1,1,No,No,3,Estate Agent,Dublin City South,4,2240.0,ShortTerm
+340,May,2,17,2430.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1215.0,LongTerm
+341,May,2,18,870.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Estate Agent,Dublin City South,24,870.0,LongTerm
+342,May,2,18,2020.0,EUR,House,North Co Dublin,2,2,Yes,,12,Estate Agent,North Co Dublin,,1010.0,LongTerm
+343,May,2,18,2290.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1145.0,LongTerm
+344,May,2,18,1090.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,No,No,12,Estate Agent,Dublin City South,6W,545.0,LongTerm
+345,May,2,18,2120.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,12,Estate Agent,Dublin City North,1,2120.0,LongTerm
+346,May,2,18,4480.0,EUR,House,Dublin City South - Dublin 6,4,3,Yes,Yes,12,Estate Agent,Dublin City South,6,1120.0,LongTerm
+347,May,2,18,1410.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,Yes,No,12,Owner,Dublin City North,13,1410.0,LongTerm
+348,May,2,18,4460.0,EUR,House,North Co Dublin,3,2,Yes,Yes,6,Owner,North Co Dublin,,1486.67,ShortTerm
+349,May,2,18,2350.0,EUR,House,Dublin City North - Dublin 11,4,1,No,Yes,12,Estate Agent,Dublin City North,11,587.5,LongTerm
+350,May,2,18,1660.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,12,Owner,Dublin City South,2,1660.0,LongTerm
+351,May,2,18,1160.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,,No,12,Estate Agent,Dublin City South,2,1160.0,LongTerm
+352,May,2,18,5070.0,EUR,House,Dublin City North - Dublin 5,3,1,No,Yes,3,Estate Agent,Dublin City North,5,1690.0,ShortTerm
+353,May,2,18,1760.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,12,Estate Agent,Dublin City North,1,1760.0,LongTerm
+354,May,2,18,5120.0,EUR,House,Dublin City North - Dublin 9,2,2,Yes,Yes,6,Owner,Dublin City North,9,2560.0,ShortTerm
+355,May,2,18,2430.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,,Estate Agent,Dublin City South,2,2430.0,Unknown
+356,May,2,18,2050.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1025.0,LongTerm
+357,June,2,18,1030.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,,No,12,Estate Agent,Dublin City North,17,515.0,LongTerm
+358,June,2,18,2870.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1435.0,LongTerm
+359,June,2,18,1580.0,EUR,Apartment,South Co Dublin,1,2,No,No,12,Estate Agent,South Co Dublin,,1580.0,LongTerm
+360,June,2,18,7100.0,EUR,House,Dublin City South - Dublin 2,5,3,No,Yes,3,Owner,Dublin City South,2,1420.0,ShortTerm
+361,June,2,19,2080.0,EUR,Apartment,North Co Dublin,2,1,No,No,12,Owner,North Co Dublin,,1040.0,LongTerm
+362,June,2,19,2050.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,12,Owner,Dublin City North,1,1025.0,LongTerm
+363,June,2,19,1720.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1720.0,LongTerm
+364,June,2,19,1470.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,Yes,No,12,Estate Agent,Dublin City South,22,1470.0,LongTerm
+365,June,2,19,4370.0,EUR,House,Dublin City North - Dublin 17,3,1,Yes,Yes,12,Estate Agent,Dublin City North,17,1456.67,LongTerm
+366,June,2,19,1900.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1900.0,LongTerm
+367,June,2,19,2510.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,,12,Estate Agent,Dublin City South,2,1255.0,LongTerm
+368,June,2,19,1510.0,EUR,Apartment,Dublin City North - Dublin 5,2,1,No,No,12,Estate Agent,Dublin City North,5,755.0,LongTerm
+369,June,2,19,2380.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,No,12,Estate Agent,Dublin City North,3,1190.0,LongTerm
+370,June,2,19,3250.0,EUR,House,Dublin City North - Dublin 7,3,1,No,Yes,12,Estate Agent,Dublin City North,7,1083.33,LongTerm
+371,June,2,19,1500.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Owner,Dublin City South,2,1500.0,LongTerm
+372,June,2,19,1160.0,EUR,Apartment,Dublin City South - Dublin 22,1,2,No,No,12,Estate Agent,Dublin City South,22,1160.0,LongTerm
+373,June,2,19,1020.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,Yes,No,12,Owner,Dublin City South,24,1020.0,LongTerm
+374,June,2,19,2130.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,2130.0,LongTerm
+375,June,2,19,1410.0,EUR,Apartment,Dublin City South - Dublin 18,2,2,No,No,12,Owner,Dublin City South,18,705.0,LongTerm
+376,June,2,19,2230.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,2230.0,LongTerm
+377,June,2,19,5950.0,EUR,House,Dublin City South - Dublin 4,1,2,Yes,,12,Estate Agent,Dublin City South,4,5950.0,LongTerm
+378,June,2,19,4640.0,EUR,House,Dublin City South - Dublin 18,4,3,Yes,Yes,6,Owner,Dublin City South,18,1160.0,ShortTerm
+379,June,2,19,4060.0,EUR,House,Dublin City South - Dublin 6W,4,3,Yes,Yes,12,Owner,Dublin City South,6W,1015.0,LongTerm
+380,June,2,19,5610.0,EUR,House,Dublin City South - Dublin 14,5,3,Yes,Yes,3,Estate Agent,Dublin City South,14,1122.0,ShortTerm
+381,June,2,20,1280.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,640.0,LongTerm
+382,June,2,20,3050.0,EUR,House,Dublin City North - Dublin 17,3,1,No,Yes,6,Owner,Dublin City North,17,1016.67,ShortTerm
+383,June,2,20,3540.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,Yes,No,12,Owner,Dublin City North,1,1180.0,LongTerm
+384,June,2,20,3220.0,EUR,House,Dublin City South - Dublin 16,4,2,Yes,Yes,,Owner,Dublin City South,16,805.0,Unknown
+385,June,2,20,1770.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Estate Agent,Dublin City South,2,1770.0,LongTerm
+386,June,2,20,2180.0,EUR,House,Dublin City South - Dublin 16,4,1,Yes,Yes,12,Estate Agent,Dublin City South,16,545.0,LongTerm
+387,June,2,20,1430.0,EUR,Apartment,Dublin City South - Dublin 8,1,2,No,No,12,Estate Agent,Dublin City South,8,1430.0,LongTerm
+388,June,2,20,760.0,EUR,Apartment,Dublin City South - Dublin 16,1,2,No,No,12,Estate Agent,Dublin City South,16,760.0,LongTerm
+389,June,2,20,1280.0,EUR,Apartment,Dublin City North - Dublin 17,2,1,No,No,12,Estate Agent,Dublin City North,17,640.0,LongTerm
+390,June,2,20,1730.0,EUR,Apartment,Dublin City South - Dublin 14,1,1,No,No,6,Estate Agent,Dublin City South,14,1730.0,ShortTerm
+391,June,2,20,2040.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,No,No,6,Owner,Dublin City South,8,1020.0,ShortTerm
+392,June,2,20,760.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,No,No,6,Estate Agent,Dublin City North,15,760.0,ShortTerm
+393,June,2,20,1790.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Estate Agent,Dublin City North,1,895.0,LongTerm
+394,June,2,20,1670.0,EUR,Apartment,Dublin City South - Dublin 16,1,2,No,No,12,Estate Agent,Dublin City South,16,1670.0,LongTerm
+395,June,2,20,1440.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,6,Owner,Dublin City North,17,720.0,ShortTerm
+396,June,2,20,1460.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Owner,Dublin City South,2,730.0,LongTerm
+397,June,2,20,4480.0,EUR,House,Dublin City North - Dublin 1,4,4,Yes,Yes,12,Estate Agent,Dublin City North,1,1120.0,LongTerm
+398,June,2,20,1740.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,6,Owner,Dublin City North,11,1740.0,ShortTerm
+399,June,2,20,1890.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,No,12,Owner,Dublin City South,8,1890.0,LongTerm
+400,June,2,20,1580.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1580.0,LongTerm
+401,June,2,21,1720.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,No,No,12,Estate Agent,Dublin City South,6W,860.0,LongTerm
+402,June,2,21,2970.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,No,No,12,Estate Agent,Dublin City South,2,990.0,LongTerm
+403,June,2,21,2030.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,No,No,6,Estate Agent,Dublin City North,9,1015.0,ShortTerm
+404,June,2,21,2150.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,12,Estate Agent,Dublin City North,1,2150.0,LongTerm
+405,June,2,21,1930.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1930.0,LongTerm
+406,June,2,21,1070.0,EUR,Apartment,Dublin City North - Dublin 5,2,1,No,No,12,Estate Agent,Dublin City North,5,535.0,LongTerm
+407,June,2,21,1810.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1810.0,LongTerm
+408,June,2,21,2850.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,3,Estate Agent,Dublin City South,2,2850.0,ShortTerm
+409,June,2,21,1390.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,No,No,12,Estate Agent,Dublin City North,11,695.0,LongTerm
+410,June,2,21,5120.0,EUR,House,Dublin City South - Dublin 16,2,2,Yes,Yes,3,Estate Agent,Dublin City South,16,2560.0,ShortTerm
+411,June,2,21,1430.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,,12,Owner,Dublin City North,1,1430.0,LongTerm
+412,June,2,21,1090.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,,No,12,Estate Agent,Dublin City South,2,1090.0,LongTerm
+413,June,2,21,6610.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,No,No,3,Owner,Dublin City South,2,2203.33,ShortTerm
+414,June,2,21,2820.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,3,Estate Agent,Dublin City North,1,1410.0,ShortTerm
+415,June,2,21,1780.0,EUR,Apartment,North Co Dublin,1,1,No,No,6,Estate Agent,North Co Dublin,,1780.0,ShortTerm
+416,June,2,21,1840.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Estate Agent,Dublin City South,2,920.0,ShortTerm
+417,June,2,21,4520.0,EUR,House,Dublin City South - Dublin 22,3,2,No,Yes,12,Estate Agent,Dublin City South,22,1506.67,LongTerm
+418,June,2,21,1530.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,No,No,12,Estate Agent,Dublin City South,4,1530.0,LongTerm
+419,June,2,21,2200.0,EUR,Apartment,Dublin City South - Dublin 16,2,1,,No,12,Estate Agent,Dublin City South,16,1100.0,LongTerm
+420,June,2,21,2770.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,,3,Estate Agent,Dublin City North,1,2770.0,ShortTerm
+421,June,2,22,4500.0,EUR,House,Dublin City North - Dublin 13,3,2,No,Yes,3,Owner,Dublin City North,13,1500.0,ShortTerm
+422,June,2,22,1950.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,3,Estate Agent,Dublin City North,1,1950.0,ShortTerm
+423,June,2,22,1820.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,910.0,LongTerm
+424,June,2,22,1470.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Estate Agent,Dublin City North,11,1470.0,LongTerm
+425,June,2,22,1140.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Estate Agent,Dublin City South,2,1140.0,ShortTerm
+426,June,2,22,2000.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1000.0,LongTerm
+427,June,2,22,5340.0,EUR,House,Dublin City South - Dublin 8,4,1,Yes,Yes,12,Owner,Dublin City South,8,1335.0,LongTerm
+428,June,2,22,1940.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,6,Estate Agent,Dublin City North,1,1940.0,ShortTerm
+429,June,2,22,4600.0,EUR,House,North Co Dublin,3,1,No,Yes,12,Owner,North Co Dublin,,1533.33,LongTerm
+430,June,2,22,4930.0,EUR,House,Dublin City South - Dublin 12,5,3,Yes,Yes,12,Estate Agent,Dublin City South,12,986.0,LongTerm
+431,June,2,22,2320.0,EUR,Apartment,South Co Dublin,3,1,No,,6,Estate Agent,South Co Dublin,,773.33,ShortTerm
+432,June,2,22,1040.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,,12,Estate Agent,Dublin City North,1,1040.0,LongTerm
+433,June,2,22,1100.0,EUR,Apartment,Dublin City North - Dublin 17,1,1,Yes,No,12,Estate Agent,Dublin City North,17,1100.0,LongTerm
+434,June,2,22,2010.0,EUR,Apartment,Dublin City North - Dublin 5,2,2,No,No,12,Estate Agent,Dublin City North,5,1005.0,LongTerm
+435,June,2,22,2520.0,EUR,Apartment,Dublin City North - Dublin 15,2,2,No,No,12,Estate Agent,Dublin City North,15,1260.0,LongTerm
+436,June,2,22,2650.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1325.0,LongTerm
+437,June,2,22,1390.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Estate Agent,Dublin City South,2,1390.0,LongTerm
+438,June,2,22,1290.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,645.0,LongTerm
+439,June,2,22,4010.0,EUR,Apartment,Dublin City South - Dublin 6W,3,2,No,No,12,Estate Agent,Dublin City South,6W,1336.67,LongTerm
+440,June,2,22,2730.0,EUR,House,Dublin City North - Dublin 9,3,2,Yes,Yes,12,Owner,Dublin City North,9,910.0,LongTerm
+441,June,2,23,1200.0,EUR,Apartment,Dublin City South - Dublin 14,2,2,,No,6,Owner,Dublin City South,14,600.0,ShortTerm
+442,June,2,23,1800.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,900.0,LongTerm
+443,June,2,23,4760.0,EUR,House,Dublin City South - Dublin 12,3,1,No,Yes,12,Estate Agent,Dublin City South,12,1586.67,LongTerm
+444,June,2,23,820.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,Yes,No,12,Estate Agent,Dublin City North,15,820.0,LongTerm
+445,June,2,23,1030.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,12,Estate Agent,Dublin City North,1,1030.0,LongTerm
+446,June,2,23,1360.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1360.0,LongTerm
+447,June,2,23,1780.0,EUR,Apartment,Dublin City South - Dublin 10,1,1,No,No,12,Estate Agent,Dublin City South,10,1780.0,LongTerm
+448,June,2,23,2180.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Owner,Dublin City South,2,2180.0,LongTerm
+449,June,2,23,1230.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,No,No,12,Estate Agent,Dublin City North,15,1230.0,LongTerm
+450,June,2,23,4350.0,EUR,House,Dublin City North - Dublin 1,4,1,Yes,Yes,12,Owner,Dublin City North,1,1087.5,LongTerm
+451,June,2,23,890.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Estate Agent,Dublin City North,11,890.0,LongTerm
+452,June,2,23,1730.0,EUR,Apartment,Dublin City South - Dublin 10,1,2,No,No,12,Estate Agent,Dublin City South,10,1730.0,LongTerm
+453,June,2,23,2050.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1025.0,LongTerm
+454,June,2,23,2330.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1165.0,LongTerm
+455,June,2,23,1540.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1540.0,LongTerm
+456,June,2,23,4500.0,EUR,House,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,2250.0,LongTerm
+457,June,2,23,5140.0,EUR,House,Dublin City North - Dublin 1,3,1,Yes,Yes,12,Estate Agent,Dublin City North,1,1713.33,LongTerm
+458,June,2,23,1120.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,Yes,No,6,Estate Agent,Dublin City North,15,1120.0,ShortTerm
+459,June,2,23,2720.0,EUR,House,North Co Dublin,4,2,,Yes,12,Estate Agent,North Co Dublin,,680.0,LongTerm
+460,June,2,23,1030.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,No,No,6,Estate Agent,Dublin City South,6W,515.0,ShortTerm
+461,June,2,24,2040.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1020.0,LongTerm
+462,June,2,24,1440.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,,12,Estate Agent,Dublin City South,2,1440.0,LongTerm
+463,June,2,24,2120.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,12,Estate Agent,Dublin City North,1,2120.0,LongTerm
+464,June,2,24,1870.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1870.0,LongTerm
+465,June,2,24,1020.0,EUR,Apartment,Dublin City South - Dublin 22,2,2,Yes,No,12,Estate Agent,Dublin City South,22,510.0,LongTerm
+466,June,2,24,3660.0,EUR,House,Dublin City South - Dublin 24,3,2,No,Yes,12,Estate Agent,Dublin City South,24,1220.0,LongTerm
+467,June,2,24,2010.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,6,Estate Agent,Dublin City North,1,2010.0,ShortTerm
+468,June,2,24,2310.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,2310.0,LongTerm
+469,June,2,24,1980.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,Yes,No,12,Estate Agent,Dublin City North,11,990.0,LongTerm
+470,June,2,24,2760.0,EUR,House,Dublin City South - Dublin 18,4,3,Yes,Yes,6,Estate Agent,Dublin City South,18,690.0,ShortTerm
+471,June,2,24,1310.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,655.0,LongTerm
+472,June,2,24,2470.0,EUR,House,Dublin City South - Dublin 10,5,2,Yes,Yes,12,Owner,Dublin City South,10,494.0,LongTerm
+473,June,2,24,1110.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,Yes,No,12,Estate Agent,Dublin City North,9,1110.0,LongTerm
+474,June,2,24,1900.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,12,Estate Agent,Dublin City South,20,950.0,LongTerm
+475,June,2,24,2220.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,No,12,Owner,Dublin City North,3,1110.0,LongTerm
+476,June,2,24,910.0,EUR,Apartment,Dublin City South - Dublin 12,2,2,No,No,,Owner,Dublin City South,12,455.0,Unknown
+477,June,2,24,2240.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1120.0,LongTerm
+478,June,2,24,2830.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,Yes,No,12,Estate Agent,Dublin City North,1,1415.0,LongTerm
+479,June,2,24,1400.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,3,Estate Agent,Dublin City North,1,700.0,ShortTerm
+480,June,2,24,2140.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2140.0,LongTerm
+481,June,2,25,1010.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Estate Agent,Dublin City South,24,1010.0,LongTerm
+482,June,2,25,1220.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1220.0,LongTerm
+483,June,2,25,1140.0,EUR,Apartment,South Co Dublin,2,1,No,No,12,Owner,South Co Dublin,,570.0,LongTerm
+484,June,2,25,1490.0,EUR,Apartment,Dublin City North - Dublin 11,2,2,No,No,12,Estate Agent,Dublin City North,11,745.0,LongTerm
+485,June,2,25,2230.0,EUR,House,Dublin City North - Dublin 11,4,2,,,12,Owner,Dublin City North,11,557.5,LongTerm
+486,June,2,25,1070.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,,No,12,Estate Agent,Dublin City North,1,1070.0,LongTerm
+487,June,2,25,1300.0,EUR,Apartment,Dublin City North - Dublin 7,1,1,No,No,12,Estate Agent,Dublin City North,7,1300.0,LongTerm
+488,June,2,25,1480.0,EUR,Apartment,Dublin City South - Dublin 18,1,1,No,No,12,Owner,Dublin City South,18,1480.0,LongTerm
+489,June,2,25,1830.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1830.0,LongTerm
+490,June,2,25,3310.0,EUR,House,North Co Dublin,3,1,No,Yes,12,Estate Agent,North Co Dublin,,1103.33,LongTerm
+491,June,2,25,940.0,EUR,Apartment,Dublin City North - Dublin 5,1,1,No,No,12,Owner,Dublin City North,5,940.0,LongTerm
+492,June,2,25,1660.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,No,No,12,Estate Agent,Dublin City South,24,830.0,LongTerm
+493,June,2,25,1350.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,12,Estate Agent,Dublin City North,1,1350.0,LongTerm
+494,June,2,25,1970.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,985.0,LongTerm
+495,June,2,25,1810.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,905.0,LongTerm
+496,June,2,25,870.0,EUR,Apartment,Dublin City North - Dublin 7,1,2,No,No,12,Estate Agent,Dublin City North,7,870.0,LongTerm
+497,June,2,25,1940.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,6,Estate Agent,Dublin City North,1,1940.0,ShortTerm
+498,June,2,25,2080.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,3,Estate Agent,Dublin City North,1,2080.0,ShortTerm
+499,June,2,25,3090.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1545.0,LongTerm
+500,June,2,25,4710.0,EUR,House,Dublin City South - Dublin 6W,3,1,Yes,Yes,12,Owner,Dublin City South,6W,1570.0,LongTerm
+501,June,2,26,1560.0,EUR,Apartment,Dublin City South - Dublin 20,1,2,No,No,12,Estate Agent,Dublin City South,20,1560.0,LongTerm
+502,June,2,26,4180.0,EUR,House,Dublin City South - Dublin 14,4,1,Yes,Yes,6,Owner,Dublin City South,14,1045.0,ShortTerm
+503,June,2,26,2980.0,EUR,House,Dublin City North - Dublin 11,4,2,Yes,Yes,12,Estate Agent,Dublin City North,11,745.0,LongTerm
+504,June,2,26,4080.0,EUR,House,Dublin City North - Dublin 3,4,4,Yes,Yes,6,Owner,Dublin City North,3,1020.0,ShortTerm
+505,June,2,26,5310.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,No,No,12,Estate Agent,Dublin City South,2,1770.0,LongTerm
+506,June,2,26,1630.0,EUR,Apartment,Dublin City South - Dublin 10,1,2,Yes,No,6,Estate Agent,Dublin City South,10,1630.0,ShortTerm
+507,June,2,26,950.0,EUR,Apartment,Dublin City South - Dublin 14,1,2,No,No,12,Estate Agent,Dublin City South,14,950.0,LongTerm
+508,June,2,26,1550.0,EUR,Apartment,Dublin City North - Dublin 17,1,2,No,No,12,Estate Agent,Dublin City North,17,1550.0,LongTerm
+509,June,2,26,2870.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Estate Agent,Dublin City South,2,1435.0,ShortTerm
 1,July,3,1,2530.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,3,Estate Agent,Dublin City South,2,2530.0,ShortTerm
 2,July,3,1,1020.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,No,No,6,Estate Agent,Dublin City North,5,1020.0,ShortTerm
 3,July,3,1,1500.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,750.0,LongTerm
@@ -299,6 +1118,412 @@ ListingID,Month,Quarter,Page,Price,Currency,Property Type,Location,Bedrooms,Bath
 98,July,3,5,3280.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1640.0,LongTerm
 99,July,3,5,4680.0,EUR,House,Dublin City South - Dublin 6W,4,4,Yes,Yes,6,Estate Agent,Dublin City South,6W,1170.0,ShortTerm
 100,July,3,5,2670.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,Yes,No,3,Owner,Dublin City North,1,890.0,ShortTerm
+101,July,3,6,2420.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Estate Agent,Dublin City North,1,1210.0,LongTerm
+102,July,3,6,1290.0,EUR,Apartment,Dublin City South - Dublin 10,2,2,No,No,12,Estate Agent,Dublin City South,10,645.0,LongTerm
+103,July,3,6,860.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,No,No,12,Estate Agent,Dublin City South,20,860.0,LongTerm
+104,July,3,6,3710.0,EUR,House,Dublin City South - Dublin 4,3,1,Yes,Yes,12,Owner,Dublin City South,4,1236.67,LongTerm
+105,July,3,6,1850.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,No,No,12,Owner,Dublin City South,16,1850.0,LongTerm
+106,July,3,6,1400.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,Yes,No,12,Owner,Dublin City North,5,1400.0,LongTerm
+107,July,3,6,1890.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,945.0,LongTerm
+108,July,3,6,850.0,EUR,Apartment,Dublin City North - Dublin 11,1,2,,No,12,Estate Agent,Dublin City North,11,850.0,LongTerm
+109,July,3,6,1630.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,No,No,12,Estate Agent,Dublin City South,22,1630.0,LongTerm
+110,July,3,6,880.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,,12,Estate Agent,Dublin City South,8,880.0,LongTerm
+111,July,3,6,2000.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2000.0,LongTerm
+112,July,3,6,1170.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1170.0,LongTerm
+113,July,3,6,1140.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,6,Estate Agent,Dublin City South,12,570.0,ShortTerm
+114,July,3,6,1490.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1490.0,LongTerm
+115,July,3,6,4310.0,EUR,House,Dublin City South - Dublin 2,3,2,No,Yes,12,Estate Agent,Dublin City South,2,1436.67,LongTerm
+116,July,3,6,3150.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,No,No,6,Estate Agent,Dublin City South,4,1575.0,ShortTerm
+117,July,3,6,3860.0,EUR,House,Dublin City North - Dublin 1,3,2,Yes,Yes,6,Estate Agent,Dublin City North,1,1286.67,ShortTerm
+118,July,3,6,4650.0,EUR,House,Dublin City South - Dublin 2,5,4,No,Yes,12,Estate Agent,Dublin City South,2,930.0,LongTerm
+119,July,3,6,1890.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,,Estate Agent,Dublin City South,2,1890.0,Unknown
+120,July,3,6,1620.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,810.0,LongTerm
+121,July,3,7,1850.0,EUR,Apartment,Dublin City North - Dublin 13,2,2,No,No,3,Estate Agent,Dublin City North,13,925.0,ShortTerm
+122,July,3,7,1780.0,EUR,Apartment,Dublin City South - Dublin 12,1,2,,No,12,Owner,Dublin City South,12,1780.0,LongTerm
+123,July,3,7,4070.0,EUR,Apartment,Dublin City North - Dublin 13,3,1,Yes,No,12,Owner,Dublin City North,13,1356.67,LongTerm
+124,July,3,7,3730.0,EUR,House,Dublin City South - Dublin 22,3,2,Yes,,3,Estate Agent,Dublin City South,22,1243.33,ShortTerm
+125,July,3,7,1770.0,EUR,Apartment,Dublin City North - Dublin 13,1,2,No,No,6,Owner,Dublin City North,13,1770.0,ShortTerm
+126,July,3,7,3230.0,EUR,House,Dublin City South - Dublin 16,3,2,No,Yes,3,Owner,Dublin City South,16,1076.67,ShortTerm
+127,July,3,7,1060.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,No,No,12,Estate Agent,Dublin City South,22,1060.0,LongTerm
+128,July,3,7,1470.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,12,Estate Agent,Dublin City North,1,735.0,LongTerm
+129,July,3,7,1780.0,EUR,Apartment,Dublin City North - Dublin 15,1,1,Yes,No,3,Estate Agent,Dublin City North,15,1780.0,ShortTerm
+130,July,3,7,2910.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,Yes,No,12,Estate Agent,Dublin City South,8,1455.0,LongTerm
+131,July,3,7,4200.0,EUR,House,Dublin City South - Dublin 16,4,2,Yes,Yes,3,Estate Agent,Dublin City South,16,1050.0,ShortTerm
+132,July,3,7,1380.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,690.0,LongTerm
+133,July,3,7,4470.0,EUR,House,Dublin City North - Dublin 3,4,1,Yes,Yes,12,Owner,Dublin City North,3,1117.5,LongTerm
+134,July,3,7,1790.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,895.0,LongTerm
+135,July,3,7,1900.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1900.0,LongTerm
+136,July,3,7,1780.0,EUR,Apartment,Dublin City North - Dublin 15,1,1,No,No,6,Estate Agent,Dublin City North,15,1780.0,ShortTerm
+137,July,3,7,3150.0,EUR,House,Dublin City South - Dublin 22,2,2,No,No,12,Estate Agent,Dublin City South,22,1575.0,LongTerm
+138,July,3,7,1900.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1900.0,LongTerm
+139,July,3,7,3690.0,EUR,House,Dublin City South - Dublin 12,4,1,Yes,Yes,6,Estate Agent,Dublin City South,12,922.5,ShortTerm
+140,July,3,7,1230.0,EUR,Apartment,Dublin City South - Dublin 22,2,1,Yes,No,12,Estate Agent,Dublin City South,22,615.0,LongTerm
+141,July,3,8,3800.0,EUR,House,Dublin City North - Dublin 17,3,2,Yes,Yes,12,Estate Agent,Dublin City North,17,1266.67,LongTerm
+142,July,3,8,3270.0,EUR,Apartment,Dublin City North - Dublin 3,3,2,Yes,No,6,Owner,Dublin City North,3,1090.0,ShortTerm
+143,July,3,8,2180.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,12,Estate Agent,Dublin City South,2,2180.0,LongTerm
+144,July,3,8,2390.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Estate Agent,Dublin City South,2,1195.0,ShortTerm
+145,July,3,8,1400.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,6,Estate Agent,Dublin City North,1,1400.0,ShortTerm
+146,July,3,8,2230.0,EUR,Apartment,Dublin City South - Dublin 4,2,2,No,No,12,Estate Agent,Dublin City South,4,1115.0,LongTerm
+147,July,3,8,1980.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,,Owner,Dublin City South,20,990.0,Unknown
+148,July,3,8,3710.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,Yes,No,12,Estate Agent,Dublin City North,1,1236.67,LongTerm
+149,July,3,8,1270.0,EUR,Apartment,Dublin City North - Dublin 17,2,1,No,No,12,Estate Agent,Dublin City North,17,635.0,LongTerm
+150,July,3,8,1670.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,No,No,12,Estate Agent,Dublin City North,9,1670.0,LongTerm
+151,July,3,8,2760.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1380.0,LongTerm
+152,July,3,8,790.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,No,No,12,Estate Agent,Dublin City North,13,790.0,LongTerm
+153,July,3,8,1660.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Owner,Dublin City North,1,1660.0,LongTerm
+154,July,3,8,3590.0,EUR,House,Dublin City South - Dublin 18,3,1,Yes,Yes,12,Estate Agent,Dublin City South,18,1196.67,LongTerm
+155,July,3,8,1720.0,EUR,Apartment,Dublin City North - Dublin 15,2,2,No,No,3,Owner,Dublin City North,15,860.0,ShortTerm
+156,July,3,8,1870.0,EUR,Apartment,Dublin City South - Dublin 18,2,2,Yes,No,12,Estate Agent,Dublin City South,18,935.0,LongTerm
+157,July,3,8,1900.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,12,Owner,Dublin City North,1,1900.0,LongTerm
+158,July,3,8,880.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,880.0,LongTerm
+159,August,3,8,1640.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,No,6,Estate Agent,Dublin City North,3,820.0,ShortTerm
+160,August,3,8,1390.0,EUR,Apartment,Dublin City South - Dublin 22,1,2,No,No,12,Estate Agent,Dublin City South,22,1390.0,LongTerm
+161,August,3,9,2130.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,2130.0,LongTerm
+162,August,3,9,1660.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1660.0,LongTerm
+163,August,3,9,4200.0,EUR,House,Dublin City South - Dublin 20,3,2,Yes,Yes,12,Estate Agent,Dublin City South,20,1400.0,LongTerm
+164,August,3,9,1600.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,,No,3,Estate Agent,Dublin City North,13,1600.0,ShortTerm
+165,August,3,9,5530.0,EUR,House,Dublin City North - Dublin 3,1,2,No,Yes,3,Owner,Dublin City North,3,5530.0,ShortTerm
+166,August,3,9,1770.0,EUR,Apartment,Dublin City South - Dublin 18,2,1,,No,12,Estate Agent,Dublin City South,18,885.0,LongTerm
+167,August,3,9,1310.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Owner,Dublin City South,24,1310.0,LongTerm
+168,August,3,9,2960.0,EUR,House,Dublin City South - Dublin 14,1,2,Yes,No,12,Owner,Dublin City South,14,2960.0,LongTerm
+169,August,3,9,2530.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1265.0,LongTerm
+170,August,3,9,4840.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,Yes,No,6,Estate Agent,Dublin City North,1,1613.33,ShortTerm
+171,August,3,9,5780.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,Yes,No,3,Estate Agent,Dublin City North,1,1926.67,ShortTerm
+172,August,3,9,2620.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,Yes,No,12,Estate Agent,Dublin City South,6W,1310.0,LongTerm
+173,August,3,9,2380.0,EUR,House,Dublin City South - Dublin 18,4,3,Yes,Yes,12,Estate Agent,Dublin City South,18,595.0,LongTerm
+174,August,3,9,2990.0,EUR,House,Dublin City South - Dublin 2,4,4,Yes,Yes,12,Estate Agent,Dublin City South,2,747.5,LongTerm
+175,August,3,9,3040.0,EUR,House,Dublin City South - Dublin 6,3,1,Yes,Yes,12,Estate Agent,Dublin City South,6,1013.33,LongTerm
+176,August,3,9,910.0,EUR,Apartment,Dublin City North - Dublin 9,1,2,No,No,12,Owner,Dublin City North,9,910.0,LongTerm
+177,August,3,9,1310.0,EUR,Apartment,Dublin City South - Dublin 24,1,2,Yes,No,12,Owner,Dublin City South,24,1310.0,LongTerm
+178,August,3,9,970.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Owner,Dublin City South,2,970.0,ShortTerm
+179,August,3,9,1520.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Estate Agent,Dublin City South,2,1520.0,ShortTerm
+180,August,3,9,1480.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Owner,Dublin City South,2,1480.0,ShortTerm
+181,August,3,10,900.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,No,No,,Estate Agent,Dublin City North,13,900.0,Unknown
+182,August,3,10,3320.0,EUR,House,Dublin City South - Dublin 22,2,2,Yes,No,12,Estate Agent,Dublin City South,22,1660.0,LongTerm
+183,August,3,10,2260.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1130.0,LongTerm
+184,August,3,10,1270.0,EUR,Apartment,Dublin City North - Dublin 17,1,1,No,No,3,Estate Agent,Dublin City North,17,1270.0,ShortTerm
+185,August,3,10,2270.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1135.0,LongTerm
+186,August,3,10,4840.0,EUR,House,Dublin City North - Dublin 13,3,1,Yes,Yes,3,Estate Agent,Dublin City North,13,1613.33,ShortTerm
+187,August,3,10,2080.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,3,Owner,Dublin City South,24,2080.0,ShortTerm
+188,August,3,10,3070.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,3,Estate Agent,Dublin City South,20,1535.0,ShortTerm
+189,August,3,10,1060.0,EUR,Apartment,Dublin City North - Dublin 3,1,1,No,No,12,Estate Agent,Dublin City North,3,1060.0,LongTerm
+190,August,3,10,1950.0,EUR,Apartment,Dublin City South - Dublin 18,1,2,Yes,No,3,Estate Agent,Dublin City South,18,1950.0,ShortTerm
+191,August,3,10,5290.0,EUR,House,Dublin City North - Dublin 1,3,1,Yes,Yes,12,Owner,Dublin City North,1,1763.33,LongTerm
+192,August,3,10,1250.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,,No,12,Owner,Dublin City South,2,1250.0,LongTerm
+193,August,3,10,2830.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,6,Estate Agent,Dublin City South,2,1415.0,ShortTerm
+194,August,3,10,1760.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,880.0,LongTerm
+195,August,3,10,1780.0,EUR,Apartment,Dublin City South - Dublin 20,1,2,No,No,12,Estate Agent,Dublin City South,20,1780.0,LongTerm
+196,August,3,10,1540.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1540.0,LongTerm
+197,August,3,10,3080.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1540.0,LongTerm
+198,August,3,10,780.0,EUR,Apartment,Dublin City South - Dublin 14,1,2,No,No,12,Owner,Dublin City South,14,780.0,LongTerm
+199,August,3,10,4630.0,EUR,House,Dublin City South - Dublin 2,5,3,No,Yes,12,Estate Agent,Dublin City South,2,926.0,LongTerm
+200,August,3,10,1080.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,12,Estate Agent,Dublin City North,17,540.0,LongTerm
+201,August,3,11,1890.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1890.0,LongTerm
+202,August,3,11,2580.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,No,No,12,Owner,Dublin City South,8,1290.0,LongTerm
+203,August,3,11,1640.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,12,Estate Agent,Dublin City North,1,1640.0,LongTerm
+204,August,3,11,3350.0,EUR,Apartment,Dublin City North - Dublin 13,3,2,Yes,No,12,Estate Agent,Dublin City North,13,1116.67,LongTerm
+205,August,3,11,2900.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Estate Agent,Dublin City North,1,1450.0,LongTerm
+206,August,3,11,1660.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1660.0,LongTerm
+207,August,3,11,3250.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,No,No,6,Estate Agent,Dublin City South,2,1083.33,ShortTerm
+208,August,3,11,4470.0,EUR,House,Dublin City South - Dublin 20,3,2,No,Yes,12,Estate Agent,Dublin City South,20,1490.0,LongTerm
+209,August,3,11,1630.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1630.0,LongTerm
+210,August,3,11,3440.0,EUR,House,Dublin City North - Dublin 15,3,2,No,Yes,12,Estate Agent,Dublin City North,15,1146.67,LongTerm
+211,August,3,11,2190.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,2190.0,LongTerm
+212,August,3,11,1650.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1650.0,LongTerm
+213,August,3,11,2450.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,No,No,12,Owner,Dublin City North,9,1225.0,LongTerm
+214,August,3,11,1840.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Estate Agent,Dublin City South,2,920.0,ShortTerm
+215,August,3,11,2980.0,EUR,House,Dublin City South - Dublin 14,4,4,Yes,Yes,12,Owner,Dublin City South,14,745.0,LongTerm
+216,August,3,11,1620.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,Yes,No,6,Estate Agent,Dublin City South,6,1620.0,ShortTerm
+217,August,3,11,1630.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,No,,12,Owner,Dublin City South,24,815.0,LongTerm
+218,August,3,11,3290.0,EUR,House,Dublin City North - Dublin 9,3,1,Yes,Yes,12,Estate Agent,Dublin City North,9,1096.67,LongTerm
+219,August,3,11,1950.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1950.0,LongTerm
+220,August,3,11,1330.0,EUR,Apartment,Dublin City North - Dublin 15,1,1,Yes,No,12,Owner,Dublin City North,15,1330.0,LongTerm
+221,August,3,12,4310.0,EUR,House,Dublin City South - Dublin 8,4,2,Yes,Yes,6,Owner,Dublin City South,8,1077.5,ShortTerm
+222,August,3,12,5880.0,EUR,House,Dublin City South - Dublin 2,3,1,No,Yes,12,Owner,Dublin City South,2,1960.0,LongTerm
+223,August,3,12,2450.0,EUR,Apartment,Dublin City South - Dublin 12,2,2,No,No,12,Owner,Dublin City South,12,1225.0,LongTerm
+224,August,3,12,2830.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1415.0,LongTerm
+225,August,3,12,1690.0,EUR,Apartment,Dublin City South - Dublin 12,1,1,Yes,No,12,Estate Agent,Dublin City South,12,1690.0,LongTerm
+226,August,3,12,1320.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,Yes,No,12,Estate Agent,Dublin City North,9,1320.0,LongTerm
+227,August,3,12,2030.0,EUR,House,Dublin City North - Dublin 17,2,2,No,No,6,Estate Agent,Dublin City North,17,1015.0,ShortTerm
+228,August,3,12,1930.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1930.0,LongTerm
+229,August,3,12,1810.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,Yes,No,12,Estate Agent,Dublin City South,12,905.0,LongTerm
+230,August,3,12,880.0,EUR,Apartment,Dublin City South - Dublin 6W,1,2,No,No,12,Estate Agent,Dublin City South,6W,880.0,LongTerm
+231,August,3,12,2130.0,EUR,House,Dublin City North - Dublin 11,3,2,Yes,Yes,6,Owner,Dublin City North,11,710.0,ShortTerm
+232,August,3,12,2290.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1145.0,LongTerm
+233,August,3,12,2420.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2420.0,LongTerm
+234,August,3,12,2500.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1250.0,LongTerm
+235,August,3,12,2320.0,EUR,House,Dublin City North - Dublin 11,3,2,Yes,Yes,12,Estate Agent,Dublin City North,11,773.33,LongTerm
+236,August,3,12,1190.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1190.0,LongTerm
+237,August,3,12,4320.0,EUR,House,Dublin City South - Dublin 14,3,2,Yes,Yes,12,Estate Agent,Dublin City South,14,1440.0,LongTerm
+238,August,3,12,3090.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1545.0,LongTerm
+239,August,3,12,1190.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,6,Estate Agent,Dublin City South,24,1190.0,ShortTerm
+240,August,3,12,4430.0,EUR,House,Dublin City South - Dublin 10,3,2,No,Yes,12,Owner,Dublin City South,10,1476.67,LongTerm
+241,August,3,13,1760.0,EUR,Apartment,Dublin City North - Dublin 9,1,2,Yes,No,12,Estate Agent,Dublin City North,9,1760.0,LongTerm
+242,August,3,13,3240.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,Yes,No,3,Estate Agent,Dublin City South,2,1080.0,ShortTerm
+243,August,3,13,1270.0,EUR,Apartment,Dublin City South - Dublin 10,1,2,No,No,3,Estate Agent,Dublin City South,10,1270.0,ShortTerm
+244,August,3,13,1060.0,EUR,Apartment,Dublin City North - Dublin 13,2,1,No,No,12,Estate Agent,Dublin City North,13,530.0,LongTerm
+245,August,3,13,1690.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,No,No,12,Estate Agent,Dublin City South,24,845.0,LongTerm
+246,August,3,13,2560.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,,No,12,Owner,Dublin City North,7,1280.0,LongTerm
+247,August,3,13,1800.0,EUR,Apartment,Dublin City South - Dublin 10,1,1,No,No,12,Estate Agent,Dublin City South,10,1800.0,LongTerm
+248,August,3,13,1230.0,EUR,Apartment,Dublin City North - Dublin 11,2,2,No,No,12,Estate Agent,Dublin City North,11,615.0,LongTerm
+249,August,3,13,1070.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,No,No,12,Estate Agent,Dublin City North,13,1070.0,LongTerm
+250,August,3,13,2840.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,12,Owner,Dublin City South,2,1420.0,LongTerm
+251,August,3,13,6390.0,EUR,House,Dublin City South - Dublin 4,2,2,Yes,Yes,12,Estate Agent,Dublin City South,4,3195.0,LongTerm
+252,August,3,13,1740.0,EUR,Apartment,Dublin City South - Dublin 16,2,1,No,,12,Owner,Dublin City South,16,870.0,LongTerm
+253,August,3,13,1410.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,6,Owner,Dublin City North,1,1410.0,ShortTerm
+254,August,3,13,2090.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2090.0,LongTerm
+255,August,3,13,5020.0,EUR,House,Dublin City South - Dublin 8,3,2,Yes,,12,Owner,Dublin City South,8,1673.33,LongTerm
+256,August,3,13,1670.0,EUR,Apartment,Dublin City South - Dublin 8,1,2,Yes,No,12,Owner,Dublin City South,8,1670.0,LongTerm
+257,August,3,13,3060.0,EUR,House,Dublin City South - Dublin 10,4,2,No,Yes,12,Estate Agent,Dublin City South,10,765.0,LongTerm
+258,August,3,13,1900.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,,,12,Owner,Dublin City North,1,1900.0,LongTerm
+259,August,3,13,1360.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1360.0,LongTerm
+260,August,3,13,2120.0,EUR,House,Dublin City North - Dublin 11,2,2,No,Yes,6,Owner,Dublin City North,11,1060.0,ShortTerm
+261,August,3,14,4280.0,EUR,House,Dublin City North - Dublin 7,4,2,Yes,Yes,6,Estate Agent,Dublin City North,7,1070.0,ShortTerm
+262,August,3,14,2460.0,EUR,Apartment,Dublin City South - Dublin 12,3,2,No,No,12,Estate Agent,Dublin City South,12,820.0,LongTerm
+263,August,3,14,2130.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,1065.0,LongTerm
+264,August,3,14,2310.0,EUR,Apartment,Dublin City South - Dublin 4,1,1,No,No,12,Estate Agent,Dublin City South,4,2310.0,LongTerm
+265,August,3,14,4530.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,Yes,No,12,Owner,Dublin City North,1,1510.0,LongTerm
+266,August,3,14,1540.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1540.0,LongTerm
+267,August,3,14,920.0,EUR,Apartment,Dublin City North - Dublin 11,2,2,No,No,12,Estate Agent,Dublin City North,11,460.0,LongTerm
+268,August,3,14,3340.0,EUR,House,Dublin City North - Dublin 3,4,2,Yes,Yes,12,Estate Agent,Dublin City North,3,835.0,LongTerm
+269,August,3,14,2650.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,1325.0,LongTerm
+270,August,3,14,2790.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1395.0,LongTerm
+271,August,3,14,1510.0,EUR,Apartment,Dublin City South - Dublin 16,2,2,No,No,12,Estate Agent,Dublin City South,16,755.0,LongTerm
+272,August,3,14,2710.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,3,Estate Agent,Dublin City North,1,2710.0,ShortTerm
+273,August,3,14,870.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,Yes,No,12,Estate Agent,Dublin City North,15,870.0,LongTerm
+274,August,3,14,1480.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,No,No,12,Estate Agent,Dublin City North,11,740.0,LongTerm
+275,August,3,14,2020.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,3,Estate Agent,Dublin City North,1,2020.0,ShortTerm
+276,August,3,14,1470.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,735.0,LongTerm
+277,August,3,14,2850.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1425.0,LongTerm
+278,August,3,14,3210.0,EUR,House,Dublin City South - Dublin 12,3,2,Yes,Yes,6,Estate Agent,Dublin City South,12,1070.0,ShortTerm
+279,August,3,14,1380.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,No,No,6,Estate Agent,Dublin City North,11,690.0,ShortTerm
+280,August,3,14,2450.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,No,No,12,Estate Agent,Dublin City North,9,1225.0,LongTerm
+281,August,3,15,2080.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,3,Estate Agent,Dublin City South,2,1040.0,ShortTerm
+282,August,3,15,1760.0,EUR,Apartment,Dublin City South - Dublin 8,1,2,No,No,6,Estate Agent,Dublin City South,8,1760.0,ShortTerm
+283,August,3,15,2410.0,EUR,Apartment,Dublin City South - Dublin 24,2,2,No,No,12,Estate Agent,Dublin City South,24,1205.0,LongTerm
+284,August,3,15,1090.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,12,Owner,Dublin City North,1,1090.0,LongTerm
+285,August,3,15,1250.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1250.0,LongTerm
+286,August,3,15,2840.0,EUR,House,Dublin City North - Dublin 13,3,2,Yes,Yes,6,Owner,Dublin City North,13,946.67,ShortTerm
+287,August,3,15,1430.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,715.0,LongTerm
+288,August,3,15,980.0,EUR,Apartment,Dublin City North - Dublin 7,1,2,No,No,12,Estate Agent,Dublin City North,7,980.0,LongTerm
+289,August,3,15,2030.0,EUR,Apartment,South Co Dublin,2,1,Yes,No,3,Estate Agent,South Co Dublin,,1015.0,ShortTerm
+290,August,3,15,4010.0,EUR,House,Dublin City South - Dublin 2,2,2,No,Yes,3,Owner,Dublin City South,2,2005.0,ShortTerm
+291,August,3,15,1450.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1450.0,LongTerm
+292,August,3,15,2250.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,2250.0,LongTerm
+293,August,3,15,1320.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,6,Estate Agent,Dublin City North,1,1320.0,ShortTerm
+294,August,3,15,2910.0,EUR,House,Dublin City South - Dublin 6W,4,1,Yes,Yes,3,Owner,Dublin City South,6W,727.5,ShortTerm
+295,August,3,15,2010.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1005.0,LongTerm
+296,August,3,15,3490.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1745.0,LongTerm
+297,August,3,15,1890.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,,12,Estate Agent,Dublin City North,3,945.0,LongTerm
+298,August,3,15,1790.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,Yes,No,12,Owner,Dublin City South,6,1790.0,LongTerm
+299,August,3,15,870.0,EUR,Apartment,Dublin City South - Dublin 22,1,2,No,No,12,Estate Agent,Dublin City South,22,870.0,LongTerm
+300,August,3,15,1910.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,3,Owner,Dublin City South,2,1910.0,ShortTerm
+301,August,3,16,1720.0,EUR,Apartment,Dublin City South - Dublin 16,3,2,Yes,No,12,Owner,Dublin City South,16,573.33,LongTerm
+302,August,3,16,860.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Estate Agent,Dublin City North,11,860.0,LongTerm
+303,August,3,16,2090.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2090.0,LongTerm
+304,August,3,16,1770.0,EUR,Apartment,Dublin City South - Dublin 10,2,1,No,No,6,Owner,Dublin City South,10,885.0,ShortTerm
+305,August,3,16,1520.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,,12,Owner,Dublin City South,2,1520.0,LongTerm
+306,August,3,16,1720.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,No,No,12,Estate Agent,Dublin City North,5,1720.0,LongTerm
+307,August,3,16,1580.0,EUR,Apartment,Dublin City North - Dublin 5,1,1,,No,6,Estate Agent,Dublin City North,5,1580.0,ShortTerm
+308,August,3,16,2090.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,No,12,Owner,Dublin City South,8,2090.0,LongTerm
+309,August,3,16,980.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,,Estate Agent,Dublin City South,2,980.0,Unknown
+310,August,3,16,5100.0,EUR,House,Dublin City North - Dublin 1,4,4,Yes,Yes,3,Estate Agent,Dublin City North,1,1275.0,ShortTerm
+311,September,3,16,3510.0,EUR,House,Dublin City North - Dublin 3,4,4,Yes,Yes,12,Estate Agent,Dublin City North,3,877.5,LongTerm
+312,September,3,16,3200.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Estate Agent,Dublin City South,2,1600.0,ShortTerm
+313,September,3,16,2430.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,Yes,No,12,Estate Agent,Dublin City North,1,1215.0,LongTerm
+314,September,3,16,2370.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2370.0,LongTerm
+315,September,3,16,5280.0,EUR,House,Dublin City South - Dublin 2,4,1,Yes,Yes,,Owner,Dublin City South,2,1320.0,Unknown
+316,September,3,16,1140.0,EUR,Apartment,North Co Dublin,1,1,Yes,,6,Estate Agent,North Co Dublin,,1140.0,ShortTerm
+317,September,3,16,1180.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1180.0,LongTerm
+318,September,3,16,2640.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Owner,Dublin City South,2,1320.0,LongTerm
+319,September,3,16,2740.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,,12,Owner,Dublin City South,2,1370.0,LongTerm
+320,September,3,16,1630.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,6,Owner,Dublin City South,2,1630.0,ShortTerm
+321,September,3,17,2330.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2330.0,LongTerm
+322,September,3,17,3180.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,No,No,12,Estate Agent,Dublin City South,6,1590.0,LongTerm
+323,September,3,17,1460.0,EUR,Apartment,Dublin City South - Dublin 24,2,1,No,No,12,Estate Agent,Dublin City South,24,730.0,LongTerm
+324,September,3,17,1140.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,12,Estate Agent,Dublin City North,1,1140.0,LongTerm
+325,September,3,17,1160.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,Yes,No,12,Estate Agent,Dublin City North,5,1160.0,LongTerm
+326,September,3,17,1020.0,EUR,Apartment,Dublin City South - Dublin 14,2,2,No,,12,Owner,Dublin City South,14,510.0,LongTerm
+327,September,3,17,1960.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,980.0,LongTerm
+328,September,3,17,2420.0,EUR,House,Dublin City North - Dublin 7,4,2,Yes,Yes,12,Owner,Dublin City North,7,605.0,LongTerm
+329,September,3,17,1760.0,EUR,Apartment,Dublin City North - Dublin 13,2,1,No,No,12,Owner,Dublin City North,13,880.0,LongTerm
+330,September,3,17,2670.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1335.0,LongTerm
+331,September,3,17,1160.0,EUR,Apartment,Dublin City North - Dublin 5,2,1,,No,12,Estate Agent,Dublin City North,5,580.0,LongTerm
+332,September,3,17,5100.0,EUR,House,Dublin City South - Dublin 18,2,2,No,Yes,12,Estate Agent,Dublin City South,18,2550.0,LongTerm
+333,September,3,17,1250.0,EUR,Apartment,North Co Dublin,2,1,No,No,3,Estate Agent,North Co Dublin,,625.0,ShortTerm
+334,September,3,17,4560.0,EUR,House,Dublin City North - Dublin 7,3,2,Yes,Yes,12,Owner,Dublin City North,7,1520.0,LongTerm
+335,September,3,17,6600.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,Yes,No,3,Estate Agent,Dublin City South,2,2200.0,ShortTerm
+336,September,3,17,5420.0,EUR,House,Dublin City North - Dublin 7,4,1,Yes,Yes,12,Owner,Dublin City North,7,1355.0,LongTerm
+337,September,3,17,1600.0,EUR,Apartment,Dublin City South - Dublin 6W,1,2,No,No,12,Estate Agent,Dublin City South,6W,1600.0,LongTerm
+338,September,3,17,1700.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,No,No,6,Estate Agent,Dublin City North,15,1700.0,ShortTerm
+339,September,3,17,5480.0,EUR,House,Dublin City South - Dublin 14,4,1,Yes,Yes,3,Estate Agent,Dublin City South,14,1370.0,ShortTerm
+340,September,3,17,1960.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1960.0,LongTerm
+341,September,3,18,2570.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,,12,Estate Agent,Dublin City South,2,2570.0,LongTerm
+342,September,3,18,5100.0,EUR,House,Dublin City North - Dublin 1,1,2,Yes,Yes,12,Estate Agent,Dublin City North,1,5100.0,LongTerm
+343,September,3,18,2800.0,EUR,House,Dublin City South - Dublin 6,2,2,No,Yes,12,Estate Agent,Dublin City South,6,1400.0,LongTerm
+344,September,3,18,3800.0,EUR,House,Dublin City North - Dublin 11,3,1,No,Yes,12,Owner,Dublin City North,11,1266.67,LongTerm
+345,September,3,18,1320.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,No,3,Estate Agent,Dublin City South,8,1320.0,ShortTerm
+346,September,3,18,1300.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1300.0,LongTerm
+347,September,3,18,2010.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,12,Estate Agent,Dublin City South,2,2010.0,LongTerm
+348,September,3,18,3530.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Estate Agent,Dublin City South,2,1765.0,ShortTerm
+349,September,3,18,6150.0,EUR,House,Dublin City North - Dublin 1,3,1,Yes,Yes,3,Owner,Dublin City North,1,2050.0,ShortTerm
+350,September,3,18,3730.0,EUR,House,Dublin City North - Dublin 15,2,2,Yes,No,3,Estate Agent,Dublin City North,15,1865.0,ShortTerm
+351,September,3,18,1640.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Estate Agent,Dublin City North,1,820.0,ShortTerm
+352,September,3,18,1220.0,EUR,Apartment,Dublin City South - Dublin 24,2,2,No,No,6,Owner,Dublin City South,24,610.0,ShortTerm
+353,September,3,18,1030.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1030.0,LongTerm
+354,September,3,18,5140.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,No,No,12,Estate Agent,Dublin City South,2,1713.33,LongTerm
+355,September,3,18,5030.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,No,No,6,Owner,Dublin City South,2,1676.67,ShortTerm
+356,September,3,18,1820.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1820.0,LongTerm
+357,September,3,18,3360.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1680.0,LongTerm
+358,September,3,18,2780.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,Yes,No,12,Estate Agent,Dublin City North,1,926.67,LongTerm
+359,September,3,18,2270.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Estate Agent,Dublin City South,2,2270.0,ShortTerm
+360,September,3,18,2750.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1375.0,LongTerm
+361,September,3,19,2560.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Owner,Dublin City South,2,1280.0,LongTerm
+362,September,3,19,2160.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,,No,3,Estate Agent,Dublin City South,16,2160.0,ShortTerm
+363,September,3,19,5110.0,EUR,House,Dublin City North - Dublin 5,4,1,No,Yes,12,Owner,Dublin City North,5,1277.5,LongTerm
+364,September,3,19,2950.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,,12,Owner,Dublin City North,1,1475.0,LongTerm
+365,September,3,19,3250.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1625.0,LongTerm
+366,September,3,19,1760.0,EUR,Apartment,Dublin City South - Dublin 14,1,1,Yes,No,12,Estate Agent,Dublin City South,14,1760.0,LongTerm
+367,September,3,19,4290.0,EUR,House,Dublin City North - Dublin 11,4,2,,Yes,3,Owner,Dublin City North,11,1072.5,ShortTerm
+368,September,3,19,850.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,No,No,12,Owner,Dublin City North,5,850.0,LongTerm
+369,September,3,19,1530.0,EUR,Apartment,Dublin City North - Dublin 7,1,1,No,,12,Estate Agent,Dublin City North,7,1530.0,LongTerm
+370,September,3,19,1060.0,EUR,Apartment,South Co Dublin,2,2,No,,12,Estate Agent,South Co Dublin,,530.0,LongTerm
+371,September,3,19,840.0,EUR,Apartment,Dublin City North - Dublin 7,1,1,No,No,6,Estate Agent,Dublin City North,7,840.0,ShortTerm
+372,September,3,19,1670.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,No,No,12,Owner,Dublin City South,8,835.0,LongTerm
+373,September,3,19,760.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,No,No,12,Estate Agent,Dublin City North,15,760.0,LongTerm
+374,September,3,19,2670.0,EUR,Apartment,North Co Dublin,3,2,No,No,12,Estate Agent,North Co Dublin,,890.0,LongTerm
+375,September,3,19,1400.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1400.0,LongTerm
+376,September,3,19,1610.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,6,Owner,Dublin City South,2,1610.0,ShortTerm
+377,September,3,19,1890.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1890.0,LongTerm
+378,September,3,19,3050.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1525.0,LongTerm
+379,September,3,19,4150.0,EUR,House,Dublin City North - Dublin 11,3,2,No,Yes,3,Owner,Dublin City North,11,1383.33,ShortTerm
+380,September,3,19,1440.0,EUR,Apartment,Dublin City South - Dublin 14,1,1,No,No,12,Estate Agent,Dublin City South,14,1440.0,LongTerm
+381,September,3,20,1460.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,No,No,6,Estate Agent,Dublin City North,9,730.0,ShortTerm
+382,September,3,20,1530.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,,No,12,Estate Agent,Dublin City North,1,1530.0,LongTerm
+383,September,3,20,940.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,12,Estate Agent,Dublin City South,6,940.0,LongTerm
+384,September,3,20,1890.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,945.0,LongTerm
+385,September,3,20,3060.0,EUR,Apartment,North Co Dublin,3,2,No,No,12,Owner,North Co Dublin,,1020.0,LongTerm
+386,September,3,20,1920.0,EUR,Apartment,South Co Dublin,2,1,No,No,12,Estate Agent,South Co Dublin,,960.0,LongTerm
+387,September,3,20,1900.0,EUR,Apartment,Dublin City South - Dublin 6,2,2,No,,12,Owner,Dublin City South,6,950.0,LongTerm
+388,September,3,20,3730.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,Yes,No,3,Owner,Dublin City North,1,1865.0,ShortTerm
+389,September,3,20,3160.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1580.0,LongTerm
+390,September,3,20,2580.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,6,Owner,Dublin City North,1,1290.0,ShortTerm
+391,September,3,20,1450.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Estate Agent,Dublin City North,1,725.0,LongTerm
+392,September,3,20,1240.0,EUR,Apartment,Dublin City North - Dublin 15,1,1,No,No,6,Estate Agent,Dublin City North,15,1240.0,ShortTerm
+393,September,3,20,2550.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2550.0,LongTerm
+394,September,3,20,2290.0,EUR,Apartment,Dublin City South - Dublin 24,1,2,No,No,3,Estate Agent,Dublin City South,24,2290.0,ShortTerm
+395,September,3,20,4290.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,3,Owner,Dublin City South,2,2145.0,ShortTerm
+396,September,3,20,1820.0,EUR,Apartment,Dublin City South - Dublin 4,2,2,No,No,12,Owner,Dublin City South,4,910.0,LongTerm
+397,September,3,20,4510.0,EUR,House,Dublin City North - Dublin 1,3,2,Yes,Yes,12,Owner,Dublin City North,1,1503.33,LongTerm
+398,September,3,20,2120.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2120.0,LongTerm
+399,September,3,20,1360.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,No,No,12,Owner,Dublin City North,9,1360.0,LongTerm
+400,September,3,20,1570.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1570.0,LongTerm
+401,September,3,21,1700.0,EUR,Apartment,South Co Dublin,1,2,Yes,No,12,Estate Agent,South Co Dublin,,1700.0,LongTerm
+402,September,3,21,6110.0,EUR,House,Dublin City South - Dublin 18,4,4,No,Yes,12,Owner,Dublin City South,18,1527.5,LongTerm
+403,September,3,21,1580.0,EUR,Apartment,Dublin City South - Dublin 12,1,1,,No,12,Estate Agent,Dublin City South,12,1580.0,LongTerm
+404,September,3,21,1980.0,EUR,House,Dublin City South - Dublin 18,2,1,No,No,12,Estate Agent,Dublin City South,18,990.0,LongTerm
+405,September,3,21,800.0,EUR,Apartment,Dublin City North - Dublin 15,1,2,No,,12,Estate Agent,Dublin City North,15,800.0,LongTerm
+406,September,3,21,2700.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,1350.0,LongTerm
+407,September,3,21,2690.0,EUR,Apartment,South Co Dublin,2,1,Yes,No,12,Estate Agent,South Co Dublin,,1345.0,LongTerm
+408,September,3,21,5620.0,EUR,House,Dublin City South - Dublin 6,4,3,Yes,Yes,12,Owner,Dublin City South,6,1405.0,LongTerm
+409,September,3,21,3060.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,3,Estate Agent,Dublin City South,2,3060.0,ShortTerm
+410,September,3,21,1090.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,,12,Owner,Dublin City North,3,545.0,LongTerm
+411,September,3,21,980.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Estate Agent,Dublin City North,11,980.0,LongTerm
+412,September,3,21,3020.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1510.0,LongTerm
+413,September,3,21,2930.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,Yes,No,6,Owner,Dublin City North,1,1465.0,ShortTerm
+414,September,3,21,2560.0,EUR,Apartment,Dublin City South - Dublin 24,2,2,No,No,6,Estate Agent,Dublin City South,24,1280.0,ShortTerm
+415,September,3,21,1060.0,EUR,Apartment,Dublin City North - Dublin 3,2,2,No,No,6,Estate Agent,Dublin City North,3,530.0,ShortTerm
+416,September,3,21,1370.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1370.0,LongTerm
+417,September,3,21,1280.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,,,12,Estate Agent,Dublin City South,8,640.0,LongTerm
+418,September,3,21,6660.0,EUR,House,Dublin City South - Dublin 4,4,3,,Yes,12,Estate Agent,Dublin City South,4,1665.0,LongTerm
+419,September,3,21,2090.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Owner,Dublin City North,1,696.67,LongTerm
+420,September,3,21,940.0,EUR,Apartment,South Co Dublin,1,1,No,No,12,Estate Agent,South Co Dublin,,940.0,LongTerm
+421,September,3,22,1700.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,6,Estate Agent,Dublin City North,1,1700.0,ShortTerm
+422,September,3,22,2730.0,EUR,House,North Co Dublin,3,2,Yes,Yes,12,Estate Agent,North Co Dublin,,910.0,LongTerm
+423,September,3,22,5000.0,EUR,House,Dublin City North - Dublin 17,5,4,,Yes,12,Estate Agent,Dublin City North,17,1000.0,LongTerm
+424,September,3,22,2590.0,EUR,Apartment,Dublin City South - Dublin 16,2,1,,No,12,Estate Agent,Dublin City South,16,1295.0,LongTerm
+425,September,3,22,2300.0,EUR,Apartment,Dublin City South - Dublin 8,2,1,No,,6,Estate Agent,Dublin City South,8,1150.0,ShortTerm
+426,September,3,22,1810.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1810.0,LongTerm
+427,September,3,22,2010.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,,12,Estate Agent,Dublin City South,2,2010.0,LongTerm
+428,September,3,22,4100.0,EUR,House,North Co Dublin,3,2,Yes,,6,Estate Agent,North Co Dublin,,1366.67,ShortTerm
+429,September,3,22,820.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,No,No,12,Estate Agent,Dublin City South,20,820.0,LongTerm
+430,September,3,22,1070.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1070.0,LongTerm
+431,September,3,22,1780.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,6,Estate Agent,Dublin City North,1,890.0,ShortTerm
+432,September,3,22,4350.0,EUR,House,Dublin City South - Dublin 2,3,2,Yes,Yes,12,Estate Agent,Dublin City South,2,1450.0,LongTerm
+433,September,3,22,1600.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,No,No,12,Estate Agent,Dublin City South,20,1600.0,LongTerm
+434,September,3,22,2450.0,EUR,Apartment,Dublin City North - Dublin 7,2,2,,No,12,Owner,Dublin City North,7,1225.0,LongTerm
+435,September,3,22,3220.0,EUR,House,Dublin City South - Dublin 20,4,4,Yes,Yes,6,Estate Agent,Dublin City South,20,805.0,ShortTerm
+436,September,3,22,960.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,No,,Estate Agent,Dublin City South,8,960.0,Unknown
+437,September,3,22,1730.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,Yes,No,12,Owner,Dublin City South,24,1730.0,LongTerm
+438,September,3,22,2340.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Owner,Dublin City North,1,1170.0,LongTerm
+439,September,3,22,1470.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,6,Estate Agent,Dublin City North,1,1470.0,ShortTerm
+440,September,3,22,1010.0,EUR,Apartment,Dublin City South - Dublin 10,1,1,No,No,12,Owner,Dublin City South,10,1010.0,LongTerm
+441,September,3,23,5000.0,EUR,House,South Co Dublin,3,2,No,Yes,12,Estate Agent,South Co Dublin,,1666.67,LongTerm
+442,September,3,23,3250.0,EUR,House,Dublin City North - Dublin 1,3,1,No,Yes,12,Estate Agent,Dublin City North,1,1083.33,LongTerm
+443,September,3,23,4190.0,EUR,House,Dublin City South - Dublin 6,3,2,No,Yes,12,Estate Agent,Dublin City South,6,1396.67,LongTerm
+444,September,3,23,1560.0,EUR,Apartment,Dublin City North - Dublin 7,1,1,No,No,12,Estate Agent,Dublin City North,7,1560.0,LongTerm
+445,September,3,23,3610.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,No,No,6,Estate Agent,Dublin City North,1,1203.33,ShortTerm
+446,September,3,23,2540.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,6,Estate Agent,Dublin City South,2,1270.0,ShortTerm
+447,September,3,23,3510.0,EUR,House,Dublin City South - Dublin 2,4,2,Yes,Yes,12,Owner,Dublin City South,2,877.5,LongTerm
+448,September,3,23,3570.0,EUR,Apartment,Dublin City South - Dublin 18,3,1,Yes,No,12,Estate Agent,Dublin City South,18,1190.0,LongTerm
+449,September,3,23,2090.0,EUR,Apartment,Dublin City South - Dublin 20,2,2,No,No,12,Estate Agent,Dublin City South,20,1045.0,LongTerm
+450,September,3,23,2980.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,3,Estate Agent,Dublin City South,2,2980.0,ShortTerm
+451,September,3,23,1820.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Estate Agent,Dublin City South,2,1820.0,LongTerm
+452,September,3,23,3670.0,EUR,House,Dublin City North - Dublin 13,4,4,Yes,Yes,12,Estate Agent,Dublin City North,13,917.5,LongTerm
+453,September,3,23,3480.0,EUR,House,Dublin City South - Dublin 20,3,2,No,Yes,6,Owner,Dublin City South,20,1160.0,ShortTerm
+454,September,3,23,4270.0,EUR,House,Dublin City South - Dublin 2,4,3,Yes,Yes,12,Estate Agent,Dublin City South,2,1067.5,LongTerm
+455,September,3,23,4220.0,EUR,House,Dublin City South - Dublin 8,3,2,No,Yes,12,Estate Agent,Dublin City South,8,1406.67,LongTerm
+456,September,3,23,4660.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,No,No,3,Owner,Dublin City South,2,1553.33,ShortTerm
+457,September,3,23,4260.0,EUR,House,Dublin City North - Dublin 13,2,2,Yes,,3,Estate Agent,Dublin City North,13,2130.0,ShortTerm
+458,September,3,23,1030.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,,Estate Agent,Dublin City South,24,1030.0,Unknown
+459,September,3,23,5330.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,Yes,No,12,Estate Agent,Dublin City North,1,1776.67,LongTerm
+460,September,3,23,1320.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1320.0,LongTerm
+461,September,3,24,1610.0,EUR,Apartment,Dublin City South - Dublin 14,2,2,,No,3,Estate Agent,Dublin City South,14,805.0,ShortTerm
+462,September,3,24,5450.0,EUR,House,Dublin City North - Dublin 1,4,1,Yes,Yes,12,Estate Agent,Dublin City North,1,1362.5,LongTerm
+463,September,3,24,3830.0,EUR,House,Dublin City North - Dublin 13,3,2,Yes,Yes,6,Owner,Dublin City North,13,1276.67,ShortTerm
+464,September,3,24,2550.0,EUR,House,Dublin City North - Dublin 13,3,1,Yes,Yes,12,Owner,Dublin City North,13,850.0,LongTerm
+465,September,3,24,3890.0,EUR,House,Dublin City North - Dublin 9,3,2,Yes,Yes,12,Owner,Dublin City North,9,1296.67,LongTerm
+466,September,3,24,1310.0,EUR,Apartment,South Co Dublin,1,1,No,No,12,Owner,South Co Dublin,,1310.0,LongTerm
+467,September,3,24,2560.0,EUR,Apartment,Dublin City South - Dublin 20,3,2,Yes,No,12,Estate Agent,Dublin City South,20,853.33,LongTerm
+468,September,3,24,2900.0,EUR,House,Dublin City North - Dublin 15,5,2,Yes,Yes,6,Estate Agent,Dublin City North,15,580.0,ShortTerm
+469,September,3,24,3700.0,EUR,Apartment,North Co Dublin,3,2,No,No,12,Estate Agent,North Co Dublin,,1233.33,LongTerm
+470,September,3,24,1860.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,No,No,12,Owner,Dublin City South,4,1860.0,LongTerm
+471,September,3,24,5810.0,EUR,House,Dublin City South - Dublin 2,3,1,Yes,Yes,12,Owner,Dublin City South,2,1936.67,LongTerm
+472,September,3,24,1660.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1660.0,LongTerm
+473,September,3,24,1150.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,,No,12,Estate Agent,Dublin City South,2,1150.0,LongTerm
+474,September,3,24,3640.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1820.0,LongTerm
+475,September,3,24,2080.0,EUR,House,Dublin City South - Dublin 20,2,2,No,No,6,Estate Agent,Dublin City South,20,1040.0,ShortTerm
+476,September,3,24,3400.0,EUR,Apartment,Dublin City South - Dublin 6,2,2,No,No,3,Owner,Dublin City South,6,1700.0,ShortTerm
+477,September,3,24,6200.0,EUR,House,Dublin City North - Dublin 5,3,1,No,Yes,3,Estate Agent,Dublin City North,5,2066.67,ShortTerm
+478,September,3,24,2440.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,3,Estate Agent,Dublin City North,1,2440.0,ShortTerm
+479,September,3,24,1590.0,EUR,Apartment,Dublin City South - Dublin 20,2,2,No,,12,Estate Agent,Dublin City South,20,795.0,LongTerm
+480,September,3,24,3000.0,EUR,House,Dublin City South - Dublin 16,2,2,Yes,No,12,Estate Agent,Dublin City South,16,1500.0,LongTerm
+481,September,3,25,1070.0,EUR,Apartment,Dublin City South - Dublin 22,2,1,No,No,6,Owner,Dublin City South,22,535.0,ShortTerm
+482,September,3,25,4810.0,EUR,House,Dublin City South - Dublin 8,3,2,No,Yes,12,Estate Agent,Dublin City South,8,1603.33,LongTerm
+483,September,3,25,990.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,990.0,LongTerm
+484,September,3,25,1590.0,EUR,Apartment,Dublin City North - Dublin 17,3,1,No,No,12,Estate Agent,Dublin City North,17,530.0,LongTerm
+485,September,3,25,2550.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Estate Agent,Dublin City North,1,850.0,LongTerm
+486,September,3,25,1440.0,EUR,Apartment,Dublin City South - Dublin 6W,1,1,Yes,No,12,Estate Agent,Dublin City South,6W,1440.0,LongTerm
+487,September,3,25,950.0,EUR,Apartment,Dublin City South - Dublin 10,1,1,Yes,No,6,Estate Agent,Dublin City South,10,950.0,ShortTerm
+488,September,3,25,1340.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1340.0,LongTerm
+489,September,3,25,1810.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,3,Estate Agent,Dublin City North,1,905.0,ShortTerm
+490,September,3,25,2150.0,EUR,Apartment,South Co Dublin,3,1,Yes,No,12,Owner,South Co Dublin,,716.67,LongTerm
+491,September,3,25,3880.0,EUR,House,Dublin City South - Dublin 10,4,1,Yes,Yes,6,Owner,Dublin City South,10,970.0,ShortTerm
+492,September,3,25,2100.0,EUR,Apartment,Dublin City South - Dublin 22,3,2,Yes,,12,Estate Agent,Dublin City South,22,700.0,LongTerm
+493,September,3,25,4430.0,EUR,House,Dublin City South - Dublin 22,4,2,Yes,Yes,12,Owner,Dublin City South,22,1107.5,LongTerm
+494,September,3,25,5100.0,EUR,House,Dublin City South - Dublin 6W,4,2,No,Yes,12,Owner,Dublin City South,6W,1275.0,LongTerm
+495,September,3,25,1090.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1090.0,LongTerm
+496,September,3,25,1490.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,No,No,12,Estate Agent,Dublin City South,20,1490.0,LongTerm
+497,September,3,25,2510.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2510.0,LongTerm
+498,September,3,25,1030.0,EUR,Apartment,Dublin City North - Dublin 15,2,2,No,No,12,Owner,Dublin City North,15,515.0,LongTerm
+499,September,3,25,2700.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1350.0,LongTerm
+500,September,3,25,1600.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Owner,Dublin City South,2,1600.0,LongTerm
+501,September,3,26,1020.0,EUR,Apartment,Dublin City North - Dublin 7,1,2,No,No,3,Estate Agent,Dublin City North,7,1020.0,ShortTerm
+502,September,3,26,1660.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,12,Owner,Dublin City South,20,830.0,LongTerm
+503,September,3,26,2630.0,EUR,Apartment,South Co Dublin,2,2,No,No,12,Estate Agent,South Co Dublin,,1315.0,LongTerm
+504,September,3,26,3020.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,1510.0,LongTerm
+505,September,3,26,1780.0,EUR,Apartment,North Co Dublin,2,1,No,No,12,Estate Agent,North Co Dublin,,890.0,LongTerm
+506,September,3,26,4930.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Owner,Dublin City North,1,1643.33,LongTerm
 1,October,4,1,1740.0,EUR,Apartment,Dublin City North - Dublin 13,2,2,No,No,3,Estate Agent,Dublin City North,13,870.0,ShortTerm
 2,October,4,1,1770.0,EUR,Apartment,Dublin City South - Dublin 12,2,1,No,No,12,Estate Agent,Dublin City South,12,885.0,LongTerm
 3,October,4,1,3450.0,EUR,House,Dublin City North - Dublin 15,4,1,No,,12,Owner,Dublin City North,15,862.5,LongTerm
@@ -399,3 +1624,328 @@ ListingID,Month,Quarter,Page,Price,Currency,Property Type,Location,Bedrooms,Bath
 98,October,4,5,4840.0,EUR,House,Dublin City North - Dublin 3,4,1,,Yes,12,Owner,Dublin City North,3,1210.0,LongTerm
 99,October,4,5,1560.0,EUR,Apartment,Dublin City South - Dublin 10,1,2,No,No,,Estate Agent,Dublin City South,10,1560.0,Unknown
 100,October,4,5,4650.0,EUR,House,Dublin City South - Dublin 22,3,2,No,Yes,12,Estate Agent,Dublin City South,22,1550.0,LongTerm
+101,October,4,6,3580.0,EUR,House,Dublin City South - Dublin 10,1,1,No,No,12,Owner,Dublin City South,10,3580.0,LongTerm
+102,October,4,6,2100.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1050.0,LongTerm
+103,October,4,6,1130.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,565.0,LongTerm
+104,October,4,6,4570.0,EUR,House,Dublin City North - Dublin 17,3,2,Yes,,12,Owner,Dublin City North,17,1523.33,LongTerm
+105,October,4,6,1370.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,685.0,LongTerm
+106,October,4,6,3410.0,EUR,House,Dublin City North - Dublin 11,3,2,Yes,Yes,12,Owner,Dublin City North,11,1136.67,LongTerm
+107,October,4,6,1340.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,670.0,LongTerm
+108,October,4,6,960.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,12,Estate Agent,Dublin City South,6,960.0,LongTerm
+109,October,4,6,1410.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,12,Estate Agent,Dublin City South,6,1410.0,LongTerm
+110,October,4,6,2050.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,,6,Owner,Dublin City South,2,2050.0,ShortTerm
+111,October,4,6,1780.0,EUR,Apartment,Dublin City South - Dublin 20,1,2,No,No,12,Owner,Dublin City South,20,1780.0,LongTerm
+112,October,4,6,1270.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Owner,Dublin City South,2,1270.0,LongTerm
+113,October,4,6,1270.0,EUR,Apartment,Dublin City North - Dublin 13,1,1,Yes,,12,Estate Agent,Dublin City North,13,1270.0,LongTerm
+114,October,4,6,2410.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,,12,Owner,Dublin City North,1,1205.0,LongTerm
+115,October,4,6,1220.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,12,Estate Agent,Dublin City South,2,1220.0,LongTerm
+116,October,4,6,740.0,EUR,Apartment,North Co Dublin,1,2,No,No,12,Estate Agent,North Co Dublin,,740.0,LongTerm
+117,October,4,6,1660.0,EUR,Apartment,Dublin City South - Dublin 20,3,1,No,No,12,Estate Agent,Dublin City South,20,553.33,LongTerm
+118,October,4,6,1530.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,Yes,No,12,Estate Agent,Dublin City North,1,765.0,LongTerm
+119,October,4,6,1910.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,,,Estate Agent,Dublin City South,8,1910.0,Unknown
+120,October,4,6,4020.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,3,Owner,Dublin City North,1,2010.0,ShortTerm
+121,October,4,7,970.0,EUR,Apartment,Dublin City South - Dublin 20,2,2,No,No,12,Estate Agent,Dublin City South,20,485.0,LongTerm
+122,October,4,7,1280.0,EUR,Apartment,Dublin City South - Dublin 8,1,2,Yes,No,12,Estate Agent,Dublin City South,8,1280.0,LongTerm
+123,October,4,7,3200.0,EUR,House,South Co Dublin,5,4,No,Yes,12,Estate Agent,South Co Dublin,,640.0,LongTerm
+124,October,4,7,1260.0,EUR,Apartment,Dublin City South - Dublin 14,2,1,No,No,12,Estate Agent,Dublin City South,14,630.0,LongTerm
+125,October,4,7,4820.0,EUR,House,Dublin City South - Dublin 16,3,2,No,Yes,12,Owner,Dublin City South,16,1606.67,LongTerm
+126,October,4,7,2350.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1175.0,LongTerm
+127,October,4,7,2190.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,2190.0,LongTerm
+128,October,4,7,1540.0,EUR,Apartment,Dublin City South - Dublin 10,1,2,No,No,12,Estate Agent,Dublin City South,10,1540.0,LongTerm
+129,October,4,7,1840.0,EUR,Apartment,Dublin City North - Dublin 15,3,2,No,No,3,Estate Agent,Dublin City North,15,613.33,ShortTerm
+130,October,4,7,5700.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,No,No,12,Owner,Dublin City North,1,1900.0,LongTerm
+131,October,4,7,5040.0,EUR,House,Dublin City North - Dublin 1,3,2,No,Yes,6,Owner,Dublin City North,1,1680.0,ShortTerm
+132,October,4,7,740.0,EUR,Apartment,Dublin City South - Dublin 24,1,2,No,No,12,Estate Agent,Dublin City South,24,740.0,LongTerm
+133,October,4,7,960.0,EUR,Apartment,Dublin City South - Dublin 12,1,2,No,No,6,Estate Agent,Dublin City South,12,960.0,ShortTerm
+134,October,4,7,2280.0,EUR,Apartment,Dublin City North - Dublin 7,2,2,No,No,6,Owner,Dublin City North,7,1140.0,ShortTerm
+135,October,4,7,5670.0,EUR,House,Dublin City North - Dublin 3,2,2,No,Yes,12,Owner,Dublin City North,3,2835.0,LongTerm
+136,October,4,7,2080.0,EUR,House,Dublin City North - Dublin 17,3,1,Yes,Yes,6,Estate Agent,Dublin City North,17,693.33,ShortTerm
+137,October,4,7,3030.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1515.0,LongTerm
+138,October,4,7,1790.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,No,12,Owner,Dublin City South,24,1790.0,LongTerm
+139,October,4,7,4740.0,EUR,House,Dublin City South - Dublin 6,2,2,No,Yes,,Estate Agent,Dublin City South,6,2370.0,Unknown
+140,October,4,7,2120.0,EUR,Apartment,Dublin City North - Dublin 11,2,2,No,No,6,Owner,Dublin City North,11,1060.0,ShortTerm
+141,October,4,8,3940.0,EUR,House,Dublin City South - Dublin 16,3,1,Yes,Yes,,Estate Agent,Dublin City South,16,1313.33,Unknown
+142,October,4,8,5640.0,EUR,House,Dublin City North - Dublin 15,4,4,Yes,Yes,3,Owner,Dublin City North,15,1410.0,ShortTerm
+143,October,4,8,1810.0,EUR,Apartment,Dublin City South - Dublin 18,1,1,No,No,12,Estate Agent,Dublin City South,18,1810.0,LongTerm
+144,October,4,8,1260.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,Yes,No,,Estate Agent,Dublin City South,22,1260.0,Unknown
+145,October,4,8,1040.0,EUR,Apartment,Dublin City South - Dublin 12,1,2,Yes,,12,Estate Agent,Dublin City South,12,1040.0,LongTerm
+146,October,4,8,3470.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,No,No,12,Estate Agent,Dublin City South,4,1735.0,LongTerm
+147,October,4,8,1060.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1060.0,LongTerm
+148,October,4,8,1360.0,EUR,Apartment,Dublin City North - Dublin 17,1,2,,No,6,Estate Agent,Dublin City North,17,1360.0,ShortTerm
+149,October,4,8,5050.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,No,No,12,Estate Agent,Dublin City South,2,1683.33,LongTerm
+150,October,4,8,890.0,EUR,Apartment,Dublin City South - Dublin 6W,1,2,Yes,No,12,Owner,Dublin City South,6W,890.0,LongTerm
+151,October,4,8,2090.0,EUR,Apartment,Dublin City North - Dublin 3,1,2,No,,12,Owner,Dublin City North,3,2090.0,LongTerm
+152,October,4,8,1890.0,EUR,Apartment,Dublin City South - Dublin 8,2,2,Yes,No,12,Estate Agent,Dublin City South,8,945.0,LongTerm
+153,October,4,8,4570.0,EUR,House,Dublin City North - Dublin 15,3,2,Yes,,12,Estate Agent,Dublin City North,15,1523.33,LongTerm
+154,October,4,8,3700.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,,No,3,Estate Agent,Dublin City South,2,1850.0,ShortTerm
+155,October,4,8,7280.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,3,Estate Agent,Dublin City North,1,2426.67,ShortTerm
+156,October,4,8,1700.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1700.0,LongTerm
+157,October,4,8,2340.0,EUR,Apartment,Dublin City South - Dublin 14,2,2,No,No,12,Estate Agent,Dublin City South,14,1170.0,LongTerm
+158,October,4,8,1270.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,Yes,No,6,Estate Agent,Dublin City South,6W,635.0,ShortTerm
+159,October,4,8,1970.0,EUR,Apartment,Dublin City North - Dublin 17,2,1,No,,12,Estate Agent,Dublin City North,17,985.0,LongTerm
+160,October,4,8,1220.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1220.0,LongTerm
+161,November,4,9,2020.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,No,No,12,Owner,Dublin City South,4,2020.0,LongTerm
+162,November,4,9,2640.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Estate Agent,Dublin City North,1,1320.0,LongTerm
+163,November,4,9,1020.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,6,Estate Agent,Dublin City North,1,1020.0,ShortTerm
+164,November,4,9,1000.0,EUR,Apartment,Dublin City South - Dublin 14,1,2,Yes,No,12,Estate Agent,Dublin City South,14,1000.0,LongTerm
+165,November,4,9,1760.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,Yes,No,12,Estate Agent,Dublin City South,4,1760.0,LongTerm
+166,November,4,9,870.0,EUR,Apartment,North Co Dublin,1,1,,No,6,Owner,North Co Dublin,,870.0,ShortTerm
+167,November,4,9,3220.0,EUR,House,Dublin City South - Dublin 10,3,2,Yes,Yes,12,Estate Agent,Dublin City South,10,1073.33,LongTerm
+168,November,4,9,2370.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1185.0,LongTerm
+169,November,4,9,1040.0,EUR,Apartment,Dublin City South - Dublin 6,1,1,No,No,12,Estate Agent,Dublin City South,6,1040.0,LongTerm
+170,November,4,9,3980.0,EUR,House,Dublin City South - Dublin 14,4,3,Yes,Yes,12,Owner,Dublin City South,14,995.0,LongTerm
+171,November,4,9,5080.0,EUR,House,Dublin City North - Dublin 15,2,1,No,Yes,3,Owner,Dublin City North,15,2540.0,ShortTerm
+172,November,4,9,1460.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Owner,Dublin City North,11,1460.0,LongTerm
+173,November,4,9,3870.0,EUR,House,Dublin City North - Dublin 15,3,2,Yes,Yes,3,Estate Agent,Dublin City North,15,1290.0,ShortTerm
+174,November,4,9,2290.0,EUR,Apartment,Dublin City South - Dublin 14,2,1,Yes,No,12,Owner,Dublin City South,14,1145.0,LongTerm
+175,November,4,9,2320.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1160.0,LongTerm
+176,November,4,9,1660.0,EUR,Apartment,South Co Dublin,1,1,No,No,12,Estate Agent,South Co Dublin,,1660.0,LongTerm
+177,November,4,9,1320.0,EUR,Apartment,Dublin City South - Dublin 22,1,1,No,No,12,Estate Agent,Dublin City South,22,1320.0,LongTerm
+178,November,4,9,5660.0,EUR,House,Dublin City South - Dublin 6,3,1,Yes,Yes,6,Owner,Dublin City South,6,1886.67,ShortTerm
+179,November,4,9,2630.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,,12,Owner,Dublin City South,2,2630.0,LongTerm
+180,November,4,9,2930.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1465.0,LongTerm
+181,November,4,10,2050.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,6,Estate Agent,Dublin City North,1,2050.0,ShortTerm
+182,November,4,10,770.0,EUR,Apartment,Dublin City North - Dublin 17,1,1,No,No,6,Owner,Dublin City North,17,770.0,ShortTerm
+183,November,4,10,5870.0,EUR,House,Dublin City North - Dublin 11,3,2,Yes,,3,Owner,Dublin City North,11,1956.67,ShortTerm
+184,November,4,10,4750.0,EUR,House,Dublin City South - Dublin 12,4,1,Yes,Yes,12,Owner,Dublin City South,12,1187.5,LongTerm
+185,November,4,10,2200.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Owner,Dublin City South,2,2200.0,LongTerm
+186,November,4,10,2370.0,EUR,Apartment,Dublin City North - Dublin 5,2,1,No,No,12,Estate Agent,Dublin City North,5,1185.0,LongTerm
+187,November,4,10,1430.0,EUR,Apartment,Dublin City South - Dublin 14,2,1,Yes,No,3,Estate Agent,Dublin City South,14,715.0,ShortTerm
+188,November,4,10,2180.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,12,Estate Agent,Dublin City South,2,2180.0,LongTerm
+189,November,4,10,4610.0,EUR,House,Dublin City North - Dublin 13,2,2,No,,,Estate Agent,Dublin City North,13,2305.0,Unknown
+190,November,4,10,3320.0,EUR,House,North Co Dublin,4,3,Yes,,12,Owner,North Co Dublin,,830.0,LongTerm
+191,November,4,10,2580.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,No,No,12,Estate Agent,Dublin City South,6,1290.0,LongTerm
+192,November,4,10,1950.0,EUR,Apartment,Dublin City South - Dublin 16,1,2,Yes,No,12,Estate Agent,Dublin City South,16,1950.0,LongTerm
+193,November,4,10,1210.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,1210.0,LongTerm
+194,November,4,10,4650.0,EUR,House,Dublin City North - Dublin 5,3,2,Yes,Yes,6,Owner,Dublin City North,5,1550.0,ShortTerm
+195,November,4,10,2610.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,No,No,12,Owner,Dublin City South,6,1305.0,LongTerm
+196,November,4,10,1190.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Owner,Dublin City South,2,1190.0,LongTerm
+197,November,4,10,1830.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Owner,Dublin City North,1,915.0,LongTerm
+198,November,4,10,3350.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Estate Agent,Dublin City South,2,1675.0,ShortTerm
+199,November,4,10,5850.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,No,No,12,Estate Agent,Dublin City North,1,1950.0,LongTerm
+200,November,4,10,1660.0,EUR,Apartment,South Co Dublin,2,2,Yes,No,12,Estate Agent,South Co Dublin,,830.0,LongTerm
+201,November,4,11,6430.0,EUR,House,Dublin City South - Dublin 6,4,3,Yes,Yes,12,Estate Agent,Dublin City South,6,1607.5,LongTerm
+202,November,4,11,2520.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,3,Estate Agent,Dublin City South,2,2520.0,ShortTerm
+203,November,4,11,1800.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1800.0,LongTerm
+204,November,4,11,1510.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,6,Estate Agent,Dublin City North,1,755.0,ShortTerm
+205,November,4,11,2360.0,EUR,Apartment,Dublin City South - Dublin 4,2,2,Yes,,12,Estate Agent,Dublin City South,4,1180.0,LongTerm
+206,November,4,11,2690.0,EUR,Apartment,Dublin City South - Dublin 18,2,1,Yes,No,6,Estate Agent,Dublin City South,18,1345.0,ShortTerm
+207,November,4,11,940.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,940.0,LongTerm
+208,November,4,11,2970.0,EUR,House,Dublin City South - Dublin 2,4,3,Yes,Yes,12,Estate Agent,Dublin City South,2,742.5,LongTerm
+209,November,4,11,1480.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,No,No,12,Estate Agent,Dublin City South,6W,740.0,LongTerm
+210,November,4,11,2780.0,EUR,Apartment,Dublin City North - Dublin 13,3,1,No,No,12,Estate Agent,Dublin City North,13,926.67,LongTerm
+211,November,4,11,2230.0,EUR,Apartment,Dublin City North - Dublin 11,2,1,Yes,No,6,Estate Agent,Dublin City North,11,1115.0,ShortTerm
+212,November,4,11,2370.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Estate Agent,Dublin City South,2,2370.0,LongTerm
+213,November,4,11,4420.0,EUR,House,Dublin City North - Dublin 9,3,2,,Yes,12,Estate Agent,Dublin City North,9,1473.33,LongTerm
+214,November,4,11,1160.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1160.0,LongTerm
+215,November,4,11,2670.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,Yes,No,3,Estate Agent,Dublin City South,8,2670.0,ShortTerm
+216,November,4,11,2100.0,EUR,Apartment,Dublin City North - Dublin 5,1,1,,No,12,Owner,Dublin City North,5,2100.0,LongTerm
+217,November,4,11,1310.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1310.0,LongTerm
+218,November,4,11,1480.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1480.0,LongTerm
+219,November,4,11,2210.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,6,Estate Agent,Dublin City South,2,2210.0,ShortTerm
+220,November,4,11,3820.0,EUR,House,Dublin City South - Dublin 10,3,1,Yes,Yes,12,Owner,Dublin City South,10,1273.33,LongTerm
+221,November,4,12,3060.0,EUR,House,Dublin City North - Dublin 9,3,1,No,Yes,12,Estate Agent,Dublin City North,9,1020.0,LongTerm
+222,November,4,12,1860.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,6,Owner,Dublin City South,2,1860.0,ShortTerm
+223,November,4,12,6100.0,EUR,Apartment,Dublin City South - Dublin 2,3,1,No,No,12,Owner,Dublin City South,2,2033.33,LongTerm
+224,November,4,12,1300.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,6,Owner,Dublin City North,1,1300.0,ShortTerm
+225,November,4,12,4900.0,EUR,House,Dublin City North - Dublin 11,4,4,Yes,Yes,12,Estate Agent,Dublin City North,11,1225.0,LongTerm
+226,November,4,12,3760.0,EUR,House,Dublin City North - Dublin 11,4,3,Yes,Yes,12,Estate Agent,Dublin City North,11,940.0,LongTerm
+227,November,4,12,2050.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2050.0,LongTerm
+228,November,4,12,3630.0,EUR,House,South Co Dublin,3,2,Yes,Yes,6,Estate Agent,South Co Dublin,,1210.0,ShortTerm
+229,November,4,12,2250.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2250.0,LongTerm
+230,November,4,12,2820.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1410.0,LongTerm
+231,November,4,12,5340.0,EUR,House,North Co Dublin,4,3,Yes,Yes,3,Owner,North Co Dublin,,1335.0,ShortTerm
+232,November,4,12,1390.0,EUR,Apartment,Dublin City South - Dublin 18,1,1,No,No,12,Estate Agent,Dublin City South,18,1390.0,LongTerm
+233,November,4,12,2720.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1360.0,LongTerm
+234,November,4,12,5310.0,EUR,House,Dublin City South - Dublin 18,3,2,No,Yes,12,Estate Agent,Dublin City South,18,1770.0,LongTerm
+235,November,4,12,1700.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,12,Estate Agent,Dublin City South,2,1700.0,LongTerm
+236,November,4,12,4520.0,EUR,House,Dublin City North - Dublin 11,4,1,Yes,Yes,6,Estate Agent,Dublin City North,11,1130.0,ShortTerm
+237,November,4,12,4570.0,EUR,Apartment,Dublin City North - Dublin 7,3,1,No,No,,Estate Agent,Dublin City North,7,1523.33,Unknown
+238,November,4,12,5410.0,EUR,House,Dublin City South - Dublin 2,3,1,Yes,,6,Estate Agent,Dublin City South,2,1803.33,ShortTerm
+239,November,4,12,1960.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,1960.0,LongTerm
+240,November,4,12,3150.0,EUR,House,Dublin City South - Dublin 12,3,2,No,Yes,12,Estate Agent,Dublin City South,12,1050.0,LongTerm
+241,November,4,13,4310.0,EUR,Apartment,Dublin City North - Dublin 1,3,2,Yes,No,12,Owner,Dublin City North,1,1436.67,LongTerm
+242,November,4,13,4120.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,No,,6,Owner,Dublin City South,2,1373.33,ShortTerm
+243,November,4,13,2870.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,,Owner,Dublin City North,1,1435.0,Unknown
+244,November,4,13,4440.0,EUR,House,Dublin City South - Dublin 20,3,2,No,Yes,3,Owner,Dublin City South,20,1480.0,ShortTerm
+245,November,4,13,2810.0,EUR,Apartment,Dublin City North - Dublin 5,2,2,No,No,12,Estate Agent,Dublin City North,5,1405.0,LongTerm
+246,November,4,13,2150.0,EUR,Apartment,Dublin City North - Dublin 5,1,1,No,No,12,Estate Agent,Dublin City North,5,2150.0,LongTerm
+247,November,4,13,4920.0,EUR,House,Dublin City South - Dublin 20,3,1,No,Yes,12,Estate Agent,Dublin City South,20,1640.0,LongTerm
+248,November,4,13,4060.0,EUR,House,Dublin City North - Dublin 11,4,1,No,Yes,6,Owner,Dublin City North,11,1015.0,ShortTerm
+249,November,4,13,1950.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,12,Estate Agent,Dublin City North,1,1950.0,LongTerm
+250,November,4,13,3070.0,EUR,House,North Co Dublin,4,4,Yes,Yes,6,Owner,North Co Dublin,,767.5,ShortTerm
+251,November,4,13,6020.0,EUR,House,Dublin City South - Dublin 16,5,3,Yes,Yes,3,Estate Agent,Dublin City South,16,1204.0,ShortTerm
+252,November,4,13,4290.0,EUR,House,Dublin City North - Dublin 13,3,2,No,Yes,12,Owner,Dublin City North,13,1430.0,LongTerm
+253,November,4,13,2140.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,No,No,6,Estate Agent,Dublin City South,6W,1070.0,ShortTerm
+254,November,4,13,4000.0,EUR,House,Dublin City North - Dublin 5,3,1,Yes,No,3,Owner,Dublin City North,5,1333.33,ShortTerm
+255,November,4,13,4250.0,EUR,House,Dublin City South - Dublin 6,3,2,Yes,Yes,3,Owner,Dublin City South,6,1416.67,ShortTerm
+256,November,4,13,1950.0,EUR,Apartment,Dublin City North - Dublin 3,1,1,,No,12,Owner,Dublin City North,3,1950.0,LongTerm
+257,November,4,13,1630.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,815.0,LongTerm
+258,November,4,13,4090.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,3,Estate Agent,Dublin City North,1,2045.0,ShortTerm
+259,November,4,13,2930.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,No,No,,Owner,Dublin City South,6,1465.0,Unknown
+260,November,4,13,1380.0,EUR,Apartment,Dublin City South - Dublin 8,1,1,No,No,12,Estate Agent,Dublin City South,8,1380.0,LongTerm
+261,November,4,14,5650.0,EUR,House,Dublin City South - Dublin 10,4,4,No,Yes,3,Owner,Dublin City South,10,1412.5,ShortTerm
+262,November,4,14,5080.0,EUR,House,Dublin City South - Dublin 6,4,1,Yes,Yes,3,Owner,Dublin City South,6,1270.0,ShortTerm
+263,November,4,14,2420.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,No,No,12,Estate Agent,Dublin City North,7,1210.0,LongTerm
+264,November,4,14,1420.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Owner,Dublin City North,1,710.0,LongTerm
+265,November,4,14,3140.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1570.0,LongTerm
+266,November,4,14,2290.0,EUR,Apartment,Dublin City North - Dublin 7,2,2,No,No,12,Estate Agent,Dublin City North,7,1145.0,LongTerm
+267,November,4,14,5040.0,EUR,Apartment,Dublin City South - Dublin 12,3,1,Yes,No,6,Owner,Dublin City South,12,1680.0,ShortTerm
+268,November,4,14,3070.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1535.0,LongTerm
+269,November,4,14,3460.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,12,Estate Agent,Dublin City South,2,1730.0,LongTerm
+270,November,4,14,760.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,No,No,12,Estate Agent,Dublin City South,20,760.0,LongTerm
+271,November,4,14,2970.0,EUR,Apartment,Dublin City South - Dublin 8,2,2,No,No,,Estate Agent,Dublin City South,8,1485.0,Unknown
+272,November,4,14,4410.0,EUR,House,Dublin City North - Dublin 5,3,1,Yes,Yes,3,Owner,Dublin City North,5,1470.0,ShortTerm
+273,November,4,14,1820.0,EUR,Apartment,Dublin City South - Dublin 12,1,2,,No,12,Owner,Dublin City South,12,1820.0,LongTerm
+274,November,4,14,2140.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Estate Agent,Dublin City North,1,2140.0,LongTerm
+275,November,4,14,3370.0,EUR,House,Dublin City South - Dublin 16,1,1,Yes,No,3,Owner,Dublin City South,16,3370.0,ShortTerm
+276,November,4,14,7640.0,EUR,House,Dublin City North - Dublin 1,4,3,Yes,Yes,3,Estate Agent,Dublin City North,1,1910.0,ShortTerm
+277,November,4,14,1880.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1880.0,LongTerm
+278,November,4,14,2490.0,EUR,Apartment,Dublin City North - Dublin 7,2,1,No,No,6,Estate Agent,Dublin City North,7,1245.0,ShortTerm
+279,November,4,14,2150.0,EUR,Apartment,South Co Dublin,1,2,No,No,12,Owner,South Co Dublin,,2150.0,LongTerm
+280,November,4,14,5200.0,EUR,House,Dublin City North - Dublin 11,4,3,,Yes,12,Owner,Dublin City North,11,1300.0,LongTerm
+281,November,4,15,1670.0,EUR,Apartment,Dublin City South - Dublin 14,1,2,No,No,3,Estate Agent,Dublin City South,14,1670.0,ShortTerm
+282,November,4,15,3840.0,EUR,House,Dublin City South - Dublin 18,4,1,Yes,Yes,12,Estate Agent,Dublin City South,18,960.0,LongTerm
+283,November,4,15,3030.0,EUR,House,Dublin City South - Dublin 16,3,2,Yes,Yes,6,Estate Agent,Dublin City South,16,1010.0,ShortTerm
+284,November,4,15,4400.0,EUR,House,Dublin City North - Dublin 1,4,1,No,Yes,12,Estate Agent,Dublin City North,1,1100.0,LongTerm
+285,November,4,15,4690.0,EUR,House,Dublin City South - Dublin 22,2,1,Yes,Yes,12,Estate Agent,Dublin City South,22,2345.0,LongTerm
+286,November,4,15,3160.0,EUR,House,Dublin City North - Dublin 1,4,4,Yes,Yes,12,Estate Agent,Dublin City North,1,790.0,LongTerm
+287,November,4,15,2400.0,EUR,Apartment,Dublin City South - Dublin 6,2,1,No,No,6,Owner,Dublin City South,6,1200.0,ShortTerm
+288,November,4,15,1100.0,EUR,Apartment,Dublin City North - Dublin 5,1,2,No,No,6,Owner,Dublin City North,5,1100.0,ShortTerm
+289,November,4,15,5470.0,EUR,House,Dublin City South - Dublin 6W,4,1,No,Yes,6,Estate Agent,Dublin City South,6W,1367.5,ShortTerm
+290,November,4,15,2280.0,EUR,Apartment,Dublin City North - Dublin 9,2,2,Yes,,6,Estate Agent,Dublin City North,9,1140.0,ShortTerm
+291,November,4,15,1530.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,Yes,No,6,Estate Agent,Dublin City South,2,765.0,ShortTerm
+292,November,4,15,2420.0,EUR,House,Dublin City North - Dublin 7,3,2,Yes,No,12,Owner,Dublin City North,7,806.67,LongTerm
+293,November,4,15,2020.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,2020.0,LongTerm
+294,November,4,15,6140.0,EUR,House,Dublin City South - Dublin 2,1,1,No,Yes,6,Owner,Dublin City South,2,6140.0,ShortTerm
+295,November,4,15,3670.0,EUR,House,Dublin City North - Dublin 3,2,1,No,Yes,6,Estate Agent,Dublin City North,3,1835.0,ShortTerm
+296,November,4,15,5310.0,EUR,House,Dublin City South - Dublin 2,4,2,Yes,Yes,12,Estate Agent,Dublin City South,2,1327.5,LongTerm
+297,November,4,15,1690.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,No,12,Owner,Dublin City North,1,1690.0,LongTerm
+298,November,4,15,1130.0,EUR,Apartment,Dublin City South - Dublin 8,1,2,No,,12,Estate Agent,Dublin City South,8,1130.0,LongTerm
+299,November,4,15,1160.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1160.0,LongTerm
+300,November,4,15,1970.0,EUR,Apartment,Dublin City South - Dublin 16,2,1,No,No,12,Owner,Dublin City South,16,985.0,LongTerm
+301,November,4,16,1300.0,EUR,Apartment,South Co Dublin,2,2,No,No,12,Estate Agent,South Co Dublin,,650.0,LongTerm
+302,November,4,16,1570.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,No,No,12,Estate Agent,Dublin City North,9,1570.0,LongTerm
+303,November,4,16,2370.0,EUR,House,Dublin City South - Dublin 2,3,2,No,No,12,Owner,Dublin City South,2,790.0,LongTerm
+304,November,4,16,2580.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1290.0,LongTerm
+305,November,4,16,910.0,EUR,Apartment,Dublin City North - Dublin 7,1,2,No,No,12,Owner,Dublin City North,7,910.0,LongTerm
+306,November,4,16,5130.0,EUR,House,Dublin City South - Dublin 14,3,2,Yes,Yes,12,Estate Agent,Dublin City South,14,1710.0,LongTerm
+307,November,4,16,1420.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,Yes,No,12,Estate Agent,Dublin City North,1,710.0,LongTerm
+308,November,4,16,4670.0,EUR,House,Dublin City North - Dublin 13,3,1,Yes,,12,Owner,Dublin City North,13,1556.67,LongTerm
+309,November,4,16,2240.0,EUR,Apartment,Dublin City North - Dublin 15,3,1,No,No,12,Estate Agent,Dublin City North,15,746.67,LongTerm
+310,November,4,16,6310.0,EUR,House,Dublin City South - Dublin 2,3,2,Yes,Yes,6,Owner,Dublin City South,2,2103.33,ShortTerm
+311,November,4,16,2700.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,1350.0,LongTerm
+312,November,4,16,2400.0,EUR,House,Dublin City North - Dublin 17,3,1,Yes,Yes,12,Owner,Dublin City North,17,800.0,LongTerm
+313,November,4,16,2580.0,EUR,Apartment,Dublin City South - Dublin 4,1,1,No,No,12,Owner,Dublin City South,4,2580.0,LongTerm
+314,November,4,16,2230.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,2230.0,LongTerm
+315,November,4,16,4850.0,EUR,House,Dublin City South - Dublin 10,5,2,No,Yes,12,Estate Agent,Dublin City South,10,970.0,LongTerm
+316,November,4,16,1750.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1750.0,LongTerm
+317,November,4,16,780.0,EUR,Apartment,North Co Dublin,1,1,No,No,12,Estate Agent,North Co Dublin,,780.0,LongTerm
+318,November,4,16,2380.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,12,Estate Agent,Dublin City North,1,1190.0,LongTerm
+319,November,4,16,2470.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1235.0,LongTerm
+320,November,4,16,1550.0,EUR,Apartment,Dublin City South - Dublin 4,2,1,No,No,12,Owner,Dublin City South,4,775.0,LongTerm
+321,December,4,17,2260.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,1130.0,LongTerm
+322,December,4,17,2590.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Estate Agent,Dublin City North,1,863.33,LongTerm
+323,December,4,17,1230.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,,12,Estate Agent,Dublin City North,1,1230.0,LongTerm
+324,December,4,17,1900.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1900.0,LongTerm
+325,December,4,17,2230.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,3,Estate Agent,Dublin City North,1,1115.0,ShortTerm
+326,December,4,17,4700.0,EUR,House,Dublin City South - Dublin 20,4,3,No,Yes,12,Estate Agent,Dublin City South,20,1175.0,LongTerm
+327,December,4,17,2460.0,EUR,Apartment,Dublin City South - Dublin 14,2,2,,,6,Owner,Dublin City South,14,1230.0,ShortTerm
+328,December,4,17,2330.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,6,Estate Agent,Dublin City South,2,1165.0,ShortTerm
+329,December,4,17,2000.0,EUR,Apartment,South Co Dublin,1,1,No,No,6,Estate Agent,South Co Dublin,,2000.0,ShortTerm
+330,December,4,17,1280.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Owner,Dublin City North,1,1280.0,LongTerm
+331,December,4,17,1320.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1320.0,LongTerm
+332,December,4,17,1730.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,No,No,12,Owner,Dublin City South,4,1730.0,LongTerm
+333,December,4,17,1720.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,No,,12,Estate Agent,Dublin City North,1,1720.0,LongTerm
+334,December,4,17,1830.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,915.0,LongTerm
+335,December,4,17,1500.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,1500.0,LongTerm
+336,December,4,17,1680.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,Yes,No,3,Estate Agent,Dublin City North,1,1680.0,ShortTerm
+337,December,4,17,1350.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1350.0,LongTerm
+338,December,4,17,3940.0,EUR,House,Dublin City North - Dublin 11,4,1,No,Yes,12,Estate Agent,Dublin City North,11,985.0,LongTerm
+339,December,4,17,3870.0,EUR,House,Dublin City North - Dublin 1,3,2,,Yes,6,Estate Agent,Dublin City North,1,1290.0,ShortTerm
+340,December,4,17,850.0,EUR,Apartment,Dublin City North - Dublin 11,1,1,No,No,12,Estate Agent,Dublin City North,11,850.0,LongTerm
+341,December,4,18,3470.0,EUR,Apartment,Dublin City South - Dublin 4,2,2,No,No,12,Owner,Dublin City South,4,1735.0,LongTerm
+342,December,4,18,2280.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,Yes,No,12,Owner,Dublin City South,2,2280.0,LongTerm
+343,December,4,18,3770.0,EUR,House,Dublin City South - Dublin 4,3,2,Yes,Yes,6,Owner,Dublin City South,4,1256.67,ShortTerm
+344,December,4,18,2320.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Owner,Dublin City North,1,2320.0,LongTerm
+345,December,4,18,1780.0,EUR,Apartment,North Co Dublin,2,1,No,No,3,Estate Agent,North Co Dublin,,890.0,ShortTerm
+346,December,4,18,1140.0,EUR,Apartment,Dublin City North - Dublin 1,1,2,Yes,No,12,Estate Agent,Dublin City North,1,1140.0,LongTerm
+347,December,4,18,4650.0,EUR,House,Dublin City South - Dublin 16,3,2,Yes,Yes,6,Owner,Dublin City South,16,1550.0,ShortTerm
+348,December,4,18,2530.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,No,12,Estate Agent,Dublin City South,2,2530.0,LongTerm
+349,December,4,18,1360.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1360.0,LongTerm
+350,December,4,18,2500.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,6,Estate Agent,Dublin City North,1,833.33,ShortTerm
+351,December,4,18,3850.0,EUR,House,South Co Dublin,3,2,Yes,Yes,6,Owner,South Co Dublin,,1283.33,ShortTerm
+352,December,4,18,3980.0,EUR,House,Dublin City South - Dublin 24,3,2,Yes,Yes,12,Estate Agent,Dublin City South,24,1326.67,LongTerm
+353,December,4,18,3020.0,EUR,House,Dublin City North - Dublin 5,3,1,No,Yes,12,Estate Agent,Dublin City North,5,1006.67,LongTerm
+354,December,4,18,3800.0,EUR,House,Dublin City South - Dublin 2,3,1,No,Yes,12,Estate Agent,Dublin City South,2,1266.67,LongTerm
+355,December,4,18,1430.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,715.0,LongTerm
+356,December,4,18,3340.0,EUR,House,Dublin City North - Dublin 13,3,1,Yes,Yes,6,Owner,Dublin City North,13,1113.33,ShortTerm
+357,December,4,18,1060.0,EUR,Apartment,Dublin City South - Dublin 2,1,2,No,,6,Owner,Dublin City South,2,1060.0,ShortTerm
+358,December,4,18,1540.0,EUR,Apartment,Dublin City North - Dublin 9,2,1,No,No,12,Estate Agent,Dublin City North,9,770.0,LongTerm
+359,December,4,18,1210.0,EUR,Apartment,Dublin City South - Dublin 20,2,1,No,No,12,Owner,Dublin City South,20,605.0,LongTerm
+360,December,4,18,2360.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1180.0,LongTerm
+361,December,4,19,2820.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Owner,Dublin City North,1,1410.0,LongTerm
+362,December,4,19,2140.0,EUR,Apartment,Dublin City South - Dublin 6W,1,2,No,,12,Estate Agent,Dublin City South,6W,2140.0,LongTerm
+363,December,4,19,1910.0,EUR,Apartment,Dublin City North - Dublin 15,2,2,No,No,3,Estate Agent,Dublin City North,15,955.0,ShortTerm
+364,December,4,19,2760.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1380.0,LongTerm
+365,December,4,19,2850.0,EUR,Apartment,Dublin City North - Dublin 13,3,2,No,No,12,Estate Agent,Dublin City North,13,950.0,LongTerm
+366,December,4,19,4310.0,EUR,House,Dublin City North - Dublin 17,3,2,Yes,Yes,12,Owner,Dublin City North,17,1436.67,LongTerm
+367,December,4,19,3210.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1605.0,LongTerm
+368,December,4,19,1630.0,EUR,Apartment,Dublin City North - Dublin 9,1,1,No,No,12,Estate Agent,Dublin City North,9,1630.0,LongTerm
+369,December,4,19,2740.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,No,No,12,Estate Agent,Dublin City South,4,2740.0,LongTerm
+370,December,4,19,2630.0,EUR,House,Dublin City South - Dublin 10,3,2,Yes,Yes,12,Estate Agent,Dublin City South,10,876.67,LongTerm
+371,December,4,19,3020.0,EUR,Apartment,Dublin City South - Dublin 2,2,2,No,No,12,Estate Agent,Dublin City South,2,1510.0,LongTerm
+372,December,4,19,3900.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,3,Owner,Dublin City North,1,1950.0,ShortTerm
+373,December,4,19,3000.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,Yes,No,3,Owner,Dublin City North,1,1500.0,ShortTerm
+374,December,4,19,2160.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Owner,Dublin City South,2,1080.0,LongTerm
+375,December,4,19,2110.0,EUR,Apartment,Dublin City South - Dublin 6,2,2,No,No,12,Estate Agent,Dublin City South,6,1055.0,LongTerm
+376,December,4,19,2200.0,EUR,Apartment,Dublin City South - Dublin 6,1,2,No,No,3,Estate Agent,Dublin City South,6,2200.0,ShortTerm
+377,December,4,19,1840.0,EUR,Apartment,Dublin City South - Dublin 24,1,1,No,,12,Owner,Dublin City South,24,1840.0,LongTerm
+378,December,4,19,2150.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,No,No,3,Estate Agent,Dublin City South,20,2150.0,ShortTerm
+379,December,4,19,1380.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,Yes,No,6,Estate Agent,Dublin City South,2,690.0,ShortTerm
+380,December,4,19,2010.0,EUR,Apartment,Dublin City South - Dublin 6W,2,2,No,No,12,Owner,Dublin City South,6W,1005.0,LongTerm
+381,December,4,20,2230.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1115.0,LongTerm
+382,December,4,20,2190.0,EUR,Apartment,Dublin City South - Dublin 6W,2,1,No,No,12,Estate Agent,Dublin City South,6W,1095.0,LongTerm
+383,December,4,20,2550.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,12,Owner,Dublin City North,1,850.0,LongTerm
+384,December,4,20,810.0,EUR,Apartment,Dublin City North - Dublin 17,1,2,Yes,No,12,Owner,Dublin City North,17,810.0,LongTerm
+385,December,4,20,1550.0,EUR,Apartment,Dublin City South - Dublin 16,1,1,Yes,No,12,Estate Agent,Dublin City South,16,1550.0,LongTerm
+386,December,4,20,1960.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,,No,6,Estate Agent,Dublin City South,2,1960.0,ShortTerm
+387,December,4,20,2260.0,EUR,Apartment,Dublin City South - Dublin 10,2,2,Yes,No,6,Estate Agent,Dublin City South,10,1130.0,ShortTerm
+388,December,4,20,3530.0,EUR,House,Dublin City South - Dublin 6,2,2,Yes,Yes,3,Estate Agent,Dublin City South,6,1765.0,ShortTerm
+389,December,4,20,3100.0,EUR,Apartment,Dublin City North - Dublin 5,3,2,No,,12,Estate Agent,Dublin City North,5,1033.33,LongTerm
+390,December,4,20,1430.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,715.0,LongTerm
+391,December,4,20,4840.0,EUR,Apartment,Dublin City North - Dublin 1,3,1,No,No,6,Estate Agent,Dublin City North,1,1613.33,ShortTerm
+392,December,4,20,2040.0,EUR,Apartment,Dublin City North - Dublin 17,2,2,No,No,3,Estate Agent,Dublin City North,17,1020.0,ShortTerm
+393,December,4,20,1070.0,EUR,Apartment,Dublin City North - Dublin 3,1,2,No,No,12,Estate Agent,Dublin City North,3,1070.0,LongTerm
+394,December,4,20,5480.0,EUR,House,Dublin City North - Dublin 7,3,1,Yes,Yes,12,Owner,Dublin City North,7,1826.67,LongTerm
+395,December,4,20,2280.0,EUR,Apartment,Dublin City South - Dublin 2,3,2,No,No,12,Estate Agent,Dublin City South,2,760.0,LongTerm
+396,December,4,20,3470.0,EUR,House,Dublin City South - Dublin 8,4,2,Yes,Yes,6,Estate Agent,Dublin City South,8,867.5,ShortTerm
+397,December,4,20,3830.0,EUR,House,Dublin City South - Dublin 10,4,3,Yes,Yes,6,Estate Agent,Dublin City South,10,957.5,ShortTerm
+398,December,4,20,2270.0,EUR,Apartment,North Co Dublin,2,2,Yes,No,3,Estate Agent,North Co Dublin,,1135.0,ShortTerm
+399,December,4,20,1370.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,No,12,Estate Agent,Dublin City South,2,1370.0,LongTerm
+400,December,4,20,2300.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,2300.0,LongTerm
+401,December,4,21,3180.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,Yes,No,12,Estate Agent,Dublin City North,1,1590.0,LongTerm
+402,December,4,21,5120.0,EUR,House,Dublin City North - Dublin 13,2,2,No,Yes,6,Owner,Dublin City North,13,2560.0,ShortTerm
+403,December,4,21,960.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,960.0,LongTerm
+404,December,4,21,1590.0,EUR,Apartment,Dublin City North - Dublin 5,1,1,No,No,12,Estate Agent,Dublin City North,5,1590.0,LongTerm
+405,December,4,21,1400.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,700.0,LongTerm
+406,December,4,21,1650.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,825.0,LongTerm
+407,December,4,21,4570.0,EUR,House,Dublin City South - Dublin 16,3,1,No,Yes,12,Owner,Dublin City South,16,1523.33,LongTerm
+408,December,4,21,1030.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,No,12,Owner,Dublin City North,3,515.0,LongTerm
+409,December,4,21,1170.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,Yes,No,12,Estate Agent,Dublin City South,2,1170.0,LongTerm
+410,December,4,21,2430.0,EUR,Apartment,Dublin City South - Dublin 2,1,1,No,,12,Estate Agent,Dublin City South,2,2430.0,LongTerm
+411,December,4,21,1680.0,EUR,Apartment,Dublin City South - Dublin 20,1,1,Yes,No,12,Estate Agent,Dublin City South,20,1680.0,LongTerm
+412,December,4,21,1520.0,EUR,Apartment,Dublin City South - Dublin 16,2,2,No,No,12,Owner,Dublin City South,16,760.0,LongTerm
+413,December,4,21,1980.0,EUR,Apartment,Dublin City North - Dublin 1,2,2,No,No,12,Estate Agent,Dublin City North,1,990.0,LongTerm
+414,December,4,21,1120.0,EUR,Apartment,Dublin City South - Dublin 14,1,1,Yes,No,12,Estate Agent,Dublin City South,14,1120.0,LongTerm
+415,December,4,21,1240.0,EUR,Apartment,Dublin City North - Dublin 3,2,1,No,No,12,Estate Agent,Dublin City North,3,620.0,LongTerm
+416,December,4,21,880.0,EUR,Apartment,South Co Dublin,1,1,No,No,12,Estate Agent,South Co Dublin,,880.0,LongTerm
+417,December,4,21,1960.0,EUR,Apartment,Dublin City South - Dublin 22,2,2,Yes,No,12,Estate Agent,Dublin City South,22,980.0,LongTerm
+418,December,4,21,1740.0,EUR,Apartment,Dublin City South - Dublin 2,2,1,No,No,12,Estate Agent,Dublin City South,2,870.0,LongTerm
+419,December,4,21,5750.0,EUR,House,Dublin City North - Dublin 5,3,1,Yes,Yes,3,Estate Agent,Dublin City North,5,1916.67,ShortTerm
+420,December,4,21,1880.0,EUR,Apartment,Dublin City North - Dublin 1,1,1,No,No,12,Estate Agent,Dublin City North,1,1880.0,LongTerm
+421,December,4,22,2670.0,EUR,Apartment,Dublin City South - Dublin 4,1,2,No,No,6,Estate Agent,Dublin City South,4,2670.0,ShortTerm
+422,December,4,22,3050.0,EUR,Apartment,Dublin City North - Dublin 11,3,1,No,No,12,Owner,Dublin City North,11,1016.67,LongTerm
+423,December,4,22,2060.0,EUR,Apartment,Dublin City North - Dublin 1,2,1,No,No,12,Estate Agent,Dublin City North,1,1030.0,LongTerm
+424,December,4,22,4530.0,EUR,Apartment,Dublin City North - Dublin 9,3,1,,No,12,Estate Agent,Dublin City North,9,1510.0,LongTerm
+425,December,4,22,6700.0,EUR,House,Dublin City North - Dublin 7,3,2,Yes,,3,Owner,Dublin City North,7,2233.33,ShortTerm
